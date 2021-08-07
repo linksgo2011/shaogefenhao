@@ -9,6 +9,7 @@ module.exports = [
     {
         text: '架构', link: '/pages/architecture/', items: [
             {text: '软件架构介绍', link: '/pages/architecture/'},
+            {text: 'DDD 分层模型', link: '/pages/architecture/micro-service/'},
             {text: '微服务', link: '/pages/architecture/micro-service/'},
             {text: '高并发', link: '/pages/architecture/performance/'},
         ]
@@ -17,7 +18,8 @@ module.exports = [
         text: '规范', link: '/pages/specification/', items: [
             {text: '软件规范化设计', link: '/pages/specification/'},
             {text: 'Java 规范', link: '/pages/specification/java/'},
-            {text: '前端 规范', link: '/pages/specification/frontend/'},
+            {text: '前端规范', link: '/pages/specification/frontend/'},
+            {text: '数据库规范', link: '/pages/specification/database/'},
         ]
     },
     {
