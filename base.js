@@ -1,1 +1,1 @@
-module.exports = '/shaogefenhao/'
+module.exports = '/'

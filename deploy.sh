@@ -9,7 +9,8 @@ initDist(){
   cd docs/.vuepress/dist
 }
 
-initDist "module.exports = '/shaogefenhao/'"
+initDist "module.exports = '/'"
+echo 'shaogefenhao.com' > CNAME
 # echo 'google.com, pub-7828333725993554, DIRECT, f08c47fec0942fa0' > ads.txt # 谷歌广告相关文件
 
 # deploy to github
