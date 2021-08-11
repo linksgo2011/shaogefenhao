@@ -2,6 +2,10 @@
 title: mysql 存储过程编写示例
 categories: mysql
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/33e81a/
+tags: 
+  - 
 ---
 
 ## 一个创建模拟数据的存储过程

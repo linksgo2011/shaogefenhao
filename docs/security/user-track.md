@@ -2,6 +2,10 @@
 title: Web客户端追踪（cookie、浏览器指纹 ）
 categories: 安全
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/a57a44/
+tags: 
+  - 
 ---
 
 Web客户端追踪，主要是指用户使用客户端（通常是指浏览器）访问Web网站时，Web服务器通过一系列手段对用户客户端进行标记和识别，进而关联和分析用户行为的技术。

@@ -3,6 +3,10 @@ title: Java 一些开源后台管理种子项目
 categories: 技术架构
 toc: true
 from: self
+date: 2021-08-11 19:18:35
+permalink: /pages/6c8aa8/
+tags: 
+  - 
 ---
 
 ## 背景

@@ -1,6 +1,10 @@
 ---
 title: Java 内存回收机制
 categories: java
+date: 2021-08-11 19:18:36
+permalink: /pages/46f95a/
+tags: 
+  - 
 ---
 
 ## java 8 基本机制

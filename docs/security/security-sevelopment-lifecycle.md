@@ -2,6 +2,10 @@
 title: 微软SDL( Security Development Lifecycle)流程
 categories: 安全
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/8b5615/
+tags: 
+  - 
 ---
 
 ## 简介

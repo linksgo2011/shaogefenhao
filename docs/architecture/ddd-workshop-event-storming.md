@@ -2,6 +2,10 @@
 title: DDD 建模工作坊 Event Storming 指南
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/04c031/
+tags: 
+  - 
 ---
 
 DDD 的概念中统一语言非常重要，于是协作式的建模就很有意义。工作坊（workshop）是海外软件公司常用的工作方式，Event Storming 是 Alberto Brandolini 在长期建模活动中探索出的一种工作坊形式。

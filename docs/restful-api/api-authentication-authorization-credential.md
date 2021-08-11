@@ -3,6 +3,10 @@ title: API 文档和前后端协作
 categories: API设计
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/bdc2c0/
+tags: 
+  - 
 ---
 
 在一些互联网公司的面试中，面试官往往会问这样一个问题：

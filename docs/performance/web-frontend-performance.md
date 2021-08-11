@@ -2,6 +2,10 @@
 title: 前端性能优化
 categories: 性能优化
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/210a13/
+tags: 
+  - 
 ---
 
 减少http请求，使用图片拼合压缩 、压缩css、压缩js

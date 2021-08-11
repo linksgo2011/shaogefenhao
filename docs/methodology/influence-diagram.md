@@ -1,6 +1,10 @@
 ---
 title: 影响图 (Influence diagram)
 categories: 理论方法
+date: 2021-08-11 19:18:36
+permalink: /pages/4be667/
+tags: 
+  - 
 ---
 
 一种分析复杂问题的方法论，通过图表表达事物之间的关系和因果，即事物之间的相互影响。

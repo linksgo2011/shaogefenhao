@@ -1,7 +1,11 @@
 ---
 title: 我的极简生活管理
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/3b7300/
+tags: 
+  - 
 ---
 
 1. 少衣：每个季节成套的衣物 3 套即可，多余的可以丢掉。

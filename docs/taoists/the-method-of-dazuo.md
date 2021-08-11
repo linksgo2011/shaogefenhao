@@ -2,6 +2,10 @@
 title: 打坐修行的方法
 categories: taoists
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/e89784/
+tags: 
+  - 
 ---
 
 ### 炼心

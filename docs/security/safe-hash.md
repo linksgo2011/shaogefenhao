@@ -3,6 +3,10 @@ title: 使用 Bcrypt 代替 md5/sha1
 categories: 安全
 toc: true
 from: self
+date: 2021-08-11 19:18:36
+permalink: /pages/7d882b/
+tags: 
+  - 
 ---
 
 ## 背景

@@ -2,6 +2,10 @@
 title: 网页快照方案 puppeteer
 categories: 技术方案
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/e4ae4a/
+tags: 
+  - 
 ---
 
 ```

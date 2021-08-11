@@ -2,7 +2,10 @@
 title: DDD 指导微服务分布式授权设计
 categories: 技术架构
 toc: true
-
+date: 2021-08-11 19:18:35
+permalink: /pages/81a8c8/
+tags: 
+  - 
 ---
 
 应用垂直拆分后，面临的另外一个技术问题就是分布式授权问题。实际上 OAuth2 非常成熟，互联网的分布式授权体系基本都是基于 OAuth2的，使用分布式会话机制实现的 session 共享不能算严格分布式授权。讲解 OAuth2 的文章非常多，这里简单回顾一下，细节请参考相关资料 ——  之前的博客 [细说API - 认证、授权和凭证](http://www.printf.cn/index.php/archives/api-authentication-authorization-credential.html)。

@@ -2,6 +2,10 @@
 title: docker 部署机器上镜像清理
 categories: docker
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/f88218/
+tags: 
+  - 
 ---
 
 > docker rmi $(docker images --filter "dangling=true" -q) &

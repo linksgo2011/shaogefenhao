@@ -2,6 +2,10 @@
 title: 【TW 社区】ThoughtWorks DDD 社区 KICK OFF
 categories: community
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/e1fe2c/
+tags: 
+  - 
 ---
 
 

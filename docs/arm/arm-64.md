@@ -2,6 +2,10 @@
 title: AArch64 是什么
 categories: ARM
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/fb3795/
+tags: 
+  - 
 ---
 
 AArch64是ARMv8 架构的一种执行状态。

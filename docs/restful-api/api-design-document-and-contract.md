@@ -3,6 +3,10 @@ title: API 文档和前后端协作
 categories: API设计
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/2270f5/
+tags: 
+  - 
 ---
 
 在上一篇文章——《细说API - 重新认识RESTful》中介绍了如何理解和设计RESTful风格的API，现在我们来聊聊如何有效的呈现API文档，以及前后端协作的方式。

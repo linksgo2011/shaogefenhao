@@ -1,6 +1,10 @@
 ---
 title: JPA 投影
 categories: Spring
+date: 2021-08-11 19:18:36
+permalink: /pages/26d86d/
+tags: 
+  - 
 ---
 
 ## JPA 投影的用处

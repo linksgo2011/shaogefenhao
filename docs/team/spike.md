@@ -1,8 +1,12 @@
 ---
-title:  如何做好敏捷技术预研（Spike）？
+title: 如何做好敏捷技术预研（Spike）？
 categories: team
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/721199/
+tags: 
+  - 
 ---
 
 在敏捷开发中，有时会出现下面的一些问题：

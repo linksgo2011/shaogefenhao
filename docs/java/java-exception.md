@@ -1,6 +1,10 @@
 ---
 title: java 异常
 categories: java
+date: 2021-08-11 19:18:36
+permalink: /pages/2a0ba1/
+tags: 
+  - 
 ---
 
 #### 什么是异常和错误

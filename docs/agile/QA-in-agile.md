@@ -2,6 +2,10 @@
 title: 敏捷中的测试策略
 categories: 敏捷开发
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/578158/
+tags: 
+  - 
 ---
 
 ## 常用QA概念

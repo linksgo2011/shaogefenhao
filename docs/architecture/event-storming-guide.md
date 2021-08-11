@@ -2,6 +2,10 @@
 title: DDD 建模工作坊指南(事件风暴)
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/14b971/
+tags: 
+  - 
 ---
 
 ## 0 写在前面

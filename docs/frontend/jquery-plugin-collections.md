@@ -1,7 +1,11 @@
 ---
-title: jQuery 插件收集 
+title: jQuery 插件收集
 categories: 前端工程
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/47a668/
+tags: 
+  - 
 ---
 
 

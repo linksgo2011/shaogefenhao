@@ -3,6 +3,10 @@ title: 触屏网站之网站尺寸
 categories: 前端工程
 toc: true
 from: http://www.jb51.net/html5/70095.html
+date: 2021-08-11 19:18:35
+permalink: /pages/c40b3a/
+tags: 
+  - 
 ---
 
 本文分为两个部分，第一部分讨论跨平台网站的可行性，第二部分讨论viewport是如何设置的

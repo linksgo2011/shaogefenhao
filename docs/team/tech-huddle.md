@@ -2,6 +2,10 @@
 title: 如何进行技术例会？
 categories: team
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/3bbcbf/
+tags: 
+  - 
 ---
 
 在我的工作经历中，尤其是一些海外的公司，都会进行技术例会（tech-huddle）。技术例会是技术团队比较重要的一项会议。

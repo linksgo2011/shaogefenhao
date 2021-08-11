@@ -1,6 +1,10 @@
 ---
 title: 培训破冰游戏
 categories: 培训
+date: 2021-08-11 19:18:36
+permalink: /pages/35449f/
+tags: 
+  - 
 ---
 
 ## 破冰游戏

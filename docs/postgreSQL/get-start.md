@@ -2,6 +2,10 @@
 title: PostgreSQL 入门使用
 categories: postgreSQL
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/88aeab/
+tags: 
+  - 
 ---
 
 Tutorial

@@ -2,6 +2,10 @@
 title: log4j 配置
 categories: spring
 from: self
+date: 2021-08-11 19:18:36
+permalink: /pages/f09604/
+tags: 
+  - 
 ---
 
 

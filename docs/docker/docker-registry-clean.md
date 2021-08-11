@@ -2,6 +2,10 @@
 title: docker 自带镜像仓库清理
 categories: docker
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/73bd3d/
+tags: 
+  - 
 ---
 
 Docker存储使用的aufs文件系统分层存储结构,将容器文件以读写分层的形式存储在宿主机中。自带的镜像仓库删除比较麻烦，需要调用 API 删除，然后进入容器执行。

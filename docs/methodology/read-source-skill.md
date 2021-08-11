@@ -2,6 +2,10 @@
 title: 阅读源码的方法
 categories: 理论方法
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/e80d19/
+tags: 
+  - 
 ---
 
 吸收作者的思想为我所用

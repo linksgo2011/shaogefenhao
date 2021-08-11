@@ -1,7 +1,11 @@
 ---
 title: 买房注意事项和经验
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/588189/
+tags: 
+  - 
 ---
 
 

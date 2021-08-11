@@ -2,6 +2,10 @@
 title: Python 入门
 categories: python
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/742868/
+tags: 
+  - 
 ---
 
 ## 相关资源

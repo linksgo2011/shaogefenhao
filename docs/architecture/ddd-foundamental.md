@@ -3,6 +3,10 @@ title: 领域驱动设计(DDD)基础
 categories: 技术架构
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/3a0fe4/
+tags: 
+  - 
 ---
 
 领域驱动设计（DDD） 是 Eric Evans 提出的一种软件设计方法和思想，主要解决业务系统的设计和建模。DDD 有大量难以理解的概念，尤其是翻译的原因，某些词汇非常生涩，例如：模型、限界上下文、聚合、实体、值对象等。

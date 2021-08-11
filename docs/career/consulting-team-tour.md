@@ -1,7 +1,11 @@
 ---
 title: 【演讲稿】咨询游历记
-categories:  职业
+categories: 职业
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/e1b16a/
+tags: 
+  - 
 ---
 
 

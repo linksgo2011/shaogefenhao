@@ -1,3 +1,12 @@
+---
+title: normalize
+date: 2021-08-11 19:18:36
+permalink: /pages/10e9d5/
+categories:
+  - team
+tags:
+  - 
+---
 ```
 title: 软件项目规范化指南
 categories: team

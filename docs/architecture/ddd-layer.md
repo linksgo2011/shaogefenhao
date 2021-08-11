@@ -2,6 +2,10 @@
 title: 基于 DDD 理论基础的分层架构
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/851c9c/
+tags: 
+  - 
 ---
 
 主要参考下层，唯一不认同的是组件划分的方式，每层的分包逻辑肯定不一定样

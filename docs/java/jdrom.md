@@ -2,6 +2,10 @@
 title: jdorm
 categories: java
 from: self
+date: 2021-08-11 19:18:36
+permalink: /pages/213282/
+tags: 
+  - 
 ---
 
 

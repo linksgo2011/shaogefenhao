@@ -2,6 +2,10 @@
 title: 前端面试tips
 categories: 前端工程
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/334bf2/
+tags: 
+  - 
 ---
 
 ## 面试考察目标

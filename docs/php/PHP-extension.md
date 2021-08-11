@@ -2,6 +2,10 @@
 title: PHP拓展Linux/unix 下的编译安装
 categories: php
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/b3cad5/
+tags: 
+  - 
 ---
 
 在Linux下PHP如果出现了拓展不能被安装的情况时,需要自己安装拓展。

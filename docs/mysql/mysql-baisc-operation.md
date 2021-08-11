@@ -2,6 +2,10 @@
 title: Mysql 基本管理命令
 categories: mysql
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/e4904f/
+tags: 
+  - 
 ---
 
 一、从命令行登录MySQL数据库服务器 1、登录使用默认3306端口的MySQL

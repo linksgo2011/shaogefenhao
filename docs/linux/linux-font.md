@@ -2,6 +2,10 @@
 title: Linux 下字体安装
 categories: linux
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/37217e/
+tags: 
+  - 
 ---
 
 linux 下字体安装可以通过软件包的方式安装，例如 

@@ -1,7 +1,11 @@
 ---
 title: 高效工作的策略 2.0
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/567f0e/
+tags: 
+  - 
 ---
 
 

@@ -2,6 +2,10 @@
 title: vps 下 搭建vpn
 categories: 运维开发
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/310552/
+tags: 
+  - 
 ---
 
 **1、用root账户登陆服务器**

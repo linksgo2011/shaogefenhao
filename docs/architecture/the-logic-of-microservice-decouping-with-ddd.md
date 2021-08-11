@@ -3,6 +3,10 @@ title: 使用 DDD 指导微服务拆分的逻辑
 categories: 技术架构
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/004d92/
+tags: 
+  - 
 ---
 
 开发者在刚开始尝试实现自己的微服务架构时往往会产生一系列问题 ：

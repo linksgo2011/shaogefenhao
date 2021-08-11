@@ -1,6 +1,10 @@
 ---
 title: PHP环境 in Mac
 categories: php
+date: 2021-08-11 19:18:36
+permalink: /pages/ad9eca/
+tags: 
+  - 
 ---
 
 实际上Mac系统自带了PHP和Apache的开发环境

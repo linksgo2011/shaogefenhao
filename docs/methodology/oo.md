@@ -1,6 +1,10 @@
 ---
 title: 面向对象（oo）的几个原则
 categories: 理论方法
+date: 2021-08-11 19:18:36
+permalink: /pages/4d845a/
+tags: 
+  - 
 ---
 
 - 单一职责原则 一个类只做一个事

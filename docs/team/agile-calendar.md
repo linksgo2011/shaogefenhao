@@ -3,6 +3,10 @@ title: 敏捷迭代日历
 categories: team
 toc: true
 Recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/ffa02e/
+tags: 
+  - 
 ---
 
 敏捷团队使用迭代方式演进，一般是两周一个迭代一次。也就是说两周就要规划、发布一次，那么如何规划这种团队的各种活动呢？

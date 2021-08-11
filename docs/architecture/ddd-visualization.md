@@ -2,6 +2,10 @@
 title: 如何可视化的表达 DDD 的模型？
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/f1de52/
+tags: 
+  - 
 ---
 
 

@@ -2,6 +2,10 @@
 title: Maven 将本地 jar 打包到项目
 categories: java
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/9a18ad/
+tags: 
+  - 
 ---
 
 ## 使用 install 到本地仓库的方案

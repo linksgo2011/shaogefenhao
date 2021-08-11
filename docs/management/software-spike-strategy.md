@@ -3,6 +3,10 @@ title: 软件特性预研策略：预研一代,实验一代,应用一代
 categories: computer-science
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/0e977c/
+tags: 
+  - 
 ---
 
 <!--

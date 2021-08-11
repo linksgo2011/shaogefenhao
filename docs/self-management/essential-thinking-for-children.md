@@ -3,6 +3,10 @@ title: 必须教给孩子的几种思维
 categories: 自我管理
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/c5c002/
+tags: 
+  - 
 ---
 
 <!--

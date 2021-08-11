@@ -2,6 +2,10 @@
 title: maven 常见 scopes
 categories: java
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/39e3a7/
+tags: 
+  - 
 ---
 
 1. compile 默认是compile。compile表示被依赖项目需要参与当前项目的编译，包括后续的测试，运行周期也参与其中，是一个比较强的依赖。打包的时候通常需要包含进去。

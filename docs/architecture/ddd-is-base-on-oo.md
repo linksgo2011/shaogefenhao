@@ -2,6 +2,10 @@
 title: DDD 就是把面向对象做好
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/420565/
+tags: 
+  - 
 ---
 
 在 MVC 架构下写代码一直有一个问题，业务逻辑应该写 C 呢，还是写 M。

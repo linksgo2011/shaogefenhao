@@ -1,6 +1,10 @@
 ---
 title: 计算高可用方案
 categories: 技术架构
+date: 2021-08-11 19:18:35
+permalink: /pages/99f01f/
+tags: 
+  - 
 ---
 
 ## 负载均衡

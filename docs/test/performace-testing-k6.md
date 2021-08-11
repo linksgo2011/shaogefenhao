@@ -2,6 +2,10 @@
 title: 使用 k6 进行压力测试
 categories: 质量保证
 Recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/13792d/
+tags: 
+  - 
 ---
 
 ## 简介

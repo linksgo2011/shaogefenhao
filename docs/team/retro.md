@@ -2,6 +2,10 @@
 title: 用归零的心态，做好团队回顾
 categories: team
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/d5a613/
+tags: 
+  - 
 ---
 
 对于敏捷团队来说，不断成长的关键是反馈，而反馈的最大信息来源是回顾。

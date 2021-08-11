@@ -1,7 +1,11 @@
 ---
 title: 如何提高对自己情绪的控制力？
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/76704b/
+tags: 
+  - 
 ---
 
 <!--

@@ -1,7 +1,11 @@
 ---
 title: 咨询师指南
-categories:  职业
+categories: 职业
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/354d06/
+tags: 
+  - 
 ---
 
 

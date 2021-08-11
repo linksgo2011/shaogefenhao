@@ -1,7 +1,11 @@
 ---
-title: Docker 基础 
+title: Docker 基础
 categories: docker
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/ea35a5/
+tags: 
+  - 
 ---
 
 ## 常用命令

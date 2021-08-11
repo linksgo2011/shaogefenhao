@@ -2,6 +2,10 @@
 title: Alpine apk 命令
 categories: docker
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/6bf5c7/
+tags: 
+  - 
 ---
 
 ## 关于 Alpine 

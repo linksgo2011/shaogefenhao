@@ -2,6 +2,10 @@
 title: Redis 基础
 categories: Redis
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/8c4206/
+tags: 
+  - 
 ---
 
 官网: https://redis.io/ 

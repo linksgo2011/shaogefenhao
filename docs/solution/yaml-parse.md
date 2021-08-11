@@ -2,6 +2,10 @@
 title: Yaml 解析
 categories: 技术方案
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/028e53/
+tags: 
+  - 
 ---
 
 ## 使用 spring 自带功能

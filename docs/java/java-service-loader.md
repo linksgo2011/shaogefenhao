@@ -1,6 +1,10 @@
 ---
 title: Java 原生的 service loader
 categories: java
+date: 2021-08-11 19:18:36
+permalink: /pages/4d52e6/
+tags: 
+  - 
 ---
 
 Java service loader 可以通过一个接口返回一组具体点实现，在实现策略模式时，特别有用。

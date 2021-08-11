@@ -1,6 +1,10 @@
 ---
 title: linux 文件和目录操作
 categories: linux
+date: 2021-08-11 19:18:36
+permalink: /pages/458b20/
+tags: 
+  - 
 ---
 
 ## 几个特殊的相对目录

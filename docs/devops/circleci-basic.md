@@ -1,6 +1,10 @@
 ---
 title: Circle CI 基本使用
 categories: 运维开发
+date: 2021-08-11 19:18:35
+permalink: /pages/c2d8d7/
+tags: 
+  - 
 ---
 
 ## CircleCI是什么

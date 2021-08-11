@@ -2,6 +2,10 @@
 title: 敏捷实践的模型
 categories: 敏捷开发
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/c3492f/
+tags: 
+  - 
 ---
 
 ## 模型

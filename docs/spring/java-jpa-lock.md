@@ -1,6 +1,10 @@
 ---
 title: Java JPA 行锁
-categories: Spring 
+categories: Spring
+date: 2021-08-11 19:18:36
+permalink: /pages/dc4cdc/
+tags: 
+  - 
 ---
 
 ## 使用场景

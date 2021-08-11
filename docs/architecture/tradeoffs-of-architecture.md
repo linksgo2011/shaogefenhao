@@ -3,6 +3,10 @@ title: 架构中的矛盾和权衡
 categories: 技术架构
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/5cd192/
+tags: 
+  - 
 ---
 
 一个周末时间参加了架构大师的 Neal 的架构培训，由于时差的原因在周末的两个早晨。课程围绕着微服务和大型系统，在他的培训中反复提到一个词 “tradeoff” 引起了我的兴趣。

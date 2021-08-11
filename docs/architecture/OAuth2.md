@@ -1,6 +1,10 @@
 ---
 title: OAuth2 架构设计
 categories: 技术架构
+date: 2021-08-11 19:18:35
+permalink: /pages/fc30bf/
+tags: 
+  - 
 ---
 
 ## OAuth2 背景

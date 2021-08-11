@@ -2,6 +2,10 @@
 title: 单体应用 IAM 方案
 categories: 技术架构
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/9d1dbd/
+tags: 
+  - 
 ---
 
 

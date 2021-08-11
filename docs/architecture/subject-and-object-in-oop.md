@@ -1,6 +1,10 @@
 ---
 title: 面向对象中的主体客体思维
 categories: 技术架构
+date: 2021-08-11 19:18:35
+permalink: /pages/97aa7e/
+tags: 
+  - 
 ---
 
 ## 01 为什么面向对象难以理解？

@@ -1,4 +1,13 @@
 ---
+title: team-and-distributed-system
+date: 2021-08-11 19:18:36
+permalink: /pages/9109c5/
+categories:
+  - management
+tags:
+  - 
+---
+---
 title:用分布式系统思考团队管理
 categories: computer-science
 toc: true

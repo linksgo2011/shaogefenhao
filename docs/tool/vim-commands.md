@@ -1,7 +1,11 @@
 ---
 title: VIM 简明命令
-categories: 开发工具 
+categories: 开发工具
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/60b746/
+tags: 
+  - 
 ---
 
 ![](./vim-commands/vi-vim-cheat-sheet-sch.gif)

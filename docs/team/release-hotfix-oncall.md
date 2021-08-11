@@ -2,6 +2,10 @@
 title: 团队琐事：release、hotfix 和 oncall
 categories: team
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/cd0dc8/
+tags: 
+  - 
 ---
 
 一些开发团队没有专门的运维人员，研发运维都是团队自己来完成。

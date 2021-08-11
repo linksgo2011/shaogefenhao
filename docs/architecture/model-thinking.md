@@ -3,6 +3,10 @@ title: 理解 DDD：编程中的模型思维
 categories: thinking
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/44b5e8/
+tags: 
+  - 
 ---
 
 

@@ -2,6 +2,10 @@
 title: PHP拓展和使用C编写自定义拓展
 categories: php
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/103bc2/
+tags: 
+  - 
 ---
 
 ## Background ##

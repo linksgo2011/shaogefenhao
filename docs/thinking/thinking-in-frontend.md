@@ -3,6 +3,10 @@ title: 前端的编程思维
 categories: thinking
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/f4e4c3/
+tags: 
+  - 
 ---
 
 ## 从切图开始 

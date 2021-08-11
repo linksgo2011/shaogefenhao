@@ -1,7 +1,11 @@
 ---
 title: 编程效率提升技巧
-categories: 职业素质 
+categories: 职业素质
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/078ebe/
+tags: 
+  - 
 ---
 
 ## 调整 Mac 键盘响应速度

@@ -1,8 +1,12 @@
 ---
-title:  如何做好敏捷 Bug 大扫除（Bug Bash）？
+title: 如何做好敏捷 Bug 大扫除（Bug Bash）？
 categories: team
 toc: true
 recommend: true
+date: 2021-08-11 19:18:36
+permalink: /pages/da05f7/
+tags: 
+  - 
 ---
 
 Bug Bash，顾名思义就是缺陷大扫除，让团队在产品版本发布前，全员一起发现 bug 的过程。一般在互联网产品开发过程和敏捷实践中使用较多，通常可以由项目经理或 QA 组织发起，全员参加。

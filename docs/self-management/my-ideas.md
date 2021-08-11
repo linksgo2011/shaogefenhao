@@ -1,7 +1,11 @@
 ---
 title: 我的点子，搞事情清单
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/e1b73d/
+tags: 
+  - 
 ---
 
 

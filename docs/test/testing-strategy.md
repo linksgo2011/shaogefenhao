@@ -1,6 +1,10 @@
 ---
 title: 测试策略
 categories: 质量保证
+date: 2021-08-11 19:18:36
+permalink: /pages/7e3e4c/
+tags: 
+  - 
 ---
 
 一个项目需要做多少测试，做到什么程度，这属于测试策略的范畴。

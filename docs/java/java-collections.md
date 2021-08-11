@@ -1,6 +1,10 @@
 ---
 title: Java 集合
 categories: java
+date: 2021-08-11 19:18:36
+permalink: /pages/db381c/
+tags: 
+  - 
 ---
 
 ## 队列

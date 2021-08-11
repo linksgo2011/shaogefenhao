@@ -1,7 +1,11 @@
 ---
 title: 我的社交模型
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/4ca1f3/
+tags: 
+  - 
 ---
 
 如何在社交场合获得优势，特别是职场、生意场。

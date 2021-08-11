@@ -1,9 +1,12 @@
 ---
-title:  敏捷团队的代码评审和分支策略
+title: 敏捷团队的代码评审和分支策略
 categories: team
 toc: true
 recommend: true
-
+date: 2021-08-11 19:18:36
+permalink: /pages/545bbb/
+tags: 
+  - 
 ---
 
 ## 1. 代码评审的场景

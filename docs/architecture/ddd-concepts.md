@@ -3,6 +3,10 @@ title: DDD 概念的解释和理解
 categories: 技术架构
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/887e5b/
+tags: 
+  - 
 ---
 
 DDD 的概念来源于 2004 年 Eric Evans 的书籍《领域驱动设计》，这本书中有大量的软件工程的概念，阅读比较困难，鉴于翻译的原因，容易望文生义。

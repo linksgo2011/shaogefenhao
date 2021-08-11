@@ -1,6 +1,10 @@
 ---
 title: linux yum
 categories: linux
+date: 2021-08-11 19:18:36
+permalink: /pages/5ecfc0/
+tags: 
+  - 
 ---
 
 ## 常见的 yum 使用

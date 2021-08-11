@@ -2,6 +2,10 @@
 title: Cake PHP 缓存
 categories: cakephp
 toc: true
+date: 2021-08-11 19:18:35
+permalink: /pages/cf5bd9/
+tags: 
+  - 
 ---
 
 ```

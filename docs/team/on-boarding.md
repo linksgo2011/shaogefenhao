@@ -2,6 +2,10 @@
 title: 新成员培训
 categories: team
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/5e714e/
+tags: 
+  - 
 ---
 
    - 介绍客户和项目的背景

@@ -1,7 +1,11 @@
 ---
 title: 技能树和个人发展方向
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/135fb9/
+tags: 
+  - 
 ---
 
 解决靠什么吃饭的额问题。

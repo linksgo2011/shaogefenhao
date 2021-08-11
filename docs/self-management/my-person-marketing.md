@@ -1,7 +1,11 @@
 ---
 title: 我的个人营销策略
-categories:  自我管理
+categories: 自我管理
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/055ae8/
+tags: 
+  - 
 ---
 
 

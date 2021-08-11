@@ -2,6 +2,10 @@
 title: Intellij 常用技巧
 categories: 开发工具
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/3afe66/
+tags: 
+  - 
 ---
 
 ## 使用 Hierarchy 分析类的关系

@@ -2,6 +2,10 @@
 title: 大型系统 IAM 机制
 categories: 安全
 toc: true
+date: 2021-08-11 19:18:36
+permalink: /pages/eb0cc7/
+tags: 
+  - 
 ---
 
 对于大型系统来说，IAM 不仅需要考虑多端的接入，还需要考虑性能。主流的使用如下方案：

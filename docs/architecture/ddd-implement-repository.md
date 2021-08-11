@@ -3,6 +3,10 @@ title: DDD落地，如何持久化聚合
 categories: 技术架构
 toc: true
 recommend: true
+date: 2021-08-11 19:18:35
+permalink: /pages/533a9d/
+tags: 
+  - 
 ---
 
 

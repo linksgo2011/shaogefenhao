@@ -1,6 +1,10 @@
 ---
 title: 使用Java构建API的知识体系
 categories: 技术架构
+date: 2021-08-11 19:18:35
+permalink: /pages/d0d1c6/
+tags: 
+  - 
 ---
 
 - API基本概念及资源的定义

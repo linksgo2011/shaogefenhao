@@ -1,6 +1,10 @@
 ---
 title: Mock工具 wiremock
 categories: 质量保证
+date: 2021-08-11 19:18:36
+permalink: /pages/15532a/
+tags: 
+  - 
 ---
 
 Wiremock 是一个Java环境中的Mock工具，非常容易和Junit等单元测试框架集成。
