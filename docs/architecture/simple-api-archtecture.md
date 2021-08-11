@@ -1,0 +1,34 @@
+---
+title: 使用Java构建API的知识体系
+categories: 技术架构
+---
+
+- API基本概念及资源的定义
+- RESTful架构风格与成熟度模型
+- 规范化接口定义与设计
+- JSON API Spec
+- 初始化项目环境并启动一个API Demo
+- 用Spring Boot快速构建项目
+- Swagger UI对API文档化
+- 搭建多个不同业务的APIs
+- API升级及版本控制策略
+- API的认证与授权（常用的API认证方法及安全问题）
+- Axway网关集成及流量控制
+- 服务负载均衡ELB/F5
+- Hyxtrix故障熔断器，阻止故障雪崩
+- API中使用RxJava进行响应式编程
+- 最佳实践及总结
+- 日志监控与错误追踪
+- 调用链跟踪和性能面板
+- Dynatrace & Zipkin
+- AH Portal & Splunk
+- 什么是消费者契约测试？
+- 契约测试工具Pact的使用
+- Spring Cloud Contract的使用？
+- API测试工具的使用（SoapUI/Postman/自动化测试）
+- Spring Cloud 理念
+- 配置服务器应用
+- API服务注册与发现
+- GraphQL?
+- 遗留系统向微服务架构迁移
+- 最佳实践

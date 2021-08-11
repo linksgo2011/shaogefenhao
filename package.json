@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@maginapp/vuepress-plugin-katex": "^1.0.11",
     "dayjs": "^1.9.7",
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",

