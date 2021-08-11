@@ -30,7 +30,7 @@ tags:
 
 
 
-![image-20200517161135173](ddd-guide-team/image-20200517161135173.png)
+![image-20200517161135173](./ddd-guide-team/image-20200517161135173.png)
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-![image-20200517104005548](ddd-guide-team/image-20200517104005548.png)
+![image-20200517104005548](./ddd-guide-team/image-20200517104005548.png)
 
 
 
@@ -64,7 +64,7 @@ tags:
 
 
 
-![img](ddd-guide-team/u=3842307838,349803241&fm=26&gp=0.jpg)
+![img](./ddd-guide-team/u=3842307838,349803241&fm=26&gp=0.jpg)
 
 
 
@@ -82,7 +82,7 @@ tags:
 
 
 
-![preview](ddd-guide-team/v2-f649b4d5c10b27d1940353ad794cb945_r.jpg)
+![preview](./ddd-guide-team/v2-f649b4d5c10b27d1940353ad794cb945_r.jpg)
 
 
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-![img](ddd-guide-team/u=1774625344,1844853139&fm=11&gp=0.jpg)
+![img](./ddd-guide-team/u=1774625344,1844853139&fm=11&gp=0.jpg)
 
 
 
@@ -110,7 +110,7 @@ tags:
 
 
 
-![img](ddd-guide-team/u=525484661,3436452463&fm=26&gp=0.jpg)
+![img](./ddd-guide-team/u=525484661,3436452463&fm=26&gp=0.jpg)
 
 
 
@@ -118,13 +118,13 @@ tags:
 
 
 
-![img](ddd-guide-team/u=1698236527,3389317372&fm=26&gp=0.jpg)
+![img](./ddd-guide-team/u=1698236527,3389317372&fm=26&gp=0.jpg)
 
 
 
 当然”三“也不是绝对的，可以由三人或者多人构成，现在由于兵种更加多样，现在军队也不是完全”三三制“了。不过”三三制“这种思想还广泛存在，影响了很多机构、企业的组织形式。
 
-![image-20200517194703512](ddd-guide-team/image-20200517194703512.png)
+![image-20200517194703512](./ddd-guide-team/image-20200517194703512.png)
 
 
 
@@ -150,7 +150,7 @@ tags:
 
 
 
-![image-20200516232757864](ddd-guide-team/image-20200516232757864.png)
+![image-20200516232757864](./ddd-guide-team/image-20200516232757864.png)
 
 
 
@@ -158,7 +158,7 @@ tags:
 
 因此我们使用敏捷的工作方式和团队划分方式。这也是我们正在讨论的问题，根据我们服务的划分作为底图，初步得到我们的团队划分方式：
 
-![image-20200516234815771](ddd-guide-team/image-20200516234815771.png)
+![image-20200516234815771](./ddd-guide-team/image-20200516234815771.png)
 
 作为敏捷团队，后端开发、客户端开发、移动端开发、前端开发、测试被打散到各个团队中。我将团队性质不同使用颜色区别了一下，以便于后面调整和阐述每种类型的团队成员组成部分。抱歉，因为这个图我还想保留 DDD 分层的信息，显得有点凌乱，我们会一步一步突出团队划分。
 
@@ -179,7 +179,7 @@ tags:
 
 
 
-![image-20200517220726961](ddd-guide-team/image-20200517220726961.png)
+![image-20200517220726961](./ddd-guide-team/image-20200517220726961.png)
 
 
 

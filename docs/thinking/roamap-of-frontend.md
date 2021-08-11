@@ -25,7 +25,7 @@ web前端的发展实在是迅猛，距离我大学时期也不过6-7年，那�
 
 在CSS3出现之前，网页设计中使用了各种“奇技淫巧”，JavaScript最大的作用就是实现一些页面特效（例如动画）。
 
-![js.gif](roamap-of-frontend/2549450378.gif)
+![js.gif](./roamap-of-frontend/2549450378.gif)
 
 在前端开发框架变得流行之前，开发者的主要目的是完成各种前端特效，也会使用Ajax从后端返回HTML片段实现简单的动态内容加载。因此大量的DOM操作就不可避免了，为了简化DOM操作，出现了jQuery这类工具库。
 
@@ -39,7 +39,7 @@ jQuery简化了一些操作，并提供更为人性化的API，最重要的是�
 
 Prototyojs 的操作DOM并注册事件
 
-![image.png](roamap-of-frontend/2195732725.png)
+![image.png](./roamap-of-frontend/2195732725.png)
 
 jQuery操作的方式
 
@@ -76,7 +76,7 @@ jQuery不仅更为容易使用，在内功的修炼上也是出类拔萃。操�
 
 此时业界还有另外一个前端框架在发展，它提供了及其丰富的控件，允许开发者通过JavaScript在前端完成几乎所交互，最后通过ajax把这些数据传回服务器。这样的框架能实现类似于桌面上的交互能力，它就是ExtJS，一款致力于构建富客户端的Ajax应用的前端框架。
 
-![image4.png](roamap-of-frontend/1703820083.png)
+![image4.png](./roamap-of-frontend/1703820083.png)
 
 不过Bootstrap和Extjs都有他们的局限性。
 
@@ -114,7 +114,7 @@ jQuery只是一个DOM操作库，没有数据和状态管理组件。即使提�
 人们想象如果有什么方法能把用户界面上的元素和程序对象关联起来该多好啊，只需要改变相关对象的属性，即可得到用户的输入和更新界面上的显示。
 
 好在，微软在WPF技术中提出了MVVM模式，实现了用户界面和程序对象的绑定和映射。WPF的出现大大提高了桌面应用的开发效率，如果从事过MFC（VC6.0 使用的这种框架，如果你对大学生活还有映像的话）框架开发的开发者应该能体会到这种巨大变化。
-![image6.png](roamap-of-frontend/3111808421.png)
+![image6.png](./roamap-of-frontend/3111808421.png)
 
 Google的angularjs给我们带来了浏览器环境中的双向绑定，虽然因为浏览器的某些限制，并不能带来和WPF媲美的体验，但是也属于前端领域的突破性进展了。PS：注意这里的angularjs指的事angularjs 1.x和目前的angular 不是完全相同。
 
@@ -123,11 +123,11 @@ Angularjs的一些特点：
 - 由于低版本浏览器中的JavaScript不支持对象属性的赋值、取值钩子（setter、getter），Angular为了实现使用了定时器循环的脏检查，这对低版本和移动端的性能造成影响。
 - Angularjs为了能收集用户输入，覆盖了window上一些特定的对象，造成一定的侵入性，在技术选型上需要特别注意。
 
-![image7.png](roamap-of-frontend/4129203808.png)
+![image7.png](./roamap-of-frontend/4129203808.png)
 
 总的来说Angularjs带来了能在浏览器中类似WPF的开发体验，让富客户端的开发进了一大步，于是越来越多的桌面软件被迁移到web平台。
 
-![ng.gif](roamap-of-frontend/3044428455.gif)
+![ng.gif](./roamap-of-frontend/3044428455.gif)
 
 （视图根据数据实时改变）
 
@@ -145,7 +145,7 @@ Facebook 同样有此困扰，在移动端APP中需要管理一个全局的状�
 
 - 性能提升，每次数据更新更新对应DOM节点即可，不会大规模造成浏览器重排。
 - 便于数据驱动，因为使用虚拟DOM，视图的渲染由数据结构决定，APP状态的变化可以反映到页面上。
-  ![image8.png](roamap-of-frontend/1679957627.png)
+  ![image8.png](./roamap-of-frontend/1679957627.png)
 
 （Redux数据流，Store为APP全局状态）
 

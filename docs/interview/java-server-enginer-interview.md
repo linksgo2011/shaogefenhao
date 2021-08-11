@@ -133,7 +133,7 @@ jstack 查出来的线程ID是16进制，可以把输出追加到文件，导出
 
 
 
-![img](java-interview-questions/980266035_1565787665824_1ABB2DC3D76311944FFDBE9980FBAADD.jpeg)
+![img](./java-interview-questions/980266035_1565787665824_1ABB2DC3D76311944FFDBE9980FBAADD.jpeg)
 
 #### 路由器和交换机的区别？
 
@@ -176,7 +176,7 @@ TCP的连接的拆除需要发送四个包，因此称为四次挥手(four-way h
 
 
 
-![img](java-interview-questions/308572_1538028144543_FCAC824D9C1E4301A60CF7D48A85E1C1.png)
+![img](./java-interview-questions/308572_1538028144543_FCAC824D9C1E4301A60CF7D48A85E1C1.png)
 
 
 #### TCP 为什么可靠一些
@@ -1409,7 +1409,7 @@ java 内存通常被划分为5个区域：
 
 
 
-![内存分布](java-interview-questions/70.jpeg)
+![内存分布](./java-interview-questions/70.jpeg)
 
 java 内存结构概念的区分：
 
@@ -1441,7 +1441,7 @@ JVM通过双亲委派模型进行类的加载，当然我们也可以通过继�
 
 
 
-![img](java-interview-questions/308572_1537962385800_7142B8354CA8A352B2B805F997C71549.png)
+![img](./java-interview-questions/308572_1537962385800_7142B8354CA8A352B2B805F997C71549.png)
 
 
 
@@ -2185,23 +2185,23 @@ Flux的核心思想就是数据和逻辑永远单向流动，保持整个应用�
 
 1. 继承，对类而言
 
-![img](java-interview-questions/082337119585644.png)
+![img](./java-interview-questions/082337119585644.png)
 
 2. 实现，对接口而言
 
-![img](java-interview-questions/082337272699031.png)
+![img](./java-interview-questions/082337272699031.png)
 
 3. 聚合，A 中拥有一个 B，但 B 脱离于 A 仍然可以独立存活。
 
-![img](java-interview-questions/082338012654178-20200607181538580.png)
+![img](./java-interview-questions/082338012654178-20200607181538580.png)
 
 4. 组合，A 中拥有一个 B，B 脱离 A 后在系统中没有任何存活的意义。
 
-![img](java-interview-questions/082338094143285.png)
+![img](./java-interview-questions/082338094143285.png)
 
 5. 依赖，B 的变化会影响 A，则 A 依赖于 B。
 
-![img](java-interview-questions/082339218484060.png)
+![img](./java-interview-questions/082339218484060.png)
 
 
 

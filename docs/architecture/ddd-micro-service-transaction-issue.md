@@ -34,7 +34,7 @@ tags:
 - A: Availability，可用性。系统收到请求后，必须完成响应，否则就是不满足可用性。
 - P: Partition tolerance，分区容忍性。每个节点可以视为一个区，可以允许分区之间通信失败。通俗的来说，由于人类通信技术条件限制，如果是分布式系统，就具备分区容忍性。
 
-![image-20210121224523038](ddd-micro-service-transaction-issue/image-20210121224523038.png)
+![image-20210121224523038](./ddd-micro-service-transaction-issue/image-20210121224523038.png)
 
 
 
@@ -88,7 +88,7 @@ BASE 思想更契合我们做服务拆分的目标，分而治之，实现弹性
 
 幂等是一个数学与计算机学概念，幂等操作的特点是其任意多次执行所产生的影响均与一次执行的影响相同。通俗来说就是一个方法多次执行不会产生副作用。数学公式表达如下：
 
-![image-20210121224502988](ddd-micro-service-transaction-issue/image-20210121224502988.png)
+![image-20210121224502988](./ddd-micro-service-transaction-issue/image-20210121224502988.png)
 
 HTTP 协议中 GET、PUT、DELETE 等方法往往都是幂等的，除了 GET 这种天然具有幂等特性的方法外，分布式系统中对数据更新的调用也需要设计为幂等，用于实现最终一致性。
 

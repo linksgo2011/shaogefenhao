@@ -21,7 +21,7 @@ tags:
 
 ## 1. 敏捷日历
 
-![image-20210205231125414](agile-calendar/image-20210205231125414.png)
+![image-20210205231125414](./agile-calendar/image-20210205231125414.png)
 
 ## 2. 活动解释
 

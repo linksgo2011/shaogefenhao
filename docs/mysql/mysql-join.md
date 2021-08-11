@@ -57,5 +57,5 @@ SELECT * FROM `spring-boot-boilerplate`.user,department where department.id = us
 
 
 
-![](./mysql-join/diagram.png)
+![](././mysql-join/diagram.png)
 

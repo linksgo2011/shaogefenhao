@@ -18,7 +18,7 @@ tags:
 
 
 
-![Lightbox](lru/LRU1.png)
+![Lightbox](./lru/LRU1.png)
 
 
 
@@ -107,4 +107,3 @@ class LRUCache {
 
 - LRU Cache Implementation https://www.geeksforgeeks.org/lru-cache-implementation/
 
-  

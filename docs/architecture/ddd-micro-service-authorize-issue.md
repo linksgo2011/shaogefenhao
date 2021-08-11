@@ -34,7 +34,7 @@ OAuth 2  主要解决了两个问题：
 
 
 
-![oauth.png](ddd-micro-service-authorize-issue/3686456467.png)
+![oauth.png](./ddd-micro-service-authorize-issue/3686456467.png)
 
 
 
@@ -56,7 +56,7 @@ OAuth 2  主要解决了两个问题：
 
 
 
-![image-20200516150054993](ddd-micro-service-authorize-issue/image-20200516150054993.png)
+![image-20200516150054993](./ddd-micro-service-authorize-issue/image-20200516150054993.png)
 
 
 
@@ -64,7 +64,7 @@ OAuth 2  主要解决了两个问题：
 
 这个图还是看不出我们应用中那些是资源服务器、那些是应用服务器、认证服务器。我把图修改为半透明，并映射相关信息。
 
-![image-20200516151440735](ddd-micro-service-authorize-issue/image-20200516151440735.png)
+![image-20200516151440735](./ddd-micro-service-authorize-issue/image-20200516151440735.png)
 
 
 
@@ -154,7 +154,7 @@ public void addProduct(){
 
 
 
-![image-20200516221603716](ddd-micro-service-authorize-issue/image-20200516221603716.png)
+![image-20200516221603716](./ddd-micro-service-authorize-issue/image-20200516221603716.png)
 
 
 

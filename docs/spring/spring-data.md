@@ -47,7 +47,7 @@ Spring Data 的一些属于版本火车的子项目：
 
 从 SimpleJpaRepository 的实现开，使用 idea 分析出类图。
 
-![SimpleJpaRepository](./spring-data/simple-jpa-repository-diagram.png)
+![SimpleJpaRepository](././spring-data/simple-jpa-repository-diagram.png)
 
 
 - EntityManagerFactory EntityManager 的工厂类

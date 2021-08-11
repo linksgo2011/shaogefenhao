@@ -10,7 +10,7 @@ tags:
 
 ## 调整 Mac 键盘响应速度
 
-![](./effective/mac-keyboard-setting.png)
+![](././effective/mac-keyboard-setting.png)
 
 通过调整这几个设置，让删除、移动的速度大大提高，编程手速快速提升。
 

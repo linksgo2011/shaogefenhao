@@ -33,7 +33,7 @@ tags:
 
 我们可以使用图表来表示关系：
 
-![image-20210721234231559](many-to-many-relationship-in-math/image-20210721234231559.png)
+![image-20210721234231559](./many-to-many-relationship-in-math/image-20210721234231559.png)
 
 
 
@@ -69,7 +69,7 @@ tags:
 
 通过分析我们发现，多对多关系的内在意义就是同时存在两个方向相反的关系。
 
-![image-20210721234254113](many-to-many-relationship-in-math/image-20210721234254113.png)
+![image-20210721234254113](./many-to-many-relationship-in-math/image-20210721234254113.png)
 
 
 
@@ -77,7 +77,7 @@ tags:
 
 
 
-![image-20210721234307656](many-to-many-relationship-in-math/image-20210721234307656.png)
+![image-20210721234307656](./many-to-many-relationship-in-math/image-20210721234307656.png)
 
 中间集合由 A、B 主键构成的元组构成，这样可以使用关系的合成原理得到 A -> B 的一对多关系。
 $$
@@ -96,7 +96,7 @@ $$
 >
 > 又，C1 由元组 (a_id,b_id) 构成，C2 由元组（b_id,a_id） 构成，在元组中域的顺序不敏感的情况下，可以认为 C1 等价于 C2。
 
-![image-20210721234341622](many-to-many-relationship-in-math/image-20210721234341622.png)
+![image-20210721234341622](./many-to-many-relationship-in-math/image-20210721234341622.png)
 
 实际上在数据库理论中，元组就是域构成的关系，严格上 C1 不会等价于 C2，另外当它们作为关联条件的键不相同或者元组中的域有区别时，也不能认为等价。
 
@@ -134,7 +134,7 @@ C1 和 C2 不等价是一个重要的发现，因为我们之前认为多对多�
 
 因此我们可以选择一段关系剪断它们，就可以实现解耦，这就是解耦的数学意义。
 
-![image-20210721234446654](many-to-many-relationship-in-math/image-20210721234446654.png)
+![image-20210721234446654](./many-to-many-relationship-in-math/image-20210721234446654.png)
 
 实践是检验真理的有力标准，我们使用现实中的例子来说明。
 

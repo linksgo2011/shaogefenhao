@@ -17,7 +17,7 @@ https://coggle.it/
 
 超漂亮的思维导图工具
 
-![](tool-collections/coggle.png)
+![](./tool-collections/coggle.png)
 
 http://naotu.baidu.com/
 
