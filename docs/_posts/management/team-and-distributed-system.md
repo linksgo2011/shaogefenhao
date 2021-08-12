@@ -1,5 +1,5 @@
 ---
-title: team-and-distributed-system
+title:用分布式系统思考团队管理
 date: 2021-08-11 19:18:36
 permalink: /pages/9109c5/
 categories: 
@@ -7,17 +7,11 @@ categories:
 tags: 
   - null
 sidebar: auto
----
----
-title:用分布式系统思考团队管理
-categories: computer-science
 toc: true
 recommend: true
 Keyword: 分布式系统,团队管理原理
 Description: 一个团队本质上是一个由人构成的分布式系统，所以可以用分布式系统的一些模型来分析他们，通过这些模型让管理者能更为深入的理解团队管理的逻辑。
 ---
-
-
 
 团队管理是一件非常困难的事情，尤其是在认知能力强的群体中尤其如此。历史告诉我们，缺乏组织的人类群体没有任何战斗力，且在社会化生产的过程中效率非常低下。
 
