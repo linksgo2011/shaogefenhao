@@ -4,7 +4,7 @@ categories:
   - 团队管理
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/team/release-hotfix-oncall/
+permalink: /pages/team/QA-in-agile/
 tags: 
   - 
 ---

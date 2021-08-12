@@ -1,5 +1,5 @@
 ---
-title: 安全
+title: 团队安全规范
 categories: 
   - 团队管理
 toc: true
@@ -8,9 +8,6 @@ permalink: /pages/team/security/
 tags: 
   - 
 ---
-
-团队安全规范
-
 
 ## 安全军规
 

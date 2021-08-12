@@ -2,7 +2,7 @@
 title: 敏捷方法基线
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/team/0-agile-overview/
+permalink: /pages/team/0-agile-overview
 tags: 
   - null
 categories: 
