@@ -1,28 +1,21 @@
 ---
 title: 安全
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/4bd014/
+permalink: /pages/team/security/
 tags: 
   - 
 ---
 
+团队安全规范
 
 
 ## 安全军规
 
-
-
-### 团队成员日常安全
-
-
-
--  不对屏幕拍照
+- 关键信息资产需要使用 VPN 管控
+- 临走时需要锁屏
+- 不对屏幕拍照
 - 不在便利贴上书写密码
-
-
-
-## 参考材料
-
-- [https://wiki.printf.cn/%E5%AE%89%E5%85%A8/security/red-line/](https://wiki.printf.cn/安全/security/red-line/)
+- 密码不提交到代码库、文档中

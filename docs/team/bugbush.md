@@ -1,10 +1,11 @@
 ---
 title: 如何做好敏捷 Bug 大扫除（Bug Bash）？
-categories: team
+categories: 
+  - 团队管理
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/da05f7/
+permalink: /pages/team/bugbush/
 tags: 
   - 
 ---

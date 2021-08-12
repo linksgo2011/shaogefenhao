@@ -1,9 +1,10 @@
 ---
 title: 如何进行技术例会？
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/3bbcbf/
+permalink: /pages/team/tech-huddle/
 tags: 
   - 
 ---

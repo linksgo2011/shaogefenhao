@@ -1,9 +1,10 @@
 ---
 title: 敏捷团队的关键角色
-categories: 敏捷开发
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/8f9c03/
+permalink: /pages/team/team-role/
 tags: 
   - 
 ---

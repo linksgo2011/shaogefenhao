@@ -1,18 +1,14 @@
 ---
-title: normalize
+title: 软件项目规范化指南
+toc: true
+recommened: true
 date: 2021-08-11 19:18:36
-permalink: /pages/10e9d5/
-categories:
-  - team
+permalink: /pages/team/normalize/
+categories: 
+  - 团队管理
 tags:
   - 
 ---
-```
-title: 软件项目规范化指南
-categories: team
-toc: true
-recommened: true
-```
 
 对于一个软件开发团队，可以通过哪些代码质量指标和扫描方法让团队产出规范、安全、高质量的代码？让开发团队运行的安全、透明、可靠？
 
@@ -208,4 +204,3 @@ Linux 系统往往有云厂商推送安全补丁和风险提示，但是安装�
 类似的，在使用一些框架、平台的时候往往存在大量的限制，有时候开发者难以意识到 “限制” 正是框架、平台的作者 “保护” 应用开发者的一种方式。有一些开发者以 Hack 框架、平台为乐，但是这样会带来潜在的隐患，在用户量上来之后负面效应表现的尤为明显。
 
 项目的规范化对于 Tech Lead来说可以减少程序的运行事故和 codereview 时间，对于团队来说也许可以少加班吧。
-

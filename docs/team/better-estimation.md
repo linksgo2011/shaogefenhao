@@ -1,10 +1,11 @@
 ---
 title: 提高工时估计准确性，减少开发成本
-categories: team
+categories: 
+  - 团队管理
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/d840da/
+permalink: /pages/team/better-estimation/
 tags: 
   - 
 ---

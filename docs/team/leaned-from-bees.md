@@ -1,9 +1,10 @@
 ---
 title: 那些我在 BeeArt 学到的
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/094625/
+permalink: /pages/team/leaned-from-bees/
 tags: 
   - 
 ---
@@ -53,7 +54,7 @@ tags:
 
 
 
-<img src="leaned-from-bees/image-20210304133938223.png" alt="image-20210304133938223" style="zoom:50%;" />
+<img src="./leaned-from-bees/image-20210304133938223.png" alt="image-20210304133938223" style="zoom:50%;" />
 
 
 

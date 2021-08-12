@@ -1,12 +1,15 @@
 ---
 title: 访谈团队，了解敏捷现状
-categories: 敏捷开发
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/a19cc5/
+permalink: /pages/team/agile-interview/
 tags: 
   - 
 ---
+
+作为管理咨询师需要做的工作。
 
 ## 确定访谈目标、模型和维度
 

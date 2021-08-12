@@ -35,10 +35,10 @@ module.exports = [
     },
     {
         text: '团队', link: '/pages/team/', items: [
-            {text: '为什么需要敏捷？', link: '/pages/team/'},
+            {text: '敏捷基线', link: '/pages/team/'},
             {text: '分布式团队理论', link: '/pages/team/distribution-system/'},
             {text: '敏捷团队角色', link: '/pages/team/roles/'},
-            {text: '敏捷日历', link: '/pages/team/calender/'},
+            {text: '敏捷日历', link: '/pages/team/agile-calendar'},
         ]
     },
     {text: '关于', link: '/pages/about/'},

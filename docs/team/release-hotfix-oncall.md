@@ -1,9 +1,10 @@
 ---
 title: 团队琐事：release、hotfix 和 oncall
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/cd0dc8/
+permalink: /pages/team/release-hotfix-oncall/
 tags: 
   - 
 ---

@@ -1,10 +1,11 @@
 ---
 title: 如何做好敏捷技术预研（Spike）？
-categories: team
+categories: 
+  - 团队管理
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/721199/
+permalink: /pages/team/spike/
 tags: 
   - 
 ---

@@ -1,12 +1,15 @@
 ---
 title: 新成员培训
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/5e714e/
+permalink: /pages/team/on-boarding/
 tags: 
   - 
 ---
+
+新成员培训可以根据下面的检查清单进行：
 
    - 介绍客户和项目的背景
    - 介绍团队成员和项目干系人

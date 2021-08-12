@@ -1,9 +1,10 @@
 ---
 title: 用归零的心态，做好团队回顾
-categories: team
+categories: 
+  - 团队管理
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/d5a613/
+permalink: /pages/team/retro/
 tags: 
   - 
 ---

@@ -1,17 +1,11 @@
 ---
-title: interviewer-guide
+title: 面试官指南
 date: 2021-08-11 19:18:36
-permalink: /pages/e02409/
-categories:
-  - team
+permalink: /pages/team/interviewer-guide/
+categories: 
+  - 团队管理
 tags:
   - 
----
-```
-title: 面试官指南
-categories: team
-toc: true
-```
 
 一般软件公司的面试过程是：
 
@@ -20,8 +14,6 @@ toc: true
 3. 技术 chat 面试
 4. 文化/薪资
 5. 入职事项沟通
-
-
 
 在线面试注意事项：
 

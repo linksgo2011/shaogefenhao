@@ -1,14 +1,13 @@
 ---
 title: 敏捷方法基线
-categories: 敏捷开发
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/6a74ab/
+permalink: /pages/team/0-agile-overview/
 tags: 
-  - 
+  - null
+categories: 
+  - 团队管理
 ---
-
-
 
 每一个软件公司都有一套独一无二的项目管理方法。现实中有很多敏捷方法，例如 Scrum 在每一个公司都不一样。在实践敏捷时往往需要修改和定制，一套大而全的方法论往往不能广泛适用，于是我们整理了一套敏捷实践的最小集。
 

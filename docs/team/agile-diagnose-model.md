@@ -1,9 +1,10 @@
 ---
-title: 敏捷实践的模型
-categories: 敏捷开发
+title: 敏捷实践评估模型
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/c3492f/
+permalink: /pages/team/agile-diagnose-model/
 tags: 
   - 
 ---

@@ -1,13 +1,14 @@
 ---
 title: 版本规则、代码冻结和上线事项
-categories: team
+categories: 
+  - 团队管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/79152f/
+permalink: /pages/team/release/
 tags: 
   - 
 ---
-
+__
 ## 1. 版本规则
 
 版本规则使用语义化版本规则，英文是 semver version，语义化版本规范参考：https://semver.org/lang/zh-CN/

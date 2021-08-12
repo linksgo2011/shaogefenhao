@@ -1,10 +1,11 @@
 ---
 title: 敏捷迭代日历
-categories: team
+categories: 
+  - 团队管理
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/ffa02e/
+permalink: /pages/team/agile-calendar/
 tags: 
   - 
 ---

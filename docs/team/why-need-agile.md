@@ -1,10 +1,11 @@
 ---
-title: 回答敏捷初学者的个7个问题
-categories: team
+title: 为什么使用敏捷？
+categories: 
+  - 团队管理
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/551ca6/
+permalink: /pages/team/why-need-agile/
 tags: 
   - 
 ---
