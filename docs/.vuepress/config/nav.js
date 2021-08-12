@@ -28,7 +28,7 @@ module.exports = [
     {
         text: '自测', link: '/pages/testing/', items: [
             {text: '开发自测', link: '/pages/testing/self/'},
-            {text: '需求评审', link: '/pages/testing/requirement-review/'},
+            {text: '代码评审', link: '/pages/testing/code-review/'},
             {text: '代码扫描', link: '/pages/testing/code-scan/'},
             {text: '单元测试', link: '/pages/testing/unit-testing/'},
         ]
