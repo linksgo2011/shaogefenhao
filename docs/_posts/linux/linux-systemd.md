@@ -4,7 +4,8 @@ categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/0d282e/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Systemd 是一套用来管理系统服务的命令，Cent OS默认使用它管理系统服务。

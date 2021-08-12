@@ -5,7 +5,8 @@ from: self
 date: 2021-08-11 19:18:36
 permalink: /pages/078a3d/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 lternatives与update-alternatives好像是同一样工具（各个linux发行版使用的不一样）

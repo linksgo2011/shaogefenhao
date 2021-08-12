@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/310552/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 **1、用root账户登陆服务器**

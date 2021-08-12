@@ -4,7 +4,8 @@ categories: 运维开发
 date: 2021-08-11 19:18:35
 permalink: /pages/c2d8d7/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 ## CircleCI是什么

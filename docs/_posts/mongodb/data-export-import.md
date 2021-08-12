@@ -1,10 +1,11 @@
 ---
-title: mongodb 的数据导入\\导出
+title: mongodb 的数据导入\\\\导出
 categories: mongodb
 date: 2021-08-11 19:18:36
 permalink: /pages/7c23dc/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 mongodb数据备份和恢复主要分为二种：一种是针对库的mongodump和mongorestore，一种是针对库中表的mongoexport和mongoimport

@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/9cdd06/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 计算机科学本应该是一个实践和具体的科学，但是随着面向对象等思想的发展，大量的概念、原则、思想含糊不清，“编程思想” 则更加玄之又玄。

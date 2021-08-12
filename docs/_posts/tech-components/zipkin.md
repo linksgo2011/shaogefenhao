@@ -4,7 +4,8 @@ categories: 技术组件
 date: 2021-08-11 19:18:36
 permalink: /pages/65bb58/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Zipkin 是一个分布式的追踪系统，每个应用程序向Zipkin报告定时数据，Zipkin UI呈现了一个依赖图表来展示多少跟踪请求经过了每个应用程序。

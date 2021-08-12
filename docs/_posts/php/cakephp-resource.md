@@ -4,7 +4,8 @@ categories: php
 date: 2021-08-11 19:18:36
 permalink: /pages/97ddee/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 akePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC. Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.

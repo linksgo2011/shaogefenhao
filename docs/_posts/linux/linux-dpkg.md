@@ -5,7 +5,8 @@ from: self
 date: 2021-08-11 19:18:36
 permalink: /pages/2b25cf/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 ## 安装命令 

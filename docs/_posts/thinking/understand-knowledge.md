@@ -1,12 +1,13 @@
 ---
-title: 学习\知识\，而不是各种框架的说明书
+title: 学习\\知识\\，而不是各种框架的说明书
 categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/2d774d/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Vue 出 3 了，Spring 又更新了版本。网上一大票程序员叫学不动了，求不要再发布新版本了。

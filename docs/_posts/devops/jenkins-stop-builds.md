@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/17e141/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 使用管理员进入 Manage Jenkins > Script Console

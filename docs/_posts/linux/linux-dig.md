@@ -4,7 +4,8 @@ categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/a1b2d1/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 

@@ -4,7 +4,8 @@ categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/51a524/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 主要使用 netstat 命令，各个参数说明如下：

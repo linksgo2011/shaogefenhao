@@ -2,10 +2,11 @@
 title: nlp-to-make-retionality
 date: 2021-08-11 19:18:36
 permalink: /pages/5f1cfc/
-categories:
+categories: 
   - nlp
-tags:
-  - 
+tags: 
+  - null
+sidebar: auto
 ---
 ---
 title: 影响他人的方法，去制造合理性 

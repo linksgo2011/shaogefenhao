@@ -4,7 +4,8 @@ categories: 质量保证
 date: 2021-08-11 19:18:36
 permalink: /pages/c88d45/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Apache Benchmark 简称 ab 是 Apache web 服务器自带的性能测试工具，在 windows 或者 linux 上安装了 Apache 服务器就可以在其安装位置的 bin 目录中找到 ab 这个程序。

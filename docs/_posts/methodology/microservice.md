@@ -4,7 +4,8 @@ categories: 理论方法
 date: 2021-08-11 19:18:36
 permalink: /pages/4c7ca1/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 微服务 (Microservices) 是一种软体架构风格，它是以专注于单一责任与功能的小型功能区块 (Small Building Blocks) 为基础，利用模组化的方式组合出复杂的大型应用程式，各功能区块使用与语言无关 (Language-Independent/Language agnostic) 的 API 集相互通讯。

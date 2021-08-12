@@ -1,8 +1,6 @@
 ---
 archivesPage: true
-title: 博客文章
+title: 归档
 permalink: /archives/
 article: false
 ---
-
-

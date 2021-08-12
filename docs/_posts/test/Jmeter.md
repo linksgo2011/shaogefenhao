@@ -4,7 +4,8 @@ categories: 质量保证
 date: 2021-08-11 19:18:36
 permalink: /pages/2654fa/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Apache JMeter是一款纯java编写负载功能测试和性能测试开源工具软件。相比Loadrunner而言，JMeter小巧轻便且免费，逐渐成为了主流的性能测试工具，是每个测试人员都必须要掌握的工具之一。

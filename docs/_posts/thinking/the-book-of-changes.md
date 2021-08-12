@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/2c12ff/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 易学具有一些神秘色彩，不过通俗来说，就是研究事物发展规律的学问。因此，英文翻译中把周易叫做 “the Book of Changes”。如果去除一些封建糟粕的话，在哲学被分为属于古代朴素唯物主义。

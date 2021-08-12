@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/79fd19/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 敏捷方法追求单件工作流和响应变化，需求按照故事卡拆分，容易造成业务模型、架构设计碎片化。

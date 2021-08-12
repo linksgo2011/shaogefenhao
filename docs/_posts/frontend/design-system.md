@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/c718b2/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 在做前端开发和设计时，遇到的一个问题是如何像让每个颜色、尺寸、组件全局统一，因此我们需要前端开发者和UX有一个统一的设计。

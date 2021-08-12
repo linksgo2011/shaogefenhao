@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/7cc008/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 我是半个计算机专业的，我会把有故障的硬盘拆下来，也能把一块新的硬盘装回去，还能使用U盘或者光盘给它安装一套操作系统。

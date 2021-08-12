@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/905faa/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 JavaScript框架的发展是一个不断带给人们惊喜的过程。JavaScript一度被认为只能做出网页上飞来飞去、令人讨厌的广告动画，到jQuery的出现人们开始用jQuery插件实现更为丰富的控件。再到后来的MVC、MVVM模式、Flux模式，让前端从制作网页变成运行在浏览器中的“应用程序”。

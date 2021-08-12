@@ -6,7 +6,8 @@ recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/091033/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 工作这么几年来，见得最多的场景是QA小伙伴追着开发满办公室报bug，不过有时候开发却不乐意了，当时可没说要XXX，要做XXX。

@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/fb3795/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 AArch64是ARMv8 架构的一种执行状态。

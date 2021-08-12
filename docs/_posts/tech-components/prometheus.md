@@ -4,7 +4,8 @@ categories: 技术组件
 date: 2021-08-11 19:18:36
 permalink: /pages/cad889/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 Prometheus 是一个监控设备运行情况的工具，例如CPU、内存、网络使用率等信息。并能及时发出告警。

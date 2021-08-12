@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/5ef131/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 如果自己搭建的 gitlab 开启了自签名证书的 ssl，客户端拉取代码时候会报错

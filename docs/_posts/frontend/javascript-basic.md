@@ -5,7 +5,8 @@ toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/5bd90f/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 ## 工厂方式

@@ -4,7 +4,8 @@ categories: 理论方法
 date: 2021-08-11 19:18:36
 permalink: /pages/4d845a/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 - 单一职责原则 一个类只做一个事

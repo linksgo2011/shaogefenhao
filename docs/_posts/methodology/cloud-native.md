@@ -4,7 +4,8 @@ categories: 理论方法
 date: 2021-08-11 19:18:36
 permalink: /pages/9abc9a/
 tags: 
-  - 
+  - null
+sidebar: auto
 ---
 
 云原生包含了一组应用的模式，用于帮助企业快速，持续，可靠，规模化地交付业务软件。云原生由微服务架构，DevOps 和以容器为代表的敏捷基础架构组成。
