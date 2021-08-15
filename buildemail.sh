@@ -1,6 +1,6 @@
 folder=architecture
 fileName=modeling-method-meta
-imageHost=https://github.com/linksgo2011/wiki/raw/master/source/$folder/
+imageHost=https://github.com/shaogefenhao/wiki/raw/master/source/$folder/
 
 rm -rf build
 mkdir build
