@@ -1,5 +1,5 @@
-folder=01.建模/02.ddd
-fileName=15.why-ddd-works
+folder=_posts/thinking
+fileName=product-process
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build
