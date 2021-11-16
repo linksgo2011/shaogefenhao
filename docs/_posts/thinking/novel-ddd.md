@@ -6,6 +6,7 @@ date: 2021-08-11 19:18:36
 tags: 
   - null
 sidebar: auto
+permalink: /pages/3a7f0d/
 ---
 
 Brook 从一次技术大会回来后，开始尝试一种新的编程范式 —— 从大会上学到的本年度最潮流的编程方法。

@@ -1,8 +1,11 @@
 ---
-title: 怎样讲好一个故事 
+title: 怎样讲好一个故事
 categories: 自我管理
 toc: true
 recommend: true
+date: 2021-11-16 16:38:56
+permalink: /pages/65a4c2/
+sidebar: auto
 ---
 
 个能张嘴说话的人都是演讲高手，如果台下的人愿意认真听的话。

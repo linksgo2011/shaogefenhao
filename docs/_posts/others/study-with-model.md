@@ -3,6 +3,9 @@ title: 模型学习法
 categories: 自我管理
 toc: true
 recommend: true
+date: 2021-11-16 16:38:56
+permalink: /pages/f7cde8/
+sidebar: auto
 ---
 
 

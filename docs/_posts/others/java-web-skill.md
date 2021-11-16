@@ -2,6 +2,9 @@
 title: Java web 方向技术核心
 categories: 自我管理
 toc: true
+date: 2021-11-16 16:38:56
+permalink: /pages/c96046/
+sidebar: auto
 ---
 
 

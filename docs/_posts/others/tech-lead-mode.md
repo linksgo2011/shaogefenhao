@@ -3,6 +3,9 @@ title: 作为 Tech Lead 应该操心什么？
 categories: 自我管理
 toc: true
 recommend: true
+date: 2021-11-16 16:38:56
+permalink: /pages/a9e348/
+sidebar: auto
 ---
 
 <!--

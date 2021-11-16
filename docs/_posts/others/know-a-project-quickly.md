@@ -3,6 +3,9 @@ title: 开发者如何快速熟悉一个新项目
 categories: 自我管理
 toc: true
 recommend: true
+date: 2021-11-16 16:38:56
+permalink: /pages/91c3d1/
+sidebar: auto
 ---
 
 在ThoughWorks有一句流传甚广的话 —— “在ThoughtWorks需要有拥抱随时准备变化的心态“，因为我们践行敏捷、我们有各种各样的客户，而商机稍纵即逝。作为普通的developer来讲，最明显的感受是不会像其他互联网公司一样长期待在一个项目，有足够的时间了解项目的上下文和背景。我们的项目周期足够短，甚至有时候几周都算很正常，项目的频繁切换对developer的要求就是需要快速了解一个新的项目。
