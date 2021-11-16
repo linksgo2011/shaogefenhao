@@ -106,6 +106,7 @@ sidebar: auto
 - 《深入理解 repository 》querywraper + nameof
 - 《应用和服务分离》
 - 《用政务中心比喻 DDD 分层架构》
+- 《Cache VS Buffer》https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/cache.html
 
 ## 生活类
 
