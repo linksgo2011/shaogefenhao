@@ -16,6 +16,7 @@ module.exports = [
             {text: 'DDD 中的几个困难问题', link: '/pages/modeling/ddd-questions/'},
             {text: '可视化的表达 DDD 的模型', link: '/pages/modeling/ddd-visualization/'},
             {text: 'DDD 建模工作坊指南', link: '/pages/modeling/ddd-workshop-event-storming/'},
+            {text: '为什么 DDD 有作用', link: '/pages/modeling/why-ddd-works/'},
         ]
     },
     {

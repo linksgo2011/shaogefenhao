@@ -3,7 +3,7 @@ const base = require('../../base.js');
 const htmlModules = require('./config/htmlModules.js');
 
 module.exports = {
-  title: "shaogefenhao.com",
+  title: "leaderslib.com",
   description: '技术 leader 的知识库',
   base, // '/<仓库名>/'， 默认'/'
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
