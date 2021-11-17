@@ -187,7 +187,6 @@ dl, dd
       a:not(.header-anchor)
         margin-bottom 0.5rem
         display inline-block
-        width 50%
         &:hover
           color $activeColor
           text-decoration none

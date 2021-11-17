@@ -1,12 +1,11 @@
 ---
 title: 软件设计的反思录
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/e4335a/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

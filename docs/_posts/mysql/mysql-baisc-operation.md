@@ -1,11 +1,10 @@
 ---
 title: Mysql 基本管理命令
-categories: mysql
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/e4904f/
-tags: 
-  - null
+categories:
+  - mysql
 sidebar: auto
 ---
 

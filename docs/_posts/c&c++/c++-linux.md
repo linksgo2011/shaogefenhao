@@ -1,10 +1,9 @@
 ---
 title: C++ linux服务器编程
-categories: linux
 date: 2021-08-11 19:18:35
 permalink: /pages/e95a96/
-tags: 
-  - null
+categories:
+  - C++
 sidebar: auto
 ---
 

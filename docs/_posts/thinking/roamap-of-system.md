@@ -1,12 +1,11 @@
 ---
 title: 从单体到微服务，这些年架构的演变
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/333c84/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

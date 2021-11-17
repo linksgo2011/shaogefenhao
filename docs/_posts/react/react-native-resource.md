@@ -1,10 +1,9 @@
 ---
 title: React Native 资源收集
-categories: React
 date: 2021-08-11 19:18:36
 permalink: /pages/92a148/
-tags: 
-  - null
+categories:
+  - React
 sidebar: auto
 ---
 

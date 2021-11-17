@@ -1,11 +1,10 @@
 ---
 title: MQ 性能优化
-categories: 性能优化
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/48fe04/
-tags: 
-  - null
+categories:
+  - 性能优化
 sidebar: auto
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: 主客体建模：基于认识论的面向对象分析
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 permalink: /pages/c075cc/
 ---

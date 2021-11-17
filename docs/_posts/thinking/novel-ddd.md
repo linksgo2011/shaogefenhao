@@ -1,10 +1,9 @@
 ---
 title: 微小说：自己结账的订单
-categories: thinking
 toc: true
 date: 2021-08-11 19:18:36
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 permalink: /pages/3a7f0d/
 ---

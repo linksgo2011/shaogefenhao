@@ -1,11 +1,10 @@
 ---
 title: 桌面应用开发架构
-categories: 技术架构
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/f3e516/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

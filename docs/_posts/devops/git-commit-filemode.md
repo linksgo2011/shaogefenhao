@@ -1,11 +1,10 @@
 ---
 title: Git 提交文件属性
-categories: 运维开发
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/93cba5/
-tags: 
-  - null
+categories:
+  - 运维开发
 sidebar: auto
 ---
 

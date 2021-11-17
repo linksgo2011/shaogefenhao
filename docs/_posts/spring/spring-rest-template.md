@@ -1,11 +1,10 @@
 ---
 title: Resttemplat 使用
-categories: Spring
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/eb8df2/
-tags: 
-  - null
+categories:
+  - Spring 
 sidebar: auto
 ---
 

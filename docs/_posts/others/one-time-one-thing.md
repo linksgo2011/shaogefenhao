@@ -1,6 +1,7 @@
 ---
 title: 专注编码，一次只做一件事
-categories: 自我管理
+categories: 
+   - 自我管理
 toc: true
 date: 2021-11-16 16:38:56
 permalink: /pages/89417a/

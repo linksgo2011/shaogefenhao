@@ -1,11 +1,10 @@
 ---
 title: docker 自带镜像仓库清理
-categories: docker
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/73bd3d/
-tags: 
-  - null
+categories:
+  - docker
 sidebar: auto
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: 随笔：互联网产品化是怎么回事？
-categories: thinking
 toc: true
 recommend: true
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 date: 2021-11-16 16:38:55
 permalink: /pages/e9cfc8/

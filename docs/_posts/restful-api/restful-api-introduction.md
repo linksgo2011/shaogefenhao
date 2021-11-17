@@ -1,12 +1,11 @@
 ---
 title: 重新认识RESTful
-categories: API设计
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/4ae975/
-tags: 
-  - null
+categories:
+  - Rest API
 sidebar: auto
 ---
 

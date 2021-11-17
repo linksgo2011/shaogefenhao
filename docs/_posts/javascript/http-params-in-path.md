@@ -1,11 +1,10 @@
 ---
 title: Javascript 对URL中path参数绑定
-categories: Javascript
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/02353f/
-tags: 
-  - null
+categories:
+  - Javascript
 sidebar: auto
 ---
 

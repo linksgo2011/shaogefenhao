@@ -1,12 +1,11 @@
 ---
 title: SSH 修改端口
-categories: linux
 toc: true
 from: self
 date: 2021-08-11 19:18:36
 permalink: /pages/c95442/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

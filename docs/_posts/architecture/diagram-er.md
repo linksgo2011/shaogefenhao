@@ -1,11 +1,10 @@
 ---
 title: E-R 图
-categories: 技术架构
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/d2608b/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

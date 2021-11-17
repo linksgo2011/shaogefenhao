@@ -1,11 +1,10 @@
 ---
 title: 开发安全的 API 所需要核对的清单
-categories: 安全
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/f8fdd7/
-tags: 
-  - null
+categories:
+  - 安全
 sidebar: auto
 ---
 

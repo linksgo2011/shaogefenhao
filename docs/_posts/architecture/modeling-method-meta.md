@@ -1,12 +1,11 @@
 ---
 title: 建模方法元模型：如何设计一个建模方法
-categories: 技术架构
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
 permalink: /pages/da6256/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

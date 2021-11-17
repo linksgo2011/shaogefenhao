@@ -1,10 +1,9 @@
 ---
 title: nohup 后台运行Linux程序方法
-categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/e41d08/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

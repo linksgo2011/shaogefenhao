@@ -1,11 +1,10 @@
 ---
 title: Mysql 各种 join 的区别
-categories: mysql
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/854a7c/
-tags: 
-  - null
+categories:
+  - mysql
 sidebar: auto
 ---
 

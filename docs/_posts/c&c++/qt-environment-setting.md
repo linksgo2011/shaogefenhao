@@ -1,11 +1,10 @@
 ---
 title: Mac 上 QT 环境搭建
-categories: c&c++
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/a1aa61/
-tags: 
-  - null
+categories:
+  - C++
 sidebar: auto
 ---
 

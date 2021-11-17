@@ -1,12 +1,11 @@
 ---
 title: 程序员的美德：克制、简单和笨拙
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/42bc75/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

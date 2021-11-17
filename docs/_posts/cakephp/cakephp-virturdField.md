@@ -1,10 +1,9 @@
 ---
 title: PHP 虚拟字段
-categories: php
 date: 2021-08-11 19:18:35
 permalink: /pages/402140/
-tags: 
-  - null
+categories:
+  - cakephp
 sidebar: auto
 ---
 

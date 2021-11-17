@@ -1,11 +1,10 @@
 ---
 title: css 三角形
-categories: 前端工程
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/136ee0/
-tags: 
-  - null
+categories:
+  - 前端工程
 sidebar: auto
 ---
 

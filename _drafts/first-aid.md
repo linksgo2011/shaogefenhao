@@ -1,6 +1,5 @@
 ---
 title: 海姆立克急救法
-categories: 自我管理
 toc: true
 recommend: true
 date: 2021-11-16 16:38:56

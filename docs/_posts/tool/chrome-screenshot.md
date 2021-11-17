@@ -1,15 +1,12 @@
 ---
 title: Chrome 自带截图
-categories: 开发工具
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/dc3f21/
-tags: 
-  - null
+categories:
+  - 开发工具
 sidebar: auto
 ---
-
-
 
 有时候网页截图比较麻烦，实际上 Chrome 有一个自带截图工具非常好用。
 

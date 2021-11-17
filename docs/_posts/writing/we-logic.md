@@ -1,11 +1,10 @@
 ---
 title: 【佳作分析】 当我们谈\\要有逻辑\\的时候，其实指的是什么？
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/fb008a/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: rpm 和 yum 包管理器的使用
-categories: linux
 from: self
 date: 2021-08-11 19:18:36
 permalink: /pages/c2f3d8/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

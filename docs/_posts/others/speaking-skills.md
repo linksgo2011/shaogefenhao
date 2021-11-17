@@ -1,6 +1,7 @@
 ---
 title: 怎样讲好一个故事
-categories: 自我管理
+categories: 
+   - 自我管理
 toc: true
 recommend: true
 date: 2021-11-16 16:38:56

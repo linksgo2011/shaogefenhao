@@ -1,11 +1,10 @@
 ---
 title: 好的句子收集
-categories: writing
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/d6ba52/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

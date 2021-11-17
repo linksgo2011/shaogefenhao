@@ -1,10 +1,9 @@
 ---
 title: 标准技术下的软件开发
-categories: 理论方法
 date: 2021-08-11 19:18:36
 permalink: /pages/0a1722/
-tags: 
-  - null
+categories:
+  - 规范
 sidebar: auto
 ---
 

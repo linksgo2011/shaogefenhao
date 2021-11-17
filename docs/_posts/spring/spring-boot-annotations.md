@@ -1,11 +1,10 @@
 ---
 title: Spring boot 常用注解
-categories: Spring
 from: https://blog.csdn.net/yitian_66/article/details/80866571
 date: 2021-08-11 19:18:36
 permalink: /pages/a83951/
-tags: 
-  - null
+categories:
+  - Spring 
 sidebar: auto
 ---
 

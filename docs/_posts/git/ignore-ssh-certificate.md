@@ -1,11 +1,10 @@
 ---
 title: 忽略 git SSL 证书
-categories: git
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/5ef131/
-tags: 
-  - null
+categories:
+  - git
 sidebar: auto
 ---
 

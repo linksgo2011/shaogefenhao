@@ -1,11 +1,10 @@
 ---
 title: 设计相关内容
-categories: design
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/12b9ff/
-tags: 
-  - null
+categories:
+  - UX设计
 sidebar: auto
 ---
 

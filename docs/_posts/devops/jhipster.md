@@ -1,10 +1,9 @@
 ---
 title: JHipster
-categories: java
 date: 2021-08-11 19:18:35
 permalink: /pages/47aa21/
-tags: 
-  - null
+categories:
+  - 运维开发
 sidebar: auto
 ---
 

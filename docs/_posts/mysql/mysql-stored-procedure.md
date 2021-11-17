@@ -1,11 +1,10 @@
 ---
 title: mysql 存储过程编写示例
-categories: mysql
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/33e81a/
-tags: 
-  - null
+categories:
+  - mysql
 sidebar: auto
 ---
 

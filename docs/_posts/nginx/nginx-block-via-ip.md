@@ -1,12 +1,11 @@
 ---
 title: Nginx拦截指定国家的IP
-categories: Nginx
 toc: true
 from: https://www.cnblogs.com/javafucker/p/10027850.html
 date: 2021-08-11 19:18:36
 permalink: /pages/089a86/
-tags: 
-  - null
+categories:
+  - Nginx
 sidebar: auto
 ---
 

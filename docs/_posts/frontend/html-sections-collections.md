@@ -1,11 +1,10 @@
 ---
 title: html 常用代码块
-categories: 前端工程
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/0ff628/
-tags: 
-  - null
+categories:
+  - 前端工程
 sidebar: auto
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: 使用概念图梳理编程中的概念
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/7cc008/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Hibernate 主键生成策略
-categories: hibernate
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/445aaa/
-tags: 
-  - null
+categories:
+  - hibernate
 sidebar: auto
 ---
 

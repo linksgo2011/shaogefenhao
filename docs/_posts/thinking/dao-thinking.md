@@ -1,12 +1,11 @@
 ---
 title: 道家的世界观
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/575989/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

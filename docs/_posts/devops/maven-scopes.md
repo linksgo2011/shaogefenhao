@@ -1,11 +1,10 @@
 ---
 title: maven 常见 scopes
-categories: java
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/39e3a7/
-tags: 
-  - null
+categories:
+  - 运维开发
 sidebar: auto
 ---
 

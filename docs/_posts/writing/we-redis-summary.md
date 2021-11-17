@@ -1,11 +1,10 @@
 ---
 title: 【佳作分析】 详解 Redis
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/d1be30/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

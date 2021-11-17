@@ -1,12 +1,11 @@
 ---
 title: Java web 项目线上环境配置清单
-categories: 技术架构
 toc: true
 from: self
 date: 2021-08-11 19:18:35
 permalink: /pages/fe2474/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

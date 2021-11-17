@@ -1,10 +1,9 @@
 ---
 title: php 读取文件并以文件方式下载
-categories: php
 date: 2021-08-11 19:18:36
 permalink: /pages/0b3380/
-tags: 
-  - null
+categories:
+  - PHP 基础
 sidebar: auto
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: 随笔 - 对\\大神\\的批判
-categories: thinking
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/866247/
-tags: 
-  - null
+categories:
+  - 思维和方法论
 sidebar: auto
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Spring 开启事务支持
-categories: Spring
 date: 2021-08-11 19:18:36
 permalink: /pages/bc9246/
-tags: 
-  - null
+categories:
+  - Spring 
 sidebar: auto
 ---
 

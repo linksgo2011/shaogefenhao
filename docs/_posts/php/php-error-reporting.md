@@ -1,10 +1,9 @@
 ---
 title: $_POST $_GET $_COOKIE的递归转义
-categories: php
 date: 2021-08-11 19:18:36
 permalink: /pages/cca001/
-tags: 
-  - null
+categories:
+  - PHP 基础
 sidebar: auto
 ---
 

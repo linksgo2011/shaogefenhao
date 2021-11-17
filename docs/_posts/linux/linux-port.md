@@ -1,10 +1,9 @@
 ---
 title: linux 查看端口状态
-categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/51a524/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

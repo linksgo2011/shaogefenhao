@@ -1,11 +1,10 @@
 ---
 title: EulerOS 安装 Nodejs（ARM版本）
-categories: ARM
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/2a94dc/
-tags: 
-  - null
+categories:
+  - 运维开发
 sidebar: auto
 ---
 

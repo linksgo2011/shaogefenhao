@@ -1,10 +1,9 @@
 ---
 title: DDI管理培训总结
-categories: 团队管理
 date: 2021-08-11 19:18:36
 permalink: /pages/d4659c/
-tags: 
-  - null
+categories:
+  - 管理知识
 sidebar: auto
 ---
 

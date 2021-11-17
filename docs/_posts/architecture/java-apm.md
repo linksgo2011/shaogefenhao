@@ -1,12 +1,11 @@
 ---
 title: java 性能监控
-categories: 技术架构
 toc: true
 from: self
 date: 2021-08-11 19:18:35
 permalink: /pages/e8ba75/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

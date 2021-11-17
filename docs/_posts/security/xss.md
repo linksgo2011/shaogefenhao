@@ -1,11 +1,10 @@
 ---
 title: XSS 攻击和处理
-categories: 安全
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/2d6883/
-tags: 
-  - null
+categories:
+  - 安全
 sidebar: auto
 ---
 

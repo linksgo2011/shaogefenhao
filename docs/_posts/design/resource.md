@@ -1,9 +1,8 @@
 ---
 title: 插画素材资源
-categories: design
 toc: true
-tags: 
-  - null
+categories:
+  - UX设计
 sidebar: auto
 date: 2021-10-05 22:36:26
 permalink: /pages/224bb2/

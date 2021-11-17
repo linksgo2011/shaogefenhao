@@ -1,11 +1,10 @@
 ---
 title: CentOS 搭建 vsftp
-categories: linux
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/07b7fc/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

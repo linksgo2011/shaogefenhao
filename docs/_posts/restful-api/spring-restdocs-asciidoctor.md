@@ -1,11 +1,10 @@
 ---
 title: spring-restdocs-asciidoctor
-categories: API设计
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/6994c8/
-tags: 
-  - null
+categories:
+  - Rest API
 sidebar: auto
 ---
 

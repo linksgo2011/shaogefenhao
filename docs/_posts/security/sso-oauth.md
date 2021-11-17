@@ -1,11 +1,10 @@
 ---
 title: 大型系统 IAM 机制
-categories: 安全
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/eb0cc7/
-tags: 
-  - null
+categories:
+  - 安全
 sidebar: auto
 ---
 

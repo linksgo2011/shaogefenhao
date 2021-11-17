@@ -1,11 +1,10 @@
 ---
 title: Java 线程池使用
-categories: java
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/1aa2d5/
-tags: 
-  - null
+categories:
+  java 基础
 sidebar: auto
 ---
 

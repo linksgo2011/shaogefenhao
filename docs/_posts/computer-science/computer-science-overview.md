@@ -1,11 +1,10 @@
 ---
 title: 计算机科学知识大纲
-categories: computer-science
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/b59853/
-tags: 
-  - null
+categories:
+  - 计算机科学
 sidebar: auto
 ---
 

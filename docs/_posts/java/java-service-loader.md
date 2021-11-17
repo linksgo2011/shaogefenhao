@@ -1,10 +1,9 @@
 ---
 title: Java 原生的 service loader
-categories: java
 date: 2021-08-11 19:18:36
 permalink: /pages/4d52e6/
-tags: 
-  - null
+categories:
+  java 基础
 sidebar: auto
 ---
 

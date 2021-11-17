@@ -1,11 +1,10 @@
 ---
 title: 在线协作方案
-categories: architecture
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/ccf43d/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

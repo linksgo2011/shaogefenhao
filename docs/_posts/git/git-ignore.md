@@ -1,11 +1,10 @@
 ---
 title: git 忽略一些文件
-categories: git
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/288e12/
-tags: 
-  - null
+categories:
+  - git
 sidebar: auto
 ---
 

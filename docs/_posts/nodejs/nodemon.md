@@ -1,11 +1,10 @@
 ---
 title: Nodejs 热重启工具
-categories: nodejs
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/524819/
-tags: 
-  - null
+categories:
+  - nodejs
 sidebar: auto
 ---
 

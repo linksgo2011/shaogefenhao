@@ -1,6 +1,7 @@
 ---
 title: 开发者如何快速熟悉一个新项目
-categories: 自我管理
+categories: 
+   - 自我管理
 toc: true
 recommend: true
 date: 2021-11-16 16:38:56

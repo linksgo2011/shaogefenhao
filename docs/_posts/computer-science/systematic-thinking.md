@@ -1,11 +1,10 @@
 ---
 title: 系统思考的方法
-categories: computer-science
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/106998/
-tags: 
-  - null
+categories:
+  - 计算机科学
 sidebar: auto
 ---
 

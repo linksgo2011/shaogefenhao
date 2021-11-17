@@ -1,10 +1,9 @@
 ---
 title: linux 命令总览
-categories: linux
 date: 2021-08-11 19:18:36
 permalink: /pages/c3ba1a/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

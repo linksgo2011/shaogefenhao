@@ -1,11 +1,10 @@
 ---
 title: 软件规范化指南
-categories: 技术架构
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/e7089c/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

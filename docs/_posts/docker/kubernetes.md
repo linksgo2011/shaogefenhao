@@ -1,11 +1,10 @@
 ---
 title: kubernetes
-categories: docker
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/c25cbe/
-tags: 
-  - null
+categories:
+  - docker
 sidebar: auto
 ---
 

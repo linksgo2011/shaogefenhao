@@ -1,11 +1,10 @@
 ---
 title: 【佳作分析】 思特沃克:我们在进行一种理念和 工作模式的革新
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/d69973/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

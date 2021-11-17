@@ -1,11 +1,10 @@
 ---
 title: Java 工程师基本知识
-categories: 面试
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/a112fb/
-tags: 
-  - null
+categories:
+  - 面试技巧
 sidebar: auto
 ---
 

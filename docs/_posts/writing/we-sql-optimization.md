@@ -1,11 +1,10 @@
 ---
 title: 或许你不知道的12条SQL技巧
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/58ae2c/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

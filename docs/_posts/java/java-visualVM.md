@@ -1,11 +1,10 @@
 ---
 title: Java 内存分析工具 VisualVM
-categories: java
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/fdf5ef/
-tags: 
-  - null
+categories:
+  java 基础
 sidebar: auto
 ---
 

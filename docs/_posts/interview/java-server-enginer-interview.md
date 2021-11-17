@@ -1,10 +1,9 @@
 ---
 title: Java 服务端高级工程师面试合集
-categories: interview
 date: 2021-08-11 19:18:36
 permalink: /pages/bf301f/
-tags: 
-  - null
+categories:
+  - 面试技巧
 sidebar: auto
 ---
 

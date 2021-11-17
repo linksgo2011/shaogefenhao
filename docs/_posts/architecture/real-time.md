@@ -1,11 +1,10 @@
 ---
 title: 基于服务端 store 模式的多用户实时协作方案
-categories: 技术架构
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/e489aa/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

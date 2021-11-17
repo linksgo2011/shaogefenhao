@@ -1,11 +1,10 @@
 ---
 title: 软件工程师必读书单
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/7cb061/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 

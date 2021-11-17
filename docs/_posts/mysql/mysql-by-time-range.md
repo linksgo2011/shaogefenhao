@@ -1,10 +1,9 @@
 ---
 title: MySQL 根据时间段获取数据
-categories: php
 date: 2021-08-11 19:18:36
 permalink: /pages/f02eeb/
-tags: 
-  - null
+categories:
+  - mysql
 sidebar: auto
 ---
 

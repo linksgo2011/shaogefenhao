@@ -1,11 +1,10 @@
 ---
 title: 免费的CI/CD 工具
-categories: 运维开发
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/4c7b53/
-tags: 
-  - null
+categories:
+  - 运维开发
 sidebar: auto
 ---
 

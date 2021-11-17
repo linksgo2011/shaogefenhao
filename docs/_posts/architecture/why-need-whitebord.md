@@ -1,14 +1,13 @@
 ---
 title: 为什么工程师都需要一块白板
-categories: 技术架构
 toc: true
 recommend: true
 keyword: 白板,在线协作
 description: 一家靠谱的软件公司的墙面上都有许多写字的白板，越是专业的软件公司，越会使用白板来进行讨论。白板甚至是一种文化，越来越多的公司在办公室提供可以写字的墙面和容易擦写的马克笔。
 date: 2021-08-11 19:18:35
 permalink: /pages/f7918b/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

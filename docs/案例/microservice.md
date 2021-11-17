@@ -1,10 +1,9 @@
 ---
 title: 微服务
-categories: 理论方法
 date: 2021-08-11 19:18:36
 permalink: /pages/4c7ca1/
-tags: 
-  - null
+categories:
+  - 案例
 sidebar: auto
 ---
 

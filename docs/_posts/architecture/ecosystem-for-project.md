@@ -1,12 +1,10 @@
 ---
 title: 一个敏捷项目需要的相关技术实践
-categories: 
-  - 团队管理
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/6bb481/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

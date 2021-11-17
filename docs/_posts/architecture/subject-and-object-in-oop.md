@@ -1,10 +1,9 @@
 ---
 title: 面向对象中的主体客体思维
-categories: 技术架构
 date: 2021-08-11 19:18:35
 permalink: /pages/97aa7e/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

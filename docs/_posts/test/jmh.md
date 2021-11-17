@@ -1,13 +1,12 @@
 ---
 title: Java JMH 微基准测试
-categories: 质量保证
 toc: true
 from: self
 Recommend: true
 date: 2021-08-11 19:18:36
 permalink: /pages/c6e626/
-tags: 
-  - null
+categories:
+  - 测试技术
 sidebar: auto
 ---
 

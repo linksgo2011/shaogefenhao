@@ -1,11 +1,10 @@
 ---
 title: linux 使用 alternatives 切换Java版本
-categories: linux
 from: self
 date: 2021-08-11 19:18:36
 permalink: /pages/078a3d/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

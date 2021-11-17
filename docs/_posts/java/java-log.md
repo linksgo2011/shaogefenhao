@@ -1,12 +1,11 @@
 ---
 title: Java 日志
-categories: java
 toc: true
 from: https://www.cnblogs.com/zyybb/p/10535735.html
 date: 2021-08-11 19:18:36
 permalink: /pages/733257/
-tags: 
-  - null
+categories:
+  java 基础
 sidebar: auto
 ---
 

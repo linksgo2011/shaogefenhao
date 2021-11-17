@@ -1,11 +1,10 @@
 ---
 title: 【翻译】单体优先的架构策略
-categories: 技术架构
 author: Martin Fowler
 date: 2021-08-11 19:18:35
 permalink: /pages/2a1653/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

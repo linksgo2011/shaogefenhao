@@ -1,11 +1,10 @@
 ---
 title: 对话框之间的数据传递
-categories: c&c++
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/638e7f/
-tags: 
-  - null
+categories:
+  - C++
 sidebar: auto
 ---
 

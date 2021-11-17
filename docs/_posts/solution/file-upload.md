@@ -1,11 +1,10 @@
 ---
 title: 文件上传
-categories: 技术方案
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/8545ee/
-tags: 
-  - null
+categories:
+  - 技术方案
 sidebar: auto
 ---
 

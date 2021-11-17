@@ -1,11 +1,10 @@
 ---
 title: 企业架构建模的挑战和机遇
-categories: 技术架构
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/5c1e31/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

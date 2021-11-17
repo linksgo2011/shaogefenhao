@@ -1,10 +1,9 @@
 ---
 title: Web网站的几个并发量级
-categories: 技术架构
 date: 2021-08-11 19:18:35
 permalink: /pages/90e783/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

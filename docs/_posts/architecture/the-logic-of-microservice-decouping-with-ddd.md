@@ -1,12 +1,11 @@
 ---
 title: 使用 DDD 指导微服务拆分的逻辑
-categories: 技术架构
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
 permalink: /pages/004d92/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

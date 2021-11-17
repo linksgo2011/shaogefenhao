@@ -1,12 +1,11 @@
 ---
 title: 使用git钩子对提交代码进行检查
-categories: git
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:35
 permalink: /pages/65f1ed/
-tags: 
-  - null
+categories:
+  - git
 sidebar: auto
 ---
 
@@ -135,4 +134,3 @@ done
 
 - https://stackoverflow.com/questions/39419360/git-pre-receive-hook-to-check-commit-message
 
-  

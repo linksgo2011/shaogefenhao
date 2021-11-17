@@ -1,10 +1,9 @@
 ---
 title: 快速学习的一些要点
-categories: 职业素质
 date: 2021-08-11 19:18:36
 permalink: /pages/e7949d/
-tags: 
-  - null
+categories:
+  - 职业效率
 sidebar: auto
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: vc驿站视频教程笔记 vc++编程环境的介绍
-categories: c&c++
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/b0c9b5/
-tags: 
-  - null
+categories:
+  - C++
 sidebar: auto
 ---
 

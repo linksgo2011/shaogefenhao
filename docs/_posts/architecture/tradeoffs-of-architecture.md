@@ -1,12 +1,11 @@
 ---
 title: 架构中的矛盾和权衡
-categories: 技术架构
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
 permalink: /pages/5cd192/
-tags: 
-  - null
+categories:
+  - 架构
 sidebar: auto
 ---
 

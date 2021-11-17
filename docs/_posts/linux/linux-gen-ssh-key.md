@@ -1,11 +1,10 @@
 ---
 title: 使用和生成 SSH key 登录 Linux 服务器
-categories: linux
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/662e1c/
-tags: 
-  - null
+categories:
+  - linux
 sidebar: auto
 ---
 

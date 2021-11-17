@@ -1,12 +1,11 @@
 ---
 title: 获取 Spring 的 ApplicationContext
-categories: Spring
 toc: true
 from: https://www.cnblogs.com/wangcp-2014/p/8126187.html
 date: 2021-08-11 19:18:36
 permalink: /pages/c47c2b/
-tags: 
-  - null
+categories:
+  - Spring 
 sidebar: auto
 ---
 
@@ -83,4 +82,3 @@ import org.springframework.web.context.WebApplicationContext;
 WebApplicationContext wac = ContextLoader.getCurrentWebApplicationContext(); 
   wac.getBean(beanID);
 
- 

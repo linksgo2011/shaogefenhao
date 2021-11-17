@@ -1,10 +1,9 @@
 ---
 title: 使用 spring-security-test 作为 user mock
-categories: 质量保证
 date: 2021-08-11 19:18:36
 permalink: /pages/30293d/
-tags: 
-  - null
+categories:
+  - 测试技术
 sidebar: auto
 ---
 

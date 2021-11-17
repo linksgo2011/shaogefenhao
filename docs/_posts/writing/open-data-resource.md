@@ -1,11 +1,10 @@
 ---
 title: 写作的数据来源总结
-categories: 写作技巧
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/87e69d/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 
@@ -137,4 +136,3 @@ Datafountain：CCF制定大数据竞赛平台。
 
 - https://www.zhihu.com/question/27692329/answer/1323609882
 
-  

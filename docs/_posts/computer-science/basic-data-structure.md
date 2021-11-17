@@ -1,11 +1,10 @@
 ---
 title: 数据结构中的基本概念
-categories: computer-science
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/fc219b/
-tags: 
-  - null
+categories:
+  - 计算机科学
 sidebar: auto
 ---
 

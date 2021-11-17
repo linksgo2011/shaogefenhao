@@ -1,12 +1,11 @@
 ---
 title: 【转载】亿级用户下的新浪微博平台架构
-categories: 案例学习
 toc: true
 from: https://www.infoq.cn/article/weibo-platform-archieture/?utm_source=articles_about_evaluation&utm_medium=link&utm_campaign=evaluation
 date: 2021-08-11 19:18:35
 permalink: /pages/7500e2/
-tags: 
-  - null
+categories:
+  - 收集的文章
 sidebar: auto
 ---
 

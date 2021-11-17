@@ -1,11 +1,10 @@
 ---
 title: React学习体系
-categories: react
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/1345f3/
-tags: 
-  - null
+categories:
+  - React
 sidebar: auto
 ---
 

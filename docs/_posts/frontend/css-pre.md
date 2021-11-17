@@ -1,11 +1,10 @@
 ---
 title: css pre 导致自动换行
-categories: 前端工程
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/71682a/
-tags: 
-  - null
+categories:
+  - 前端工程
 sidebar: auto
 ---
 

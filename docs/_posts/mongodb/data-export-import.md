@@ -1,10 +1,9 @@
 ---
-title: mongodb 的数据导入\\\\导出
-categories: mongodb
+title: mongodb 的数据导入导出
 date: 2021-08-11 19:18:36
 permalink: /pages/7c23dc/
-tags: 
-  - null
+categories:
+  - mongodb
 sidebar: auto
 ---
 

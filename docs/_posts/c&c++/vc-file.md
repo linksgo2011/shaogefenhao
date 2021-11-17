@@ -1,11 +1,10 @@
 ---
 title: 文件操作
-categories: c&c++
 toc: true
 date: 2021-08-11 19:18:35
 permalink: /pages/9043c5/
-tags: 
-  - null
+categories:
+  - C++
 sidebar: auto
 ---
 

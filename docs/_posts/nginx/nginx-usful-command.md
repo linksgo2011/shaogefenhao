@@ -1,11 +1,10 @@
 ---
 title: Nginx 常用操作
-categories: Nginx
 toc: true
 date: 2021-08-11 19:18:36
 permalink: /pages/a5bfc5/
-tags: 
-  - null
+categories:
+  - Nginx
 sidebar: auto
 ---
 

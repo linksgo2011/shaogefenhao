@@ -1,10 +1,9 @@
 ---
 title: 一些写作技巧
-categories: 写作技巧
 date: 2021-08-11 19:18:36
 permalink: /pages/ab43fe/
-tags: 
-  - null
+categories:
+  - 写作
 sidebar: auto
 ---
 
