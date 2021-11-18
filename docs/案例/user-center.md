@@ -1,8 +1,10 @@
 ---
 title: 【DDD诊所】一个系统为不同用户群体如何设计？
-categories:
+categories: 
   - 案例
 sidebar: auto
+date: 2021-11-18 15:43:17
+permalink: /pages/cf683e/
 ---
 
 ## 问题
@@ -37,5 +39,5 @@ sidebar: auto
 
 参考的方案如下（由于背景信息有限仅供参考，由阎华老师提供）：
 
-![阎华老师提供](user-center/image-20211118155025835.png)
+![阎华老师提供](./user-center/image-20211118155025835.png)
 
