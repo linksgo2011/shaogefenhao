@@ -1,5 +1,5 @@
 folder=_posts/thinking
-fileName=product-process
+fileName=zhuketi-modeling
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build

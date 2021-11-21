@@ -1,8 +1,7 @@
 ---
 title: 新手驾驶指南
 toc: true
-date: 2021-11-16 16:38:56
-permalink: /pages/4e89fb/
+permalink: /pages/learn-to-drive/
 sidebar: auto
 ---
 

@@ -10,3 +10,8 @@ My blog v2.0
 ```markdown
 ![名称](./xxx.png)
 ```
+
+
+2. 生成 word 打印
+> pandoc docs/_posts/thinking/zhuketi-modeling.md -o zhuketi-modeling.docx --reference-doc template.docx
+
