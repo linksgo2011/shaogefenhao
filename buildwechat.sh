@@ -1,5 +1,5 @@
 folder=_posts/thinking
-fileName=zhuketi-modeling
+fileName=zhuketi-naming
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build
