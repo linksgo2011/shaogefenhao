@@ -3,9 +3,10 @@ title: 主客体建模法
 toc: true
 recommend: true
 permalink: /pages/zhuketi-modeling
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+date: 2021-11-19 22:26:10
 ---
 
 
