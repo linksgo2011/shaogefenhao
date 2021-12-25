@@ -1,5 +1,5 @@
 folder=_posts/thinking
-fileName=zhuketi-naming
+fileName=concept-map
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build
