@@ -87,7 +87,7 @@ sidebar: auto
 - 《多对多关系建模》
 - 《用例处理过程》
 - 《让你的任务具有可执行性》
-- 《为什么架构师需要一块白板》
+- 《为什么架构师需要一块白板》 done
 - 《类型安全的数据查询》
 - 《Redis cluster 中使用 Scan 的问题》
 - 《分层的 RBAC 模型（每层都增加会话）》
@@ -103,9 +103,18 @@ sidebar: auto
 - 《咨询师：我们都是补锅人》
 - 《模型驱动真的的低代码开发》
 - 《深入理解 repository 》querywraper + nameof
-- 《应用和服务分离》
+- 《应用和服务分离》 done
 - 《用政务中心比喻 DDD 分层架构》
 - 《Cache VS Buffer》https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/cache.html
+- 《主客体建模法的形式化分析》
+- 《DDD 诊所：大中台和小中台》
+- 高认知的软件工程
+- 高认知的业务分析
+- 高认知的架构分析
+- 高认知管理
+- 用分布式思维做架构 
+  - https://www.jianshu.com/p/39ebeda5e4b9
+  - https://www.jianshu.com/p/51a7ffabdf03?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
 ## 生活类
 
@@ -126,4 +135,7 @@ sidebar: auto
 - 《30 岁的工作感悟》30 岁后的能力要求不一样，更多的是为了组织能力、定力
 - 《写业务代码用不到算法吗？》
 - 《互联网产品背后的逻辑》广义的产品包含线下服务和标准下的产品
+- 《技术的背后》可以使用 ”你以为是技术问题，实际上是经济问题；你以为是经济问题，实际上是政治问题。 “
+- 《如何克服演讲、写作的面子问题》
+- 《遇到问题时候的态度》。1. 生气，让自己被问题牵着走 2. 反过来看，这些问题能给我们带来哪些经验
 

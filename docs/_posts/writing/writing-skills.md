@@ -53,7 +53,7 @@ sidebar: auto
 - 文章的案例和陈述是肉
 - 文章的格式和错误是皮
 
-## 文体分类和模板
+## 文体分类和模仿对象
 
 目前文体分类不是特别严格，并且争议比较大。但是对文体进行分类对写作的特征更有帮助。
 
@@ -161,6 +161,8 @@ sidebar: auto
   - 解读 TDD https://www.jianshu.com/p/62f16cd4fef3 
 - 老钱的掘金小册 https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b336601f265da598e13f917
 - 书籍模仿《 JUnit实战》
+- 高阅读量文章
+  - 《中台是个什么鬼?》 https://insights.thoughtworks.cn/what-is-zhongtai/
 
 
 
@@ -304,7 +306,9 @@ sidebar: auto
 
 
 
-## Q&A 
+## 什么样的文章可以获得高阅读量？
+
+1. 
 
 
 

@@ -2,7 +2,10 @@
 title: 离线应用设计
 toc: true
 sidebar: auto
-permalink: /solution/offline-application
+permalink: /architecture/offline-application
+date: 2021-12-25 13:53:59
+categories: 
+  - 架构
 ---
 
 在当下的世界，互联网已经如同水、电、气一般的广泛的存在于我们的生活中，构建离线应用好像不再必要。或者说，丢失网络连接的情况也只是暂时性的，因此现代软件越来越依赖网络连接。
