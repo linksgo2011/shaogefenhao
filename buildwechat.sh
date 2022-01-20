@@ -1,5 +1,5 @@
-folder=_posts/thinking
-fileName=concept-map
+folder=01.建模/02.领域驱动设计
+fileName=17.ddd-limitation
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build
