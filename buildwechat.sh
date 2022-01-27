@@ -1,5 +1,5 @@
-folder=01.建模/02.领域驱动设计
-fileName=17.ddd-limitation
+folder=02.架构/01.架构设计
+fileName=02.too-many-services
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build

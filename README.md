@@ -13,5 +13,5 @@ My blog v2.0
 
 
 2. 生成 word 打印
-> pandoc docs/_posts/thinking/zhuketi-modeling.md -o zhuketi-modeling.docx --reference-doc template.docx
+> pandoc docs/04.《高认知软件工程》/00-preface.md -o preface.docx --reference-doc template.docx
 
