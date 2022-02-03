@@ -1,7 +1,7 @@
 ---
 title: 微服务
 date: 2021-08-11 19:18:36
-permalink: /pages/4c7ca1/
+permalink: /case-study/microservice/
 categories:
   - 案例
 sidebar: auto

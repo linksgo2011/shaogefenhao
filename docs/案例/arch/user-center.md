@@ -4,7 +4,7 @@ categories:
   - 案例
 sidebar: auto
 date: 2021-11-18 15:43:17
-permalink: /pages/cf683e/
+permalink: /case-study/user-center/
 ---
 
 ## 01 问题
