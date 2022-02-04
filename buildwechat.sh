@@ -1,5 +1,5 @@
-folder=02.架构/01.架构设计
-fileName=02.too-many-services
+folder=_posts/testing
+fileName=arch-unit
 imageHost=https://github.com/shaogefenhao/wiki/raw/master/docs/$folder/
 
 rm -rf build
