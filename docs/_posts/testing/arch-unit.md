@@ -1,9 +1,10 @@
 ---
 title: 架构守护测试：ArchUnit
 permalink: /testing/arch-unit/
-categories:
+categories: 
   - 测试技术
 sidebar: auto
+date: 2022-02-04 14:40:24
 ---
 
 有过大量经验的开发者都知道的一个事实，软件项目和架构极其容易腐化。在没有很好地管控下，无论采用 MVC 三层架构还是 DDD 的四层架构，代码的结构会在几个月内变得混乱不堪。
@@ -122,7 +123,7 @@ ArchUnit 本身也是按照分层架构设计的，其 API 分为 三层：
 
 ArchUnit 使用比较简单，可以通过 JUnit 的 Runner 运行，也可以通过 Maven、Gradle 等构建工具来运行。下面我们使用 JUnit 作为示例，演示如何使用 ArchUnit。
 
-ArchUnit 支持不同的测试框架，这里使用 JUnit 4。关于 JUnit 的内容可以不用过多的关注，在下一章会进行介绍，因为 ArchUnit 更像是代码规范的检查而不是测试，虽然它使用了 JUnit 平台，其实大家更愿意把它划分到代码静态检查中进行讨论。
+ArchUnit 支持不同的测试框架，这里使用 JUnit 4。ArchUnit 更像是代码规范的检查而不是测试，虽然它使用了 JUnit 平台，其实大家更愿意把它划分到代码静态检查中进行讨论。
 
 ```
 <dependency>
@@ -141,7 +142,7 @@ ArchUnit 支持不同的测试框架，这里使用 JUnit 4。关于 JUnit 的�
 
 我准备了一个 Demo 应用，有三个包和三个主要的类。
 
-![img](arch-unit/wps8cPAvQ.jpg) 
+![img](./arch-unit/wps8cPAvQ.jpg) 
 
 分别应用于下面的规则：
 
