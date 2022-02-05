@@ -1,10 +1,10 @@
 ---
 title: 那些我在 BeeArt 学到的
 categories: 
-  - 团队管理
+  - 自我管理
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/team/leaned-from-bees/
+permalink: /others/leaned-from-bees/
 tags: 
   - 
 ---

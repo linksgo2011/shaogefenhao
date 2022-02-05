@@ -1,6 +1,5 @@
 ---
 title: 为什么 Linux 能流行开？
-date: 2021-08-11 19:18:36
 permalink: /case-study/why-linux-became-popular
 categories:
   - 案例
@@ -21,5 +20,4 @@ sidebar: auto
 从这个案例中带了两点启示：
 1. 趋势往往不受人的意志而转移，或者个人意志影响趋势的可能性较小。
 2. 驱动人们行为背后的动机是自私，即使是"无私"的人也是在获得自我实现、道德感形式上的自私。
-
 
