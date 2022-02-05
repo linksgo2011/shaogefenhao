@@ -2,7 +2,6 @@
 title: 批量任务执行
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/f52792/
 categories:
   - 架构
 sidebar: auto
@@ -15,25 +14,11 @@ sidebar: auto
 - 中途失败能重启
 - 能手动干预启停
 
-## 解决方案
-
-
-
-### 批量任务核心概念
-
-
-
-
-
-
-
-### 其他方案
+### 方案
 
 - kettle
 - sqoop
 - datax
-
-
 
 ## 参考资料 
 

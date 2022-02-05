@@ -2,7 +2,7 @@
 title: 为什么 Linux 能流行开？
 permalink: /case-study/why-linux-became-popular
 categories: 
-  - 案例
+  - 案例分析
 sidebar: auto
 date: 2022-02-03 18:11:26
 ---

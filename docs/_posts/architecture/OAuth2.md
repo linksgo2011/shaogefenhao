@@ -1,7 +1,6 @@
 ---
 title: OAuth2 架构设计
 date: 2021-08-11 19:18:35
-permalink: /pages/fc30bf/
 categories:
   - 架构
 sidebar: auto

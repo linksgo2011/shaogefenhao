@@ -3,7 +3,6 @@ title: 常见线上调优参数和性能优化
 toc: true
 from: other
 date: 2021-08-11 19:18:35
-permalink: /pages/392220/
 categories:
   - 架构
 sidebar: auto

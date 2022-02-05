@@ -1,13 +1,10 @@
 ---
 title: 多对多关系解耦的数学原理
 date: 2021-08-11 19:18:35
-permalink: /pages/6bb5b8/
 categories:
   - 架构
 sidebar: auto
 ---
-
-
 
 **注：由于作者的数学水平有限，欢迎就文章中的问题留言交流**
 

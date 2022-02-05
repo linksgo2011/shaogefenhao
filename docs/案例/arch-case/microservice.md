@@ -3,7 +3,7 @@ title: 微服务
 date: 2021-08-11 19:18:36
 permalink: /case-study/microservice/
 categories:
-  - 案例
+  - 案例分析
 sidebar: auto
 ---
 

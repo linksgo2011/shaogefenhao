@@ -2,7 +2,6 @@
 title: Java CMS 选型
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/1a0870/
 categories:
   - 架构
 sidebar: auto

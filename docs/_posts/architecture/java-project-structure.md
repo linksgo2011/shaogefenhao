@@ -1,7 +1,6 @@
 ---
 title: Java web project 概览
 date: 2021-08-11 19:18:35
-permalink: /pages/7e5f6f/
 categories:
   - 架构
 sidebar: auto

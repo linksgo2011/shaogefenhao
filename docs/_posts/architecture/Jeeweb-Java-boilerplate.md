@@ -1,7 +1,6 @@
 ---
 title: Jeeweb - SpringMVC+Spring+Hibernate 项目模板
 date: 2021-08-11 19:18:35
-permalink: /pages/60a078/
 categories:
   - 架构
 sidebar: auto

@@ -3,7 +3,6 @@ title: Java 一些开源后台管理种子项目
 toc: true
 from: self
 date: 2021-08-11 19:18:35
-permalink: /pages/6c8aa8/
 categories:
   - 架构
 sidebar: auto

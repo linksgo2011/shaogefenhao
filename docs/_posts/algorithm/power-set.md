@@ -2,7 +2,6 @@
 title: 幂集算法
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/3a12c2/
 categories:
   - 算法
 sidebar: auto

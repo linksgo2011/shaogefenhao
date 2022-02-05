@@ -2,7 +2,6 @@
 title: 软件规范化指南
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/e7089c/
 categories:
   - 架构
 sidebar: auto

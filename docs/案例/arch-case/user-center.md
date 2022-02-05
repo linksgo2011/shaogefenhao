@@ -1,7 +1,7 @@
 ---
 title: 【DDD诊所】一个系统为不同用户群体如何设计？
 categories: 
-  - 案例
+  - 案例分析
 sidebar: auto
 date: 2021-11-18 15:43:17
 permalink: /case-study/user-center/

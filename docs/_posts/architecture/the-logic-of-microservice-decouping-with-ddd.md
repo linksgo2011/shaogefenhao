@@ -3,7 +3,6 @@ title: 使用 DDD 指导微服务拆分的逻辑
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
-permalink: /pages/004d92/
 categories:
   - 架构
 sidebar: auto
@@ -27,7 +26,7 @@ sidebar: auto
 
 大量的实践教训告诉我们，混沌的微服务架构，比解耦良好的单体应用会带来更多麻烦。
 
-![chaotic-or-clear.png](the-logic-of-microservice-decouping-with-ddd/4059565328.png)
+![chaotic-or-clear.png](./the-logic-of-microservice-decouping-with-ddd/4059565328.png)
 
 （混乱的微服务VS良好的单体）
 
@@ -39,7 +38,7 @@ sidebar: auto
 - 检验模型是否得到合适的的抽象，并能反映系统设计和响应业务变化。
 - 从 DDD 的限界上下文往微服务转化，并得到系统架构、API列表、集成方式等产出。
 
-![decouple-miroservice-process.png](http://www.printf.cn/usr/uploads/2019/09/3207223940.png)
+![decouple-miroservice-process.png](./the-logic-of-microservice-decouping-with-ddd/3207223940.png)
 
 （使用DDD划分微服务的过程）
 
@@ -53,7 +52,7 @@ sidebar: auto
 
 我们可以使用概念图来描述一些概念的抽象关系。
 
-![product-concept-diagram.png](the-logic-of-microservice-decouping-with-ddd/390078919.png)
+![product-concept-diagram.png](./the-logic-of-microservice-decouping-with-ddd/390078919.png)
 （商品这一概念的概念图）
 如果没有抽象出领域模型，就得不到正确的微服务划分。
 
@@ -73,7 +72,7 @@ DDD的方法论中是如何找到子系统的边界的呢？
 
 于是可以通过收集上面的事件了解到，“哦，原来是商品相关事件是对系统中商品状态做出的改变，商品可以表达系统中某一部分，商品可以作为模型”。
 
-![abstract-model.png](the-logic-of-microservice-decouping-with-ddd/993640989.png)
+![abstract-model.png](./the-logic-of-microservice-decouping-with-ddd/993640989.png)
 
 （利用事件刺探业务黑盒并抽象出模型）
 
@@ -85,7 +84,7 @@ DDD的方法论中是如何找到子系统的边界的呢？
 
 合理的设计应该是：商品服务提供商品的信息给订单服务，但是订单服务没有理由修改商品信息，而是访问作为商品快照的订单项。订单项应该作为一个独立的概念被划分到订单服务中，而不是和商品使用同一个概念，甚至共享同一张数据库表。
 
-![good-dependent.png](the-logic-of-microservice-decouping-with-ddd/2331958680.png)
+![good-dependent.png](./the-logic-of-microservice-decouping-with-ddd/2331958680.png)
 
 （典型具有”二义性“陷阱的场景）
 
@@ -102,21 +101,21 @@ DDD的方法论中是如何找到子系统的边界的呢？
 原则1，设计出来的限界上下文之间的互相依赖应该越少越好，依赖的上游不应该知道下游的信息。（被依赖者，例如订单依赖商品，商品不需要知道订单的信息）。
 原则2，使用潜在业务进行适配，如果能在一定程度上响应业务变化，则证明用它指导出来的微服务可以在相当一段时间内足以支撑应用开发。
 
-![model-2-context.png](the-logic-of-microservice-decouping-with-ddd/1363541114.png)
+![model-2-context.png](./the-logic-of-microservice-decouping-with-ddd/1363541114.png)
 （一般抽象程度的领域模型）
 
 上图是一个电信运营商的领域模型的局部，这部分展示了电信号码资源以及群组、用户、宽带业务、电话业务这几个限界上下文。主要业务逻辑是，系统提供了号码资源，用户在创建时会和号码资源进行绑定写卡操作，最后再开通电话或宽带业务。在开通电话这个业务流程中，号码资源并不需要知道调用者的信息。
 
 但是理想的领域模型往往抽象程度、成本、复用性这几个因素中获取平衡，软件设计往往没有理想的领域模型，大多数情况下都是平衡各种因素的苟且，因此评审领域模型时也要考虑现实的制约。
 
-![abstract-cost.png](http://www.printf.cn/usr/uploads/2019/09/3780985474.png)
+![abstract-cost.png](./the-logic-of-microservice-decouping-with-ddd/3780985474.png)
 （”抽象”的成本）
 
 用一个简单的图来表达话，我们的领域模型设计往往在复用性和成本取得平衡的中间区域才有实用价值。前面电信业务同样的场景，业务专家和架构师表示，我们需要更为高度的抽象来满足未来更多业务的接入，因此对于两个业务来说，我们需要进一步抽象出产品和订单的概念。
 
 但是同时需要注意到，我们最终落地时的微服务会变得更多，也变得更为复杂，当然优势也是很明显的 —— 更多的业务可以接入订单服务，同时订单服务不需要知道接入的具体业务。对于用户的感知来说，可以一次办理多个业务并统一支付了，这正是某电信当前的痛点之一。
 
-![model-2-context-explicit.png](the-logic-of-microservice-decouping-with-ddd/1868312481.png)
+![model-2-context-explicit.png](./the-logic-of-microservice-decouping-with-ddd/1868312481.png)
 （高度抽象的领域模型）
 
 ## 几个典型的误区
@@ -150,14 +149,14 @@ DDD的方法论中是如何找到子系统的边界的呢？
 
 对微服务或DDD理解不够。模型具有二义性，被放到不同的限界上下文。例如，订单中的收货地址、用户配置的常用地址以及地址库中的标准地址。这三种地址虽然名称类似，但是在概念上完全不是一回事，假如架构师将”地址“划分到了标准地址库中，势必会造成用户上下文和系统配置上下文、订单上下文存在不必要的耦合。
 
-![bad-dependce.png](the-logic-of-microservice-decouping-with-ddd/767139593.png)
+![bad-dependce.png](./the-logic-of-microservice-decouping-with-ddd/767139593.png)
 （左边为抽象错误带来的依赖，右边为正确的依赖关系）
 
 上图的右边为正常的依赖关系，左边产生了不正常的依赖，会进一步产生双向依赖。
 
 在系统设计时，领域模型的二义性是一个比较难以识别和理解问题。好在我们可以通过画概念图来梳理这些概念的关系，概念图是中学教辅解释大量概念的惯用手段，在表达系统设计时一样有用。
 
-![address-concept-diatram.png](the-logic-of-microservice-decouping-with-ddd/1361534084.png)
+![address-concept-diatram.png](./the-logic-of-microservice-decouping-with-ddd/1361534084.png)
 （电商系统中“地址”概念的梳理）
 
 与地址类似的常见还有商品和订单项中的商品；用户和用户组之间有一个成员的概念；短信的概念应该更为具体到一条具体的短信和短信模板的区别。
@@ -170,7 +169,7 @@ DDD的方法论中是如何找到子系统的边界的呢？
 
 另外企业组织架构和技术架构的关系，请参考康威定律的叙述。一个由无数敏捷团队组成的企业，和微服务有天然的联系；传统实时瀑布模型的企业，在大型软件时代竞争力十足，但是在互联网时代却无力应对变化。
 
-![org-architecture.png](the-logic-of-microservice-decouping-with-ddd/820780053.png)
+![org-architecture.png](./the-logic-of-microservice-decouping-with-ddd/820780053.png)
 （常见一些公司的组织架构）
 
 ### 抽象程度过高

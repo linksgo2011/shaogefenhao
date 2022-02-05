@@ -2,7 +2,6 @@
 title: 一套分布式系统架构的技术集合
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/d4efed/
 categories:
   - 架构
 sidebar: auto

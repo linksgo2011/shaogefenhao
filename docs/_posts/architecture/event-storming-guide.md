@@ -2,7 +2,6 @@
 title: DDD 建模工作坊指南(事件风暴)
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/14b971/
 categories:
   - 架构
 sidebar: auto
@@ -15,8 +14,6 @@ sidebar: auto
 - 四色建模
 - 名词动词
 - 用例驱动
-
-
 
 ## 1 事件风暴介绍
 
@@ -222,13 +219,13 @@ sidebar: auto
 
 便利贴参考图例：
 
-![image-20210405221857473](event-storming-guide/image-20210405221857473.png)
+![image-20210405221857473](./event-storming-guide/image-20210405221857473.png)
 
 ### 5.3 示例
 
 系统管理员管理人员和商品目录场景中的事件如下：
 
-![image-20210405222549006](event-storming-guide/image-20210405222549006.png)
+![image-20210405222549006](./event-storming-guide/image-20210405222549006.png)
 
 
 
@@ -271,7 +268,7 @@ sidebar: auto
 
 
 
-![image-20210405223913922](event-storming-guide/image-20210405223913922.png)
+![image-20210405223913922](./event-storming-guide/image-20210405223913922.png)
 
 
 
@@ -320,7 +317,7 @@ sidebar: auto
 
 ### 7.3 示例
 
-![image-20210405225812849](event-storming-guide/image-20210405225812849.png)
+![image-20210405225812849](./event-storming-guide/image-20210405225812849.png)
 
 
 
@@ -354,7 +351,7 @@ sidebar: auto
 
 
 
-![image-20210406203445703](event-storming-guide/image-20210406203445703.png)
+![image-20210406203445703](./event-storming-guide/image-20210406203445703.png)
 
 
 
@@ -396,7 +393,7 @@ sidebar: auto
 
 参考图例：
 
-![image-20210406211349229](event-storming-guide/image-20210406211349229.png)
+![image-20210406211349229](./event-storming-guide/image-20210406211349229.png)
 
 
 
@@ -409,7 +406,7 @@ sidebar: auto
 
 ### 9.3 示例
 
-![image-20210406212241103](event-storming-guide/image-20210406212241103.png)
+![image-20210406212241103](./event-storming-guide/image-20210406212241103.png)
 
 ## 10 可视化输出
 

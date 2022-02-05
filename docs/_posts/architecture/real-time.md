@@ -2,7 +2,6 @@
 title: 基于服务端 store 模式的多用户实时协作方案
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/e489aa/
 categories:
   - 架构
 sidebar: auto
@@ -27,9 +26,4 @@ sidebar: auto
 - 通过 nodejs 作为后端同构语言，用于响应式编程
 - 使用 MongoDB 作为文档数据库（取决于业务类型）
 - 前后端使用同一事件处理代码
-
-
-
-## WebSocket 技术背景
-
 

@@ -2,7 +2,6 @@
 title: 离线应用设计
 toc: true
 sidebar: auto
-permalink: /architecture/offline-application
 date: 2021-12-25 13:53:59
 categories: 
   - 架构

@@ -3,7 +3,6 @@ title: 架构中的矛盾和权衡
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
-permalink: /pages/5cd192/
 categories:
   - 架构
 sidebar: auto
@@ -41,7 +40,7 @@ sidebar: auto
 
 使用中台后，某些业务能力需要贯穿中台团队和应用团队，就无法由一个团队独立完成，也做不到独立发布和交付。在某种程度上，这种矛盾难以调和，因此就需要对中台的团队修改其协作模式。比如中台团队使用看板（Kanban）模式，通过响应应用团队的业务诉求来提供相应的能力，这就是架构设计中的一种权衡。
 
-<img src="tradeoffs-of-architecture/image-20210429135537319.png" alt="image-20210429135537319" style="zoom:50%;" />
+<img src="./tradeoffs-of-architecture/image-20210429135537319.png" alt="image-20210429135537319" style="zoom:50%;" />
 
 另外的典型矛盾还有**数据耦合和一致性的矛盾。**
 
@@ -61,7 +60,7 @@ sidebar: auto
 
 在编码实践中另外一个矛盾就是，**面向对象中，关注点分离和复用逻辑的之间的矛盾。**
 
-<img src="tradeoffs-of-architecture/image-20210429140442325.png" alt="image-20210429140442325" style="zoom:50%;" />
+<img src="./tradeoffs-of-architecture/image-20210429140442325.png" alt="image-20210429140442325" style="zoom:50%;" />
 
 大量的遗留系统告诉我们，错误的复用是让系统过分耦合的原因之一，这似乎违反面向对象中尽可能的追求复用的原则。这背后的逻辑是：**面对大量的应用场景时候，如果没有足够的关注点分离，会在 “可以复用”的代码中写出更多的 if 语句。**
 
