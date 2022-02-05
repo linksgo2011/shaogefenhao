@@ -5,7 +5,6 @@ categories:
 toc: true
 recommend: true
 date: 2021-11-16 16:38:56
-permalink: /pages/f7cde8/
 sidebar: auto
 ---
 
@@ -55,7 +54,7 @@ sidebar: auto
 
 
 
-<img src="study-with-model/image-20200920161559602.png" alt="image-20200920161559602" style="zoom:33%;" />
+<img src="./study-with-model/image-20200920161559602.png" alt="image-20200920161559602" style="zoom:33%;" />
 
 
 
@@ -110,7 +109,7 @@ sidebar: auto
 3. 建立模型
 4. 应用
 
-<img src="study-with-model/image-20200920162240605.png" alt="image-20200920162240605" style="zoom:30%;" />
+<img src="./study-with-model/image-20200920162240605.png" alt="image-20200920162240605" style="zoom:30%;" />
 
 ### 输入
 

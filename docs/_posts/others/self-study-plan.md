@@ -12,5 +12,5 @@ sidebar: auto
 
 http://study.163.com/curricula/cs.htm
 
-![image-20200412115853657](self-study-plan/image-20200412115853657.png)
+![image-20200412115853657](./self-study-plan/image-20200412115853657.png)
 

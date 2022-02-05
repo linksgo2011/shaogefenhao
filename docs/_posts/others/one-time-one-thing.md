@@ -4,7 +4,6 @@ categories:
    - 自我管理
 toc: true
 date: 2021-11-16 16:38:56
-permalink: /pages/89417a/
 sidebar: auto
 ---
 
