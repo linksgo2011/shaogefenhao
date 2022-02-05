@@ -3,7 +3,6 @@ title: 解读《EDGE》：产品型公司的宏观业务规划
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/a1b91f/
 categories:
   - 管理知识
 sidebar: auto

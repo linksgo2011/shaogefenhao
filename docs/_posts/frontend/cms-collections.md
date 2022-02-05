@@ -2,7 +2,6 @@
 title: 建站系统 CMS 列表
 toc: trus
 date: 2021-08-11 19:18:35
-permalink: /pages/e92bd4/
 categories:
   - 前端工程
 sidebar: auto

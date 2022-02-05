@@ -2,7 +2,6 @@
 title: git 忽略一些文件
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/288e12/
 categories:
   - git
 sidebar: auto

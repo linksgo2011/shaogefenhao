@@ -2,7 +2,6 @@
 title: 理解js 的作用域链 原型链 闭包 词法分析
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/94318e/
 categories:
   - 前端工程
 sidebar: auto

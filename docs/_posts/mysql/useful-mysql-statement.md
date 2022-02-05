@@ -1,7 +1,6 @@
 ---
 title: 实用的 SQL 语句技巧
 date: 2021-08-11 19:18:36
-permalink: /pages/f3ca50/
 categories:
   - mysql
 sidebar: auto

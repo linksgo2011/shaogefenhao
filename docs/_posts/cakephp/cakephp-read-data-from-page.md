@@ -1,7 +1,6 @@
 ---
 title: PHP 从另外一个页面读取数据
 date: 2021-08-11 19:18:35
-permalink: /pages/1c92ba/
 categories:
   - cakephp
 sidebar: auto

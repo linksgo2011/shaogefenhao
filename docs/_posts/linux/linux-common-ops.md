@@ -1,7 +1,6 @@
 ---
 title: linux 常用线上排错命令
 date: 2021-08-11 19:18:36
-permalink: /pages/ee2e75/
 categories:
   - linux
 sidebar: auto

@@ -2,7 +2,6 @@
 title: 系统服务管理 systemctl
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/f6bba6/
 categories:
   - linux
 sidebar: auto

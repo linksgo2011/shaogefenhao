@@ -2,7 +2,6 @@
 title: Maven 将本地 jar 打包到项目
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/9a18ad/
 categories:
   - 运维开发
 sidebar: auto

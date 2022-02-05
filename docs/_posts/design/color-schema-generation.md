@@ -2,7 +2,6 @@
 title: 配色方案
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/cd4718/
 categories:
   - UX设计
 sidebar: auto

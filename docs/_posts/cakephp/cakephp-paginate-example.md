@@ -2,7 +2,6 @@
 title: cake 分页一个典型的条件
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/68d2f3/
 categories:
   - cakephp
 sidebar: auto

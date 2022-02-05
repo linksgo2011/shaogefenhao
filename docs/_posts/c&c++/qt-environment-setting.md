@@ -2,7 +2,6 @@
 title: Mac 上 QT 环境搭建
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/a1aa61/
 categories:
   - C++
 sidebar: auto
@@ -35,7 +34,7 @@ QT Creator 的下载地址： http://download.qt.io/official_releases/qtcreator/
 
 安装完成后启动 Creator 可能无法创建项目，会提示 kits not found，这个时候需要将 Creator 关联到 QT 上。
 
-<img src="qt-environment-setting/image-20201203231941529.png" alt="image-20201203231941529" style="zoom:50%;" />
+<img src="./qt-environment-setting/image-20201203231941529.png" alt="image-20201203231941529" style="zoom:50%;" />
 
 
 
@@ -51,7 +50,7 @@ QT Creator 的下载地址： http://download.qt.io/official_releases/qtcreator/
 
 该命令的参数即为构建出来的的 App，也可以添加到构建的 step 中。
 
-<img src="qt-environment-setting/image-20201203232623160.png" alt="image-20201203232623160" style="zoom:50%;" />
+<img src="./qt-environment-setting/image-20201203232623160.png" alt="image-20201203232623160" style="zoom:50%;" />
 
 
 

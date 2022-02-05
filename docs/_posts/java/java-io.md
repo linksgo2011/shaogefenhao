@@ -1,7 +1,6 @@
 ---
 title: Java 各种流总结
 date: 2021-08-11 19:18:36
-permalink: /pages/899815/
 categories:
   java 基础
 sidebar: auto

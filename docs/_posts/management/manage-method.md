@@ -1,7 +1,6 @@
 ---
 title: 好领导，本来应是挖渠人
 date: 2021-08-11 19:18:36
-permalink: /pages/26645e/
 categories:
   - 管理知识
 sidebar: auto

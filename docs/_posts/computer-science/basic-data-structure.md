@@ -2,7 +2,6 @@
 title: 数据结构中的基本概念
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/fc219b/
 categories:
   - 计算机科学
 sidebar: auto
@@ -28,11 +27,11 @@ sidebar: auto
 
 　　　　
 
-![img](basic-data-structure/2012101617494371.jpg)
+![img](./basic-data-structure/2012101617494371.jpg)
 
  　　　*链式存储结构　　　　　 内存中随机存储的，只需要指针写出下一个结点在哪里即可*
 
-![img](basic-data-structure/2012101617503529.jpg)
+![img](./basic-data-structure/2012101617503529.jpg)
 
  
 

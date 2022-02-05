@@ -1,7 +1,6 @@
 ---
 title: C++ linux服务器编程
 date: 2021-08-11 19:18:35
-permalink: /pages/e95a96/
 categories:
   - C++
 sidebar: auto
@@ -94,7 +93,7 @@ GDB 是 GUN 计划中程序调试工具。
 
 虚拟文件系统，用于给用户层提供统一的文件访问系统。
 
-<img src="c++-linux/image-20201210223755105.png" alt="image-20201210223755105" style="zoom:50%;" />
+<img src="./c++-linux/image-20201210223755105.png" alt="image-20201210223755105" style="zoom:50%;" />
 
 用户层不需要关心文件系统的类型和细节。
 
@@ -109,7 +108,7 @@ GDB 是 GUN 计划中程序调试工具。
 
 系操作系统提供给用户程序调用的一组特殊的接口，用户程序通过这组特殊的接口直接访问内核空间。
 
-<img src="c++-linux/image-20201211070443155.png" alt="image-20201211070443155" style="zoom:50%;" />
+<img src="./c++-linux/image-20201211070443155.png" alt="image-20201211070443155" style="zoom:50%;" />
 
 linux 的内核和用户空间是相互隔离的。可以通过标准 C 函数调用可以调用 linux 中 libc 的函数库。
 
@@ -133,7 +132,7 @@ linux 的内核和用户空间是相互隔离的。可以通过标准 C 函数�
 
 函数 ioctl 可以控制一些设备文件来操作设备。
 
-<img src="c++-linux/image-20201211072747695.png" alt="image-20201211072747695" style="zoom:50%;" />
+<img src="./c++-linux/image-20201211072747695.png" alt="image-20201211072747695" style="zoom:50%;" />
 
 
 

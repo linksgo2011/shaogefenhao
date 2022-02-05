@@ -2,7 +2,6 @@
 title: Alpine apk 命令
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/6bf5c7/
 categories:
   - docker
 sidebar: auto

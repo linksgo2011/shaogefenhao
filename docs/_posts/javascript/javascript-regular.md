@@ -2,7 +2,6 @@
 title: Javascript 常用正则和方法
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/89cec2/
 categories:
   - Javascript
 sidebar: auto

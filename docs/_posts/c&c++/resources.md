@@ -2,7 +2,6 @@
 title: C++ 学习资源
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/7df7b4/
 categories:
   - C++
 sidebar: auto

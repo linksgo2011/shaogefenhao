@@ -2,12 +2,10 @@
 title: Java 工程师基本知识
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/a112fb/
 categories:
   - 面试技巧
 sidebar: auto
 ---
-
 
 作者：小知
 链接：https://www.zhihu.com/question/409882473/answer/1412721204

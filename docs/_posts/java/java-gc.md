@@ -1,7 +1,6 @@
 ---
 title: Java 内存回收机制
 date: 2021-08-11 19:18:36
-permalink: /pages/46f95a/
 categories:
   java 基础
 sidebar: auto

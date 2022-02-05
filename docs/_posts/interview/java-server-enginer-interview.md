@@ -1,7 +1,6 @@
 ---
 title: Java 服务端高级工程师面试合集
 date: 2021-08-11 19:18:36
-permalink: /pages/bf301f/
 categories:
   - 面试技巧
 sidebar: auto
@@ -1164,7 +1163,7 @@ AQS其实就是一个可以给我们实现锁的框架
 
 #### Java 中异常的种类有哪些？
 
-<img src="java-interview-questions/exception.jpg" alt="img" style="zoom:67%;" />
+<img src="./java-interview-questions/exception.jpg" alt="img" style="zoom:67%;" />
 
 
 
@@ -1393,7 +1392,7 @@ finalize()方法是对象逃脱回收的最后一次机会,稍后GC将对F-Queue
 
 1.8 之前
 
-<img src="java-interview-questions/308572_1537962738034_560D4514BC25F890A38519E8A401BBF0.png" alt="img" style="zoom:60%;" />
+<img src="./java-interview-questions/308572_1537962738034_560D4514BC25F890A38519E8A401BBF0.png" alt="img" style="zoom:60%;" />
 
 
 
@@ -1421,7 +1420,7 @@ java 内存结构概念的区分：
 
 #### 类的加载过程有哪些？
 
-<img src="java-interview-questions/308572_1537962641528_95106A90F455887E4A4B298735A4641B.png" alt="img" style="zoom:60%;" />
+<img src="./java-interview-questions/308572_1537962641528_95106A90F455887E4A4B298735A4641B.png" alt="img" style="zoom:60%;" />
 
 
 
@@ -1584,7 +1583,7 @@ IoC的一个重点是在系统运行中，动态的向某个对象提供它所�
 
 #### 请介绍一下bean的生命周期
 
-<img src="java-interview-questions/308572_1537967995043_4D7CF33471A392D943F00167D1C86C10.png" alt="img" style="zoom:33%;" />
+<img src="./java-interview-questions/308572_1537967995043_4D7CF33471A392D943F00167D1C86C10.png" alt="img" style="zoom:33%;" />
 
 
 
@@ -2154,7 +2153,7 @@ MVVM是Model-View-ViewModel的简写。它本质上就是MVC 的改进版。MVVM
 
 Flux的核心思想就是数据和逻辑永远单向流动，保持整个应用的数据一致性。
 
-<img src="java-interview-questions/image-20200607180425228.png" alt="image-20200607180425228" style="zoom:50%;" />
+<img src="./java-interview-questions/image-20200607180425228.png" alt="image-20200607180425228" style="zoom:50%;" />
 
 
 

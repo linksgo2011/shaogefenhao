@@ -2,7 +2,6 @@
 title: jQuery 图片翻转插件
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/4c0cde/
 categories:
   - 前端工程
 sidebar: auto

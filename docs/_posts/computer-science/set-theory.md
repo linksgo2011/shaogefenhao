@@ -1,7 +1,6 @@
 ---
 title: 集合论基础
 date: 2021-08-11 19:18:35
-permalink: /pages/271d6d/
 categories:
   - 计算机科学
 sidebar: auto

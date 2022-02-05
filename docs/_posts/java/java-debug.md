@@ -1,13 +1,10 @@
 ---
 title: java 线上 debug
 date: 2021-08-11 19:18:36
-permalink: /pages/2860b9/
 categories:
   java 基础
 sidebar: auto
 ---
-
-
 
 来源：https://fredal.xin/java-error-check
 
@@ -23,51 +20,51 @@ sidebar: auto
 
 我们先用ps命令找到对应进程的pid(如果你有好几个目标进程，可以先用top看一下哪个占用比较高)。
 接着用`top -H -p pid`来找到cpu使用率比较高的一些线程
-![img](java-debug/2019-11-04-083804.png)
+![img](./java-debug/2019-11-04-083804.png)
 然后将占用最高的pid转换为16进制`printf '%x\n' pid`得到nid
-![img](java-debug/2019-11-04-083806.png)
+![img](./java-debug/2019-11-04-083806.png)
 接着直接在jstack中找到相应的堆栈信息`jstack pid |grep 'nid' -C5 –color`
-![img](java-debug/2019-11-04-83807.png)
+![img](./java-debug/2019-11-04-83807.png)
 可以看到我们已经找到了nid为0x42的堆栈信息，接着只要仔细分析一番即可。
 
 当然更常见的是我们对整个jstack文件进行分析，通常我们会比较关注WAITING和TIMED_WAITING的部分，BLOCKED就不用说了。我们可以使用命令`cat jstack.log | grep "java.lang.Thread.State" | sort -nr | uniq -c`来对jstack的状态有一个整体的把握，如果WAITING之类的特别多，那么多半是有问题啦。
-![img](java-debug/2019-11-04-083807.png)
+![img](./java-debug/2019-11-04-083807.png)
 
 ### 频繁gc
 
 当然我们还是会使用jstack来分析问题，但有时候我们可以先确定下gc是不是太频繁，使用`jstat -gc pid 1000`命令来对gc分代变化情况进行观察，1000表示采样间隔(ms)，S0C/S1C、S0U/S1U、EC/EU、OC/OU、MC/MU分别代表两个Survivor区、Eden区、老年代、元数据区的容量和使用量。YGC/YGT、FGC/FGCT、GCT则代表YoungGc、FullGc的耗时和次数以及总耗时。如果看到gc比较频繁，再针对gc方面做进一步分析，具体可以参考一下gc章节的描述。
-![img](java-debug/2019-11-04-083808.png)
+![img](./java-debug/2019-11-04-083808.png)
 
 ### 上下文切换
 
 针对频繁上下文问题，我们可以使用`vmstat`命令来进行查看
-![img](java-debug/2019-11-04-083809.png)
+![img](./java-debug/2019-11-04-083809.png)
 cs(context switch)一列则代表了上下文切换的次数。
 如果我们希望对特定的pid进行监控那么可以使用 `pidstat -w pid`命令，cswch和nvcswch表示自愿及非自愿切换。
-![img](java-debug/2019-11-04-83810.png)
+![img](./java-debug/2019-11-04-83810.png)
 
 # 磁盘
 
 磁盘问题和cpu一样是属于比较基础的。首先是磁盘空间方面，我们直接使用`df -hl`来查看文件系统状态
-![img](java-debug/2019-11-04-083810.png)
+![img](./java-debug/2019-11-04-083810.png)
 
 更多时候，磁盘问题还是性能上的问题。我们可以通过iostat`iostat -d -k -x`来进行分析
-![img](java-debug/2019-11-04-083811.png)
+![img](./java-debug/2019-11-04-083811.png)
 最后一列`%util`可以看到每块磁盘写入的程度，而`rrqpm/s`以及`wrqm/s`分别表示读写速度，一般就能帮助定位到具体哪块磁盘出现问题了。
 
 另外我们还需要知道是哪个进程在进行读写，一般来说开发自己心里有数，或者用iotop命令来进行定位文件读写的来源。
-![img](java-debug/2019-11-04-083812.png)
+![img](./java-debug/2019-11-04-083812.png)
 不过这边拿到的是tid，我们要转换成pid，可以通过readlink来找到pid`readlink -f /proc/*/task/tid/../..`。
-![img](java-debug/2019-11-04-83813.png)
+![img](./java-debug/2019-11-04-83813.png)
 找到pid之后就可以看这个进程具体的读写情况`cat /proc/pid/io`
-![img](java-debug/2019-11-04-083813.png)
+![img](./java-debug/2019-11-04-083813.png)
 我们还可以通过lsof命令来确定具体的文件读写情况`lsof -p pid`
-![img](java-debug/2019-11-04-083814.png)
+![img](./java-debug/2019-11-04-083814.png)
 
 # 内存
 
 内存问题排查起来相对比CPU麻烦一些，场景也比较多。主要包括OOM、GC问题和堆外内存。一般来讲，我们会先用`free`命令先来检查一发内存的各种情况。
-![img](java-debug/2019-11-04-083815.png)
+![img](./java-debug/2019-11-04-083815.png)
 
 ### 堆内内存
 
@@ -79,7 +76,7 @@ JMV中的内存不足，OOM大致可以分为以下几种：
 
 **Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread**
 这个意思是没有足够的内存空间给线程分配java栈，基本上还是线程池代码写的有问题，比如说忘记shutdown，所以说应该首先从代码层面来寻找问题，使用jstack或者jmap。如果一切都正常，JVM方面可以通过指定`Xss`来减少单个thread stack的大小。另外也可以在系统层面，可以通过修改`/etc/security/limits.conf`nofile和nproc来增大os对线程的限制
-![img](java-debug/2019-11-04-83816.png)
+![img](./java-debug/2019-11-04-83816.png)
 
 **Exception in thread "main" java.lang.OutOfMemoryError: Java heap space**
 这个意思是堆的内存占用已经达到-Xmx设置的最大值，应该是最常见的OOM错误了。解决思路仍然是先应该在代码中找，怀疑存在内存泄漏，通过jstack和jmap去定位问题。如果说一切都正常，才需要通过调整`Xmx`的值来扩大内存。
@@ -96,9 +93,9 @@ JMV中的内存不足，OOM大致可以分为以下几种：
 #### 使用JMAP定位代码内存泄漏
 
 上述关于OOM和StackOverflow的代码排查方面，我们一般使用JMAP`jmap -dump:format=b,file=filename pid`来导出dump文件
-![img](java-debug/2019-11-04-083817.png)
+![img](./java-debug/2019-11-04-083817.png)
 通过mat(Eclipse Memory Analysis Tools)导入dump文件进行分析，内存泄漏问题一般我们直接选Leak Suspects即可，mat给出了内存泄漏的建议。另外也可以选择Top Consumers来查看最大对象报告。和线程相关的问题可以选择thread overview进行分析。除此之外就是选择Histogram类概览来自己慢慢分析，大家可以搜搜mat的相关教程。
-![img](java-debug/2019-11-04-083818.png)
+![img](./java-debug/2019-11-04-083818.png)
 
 日常开发中，代码产生内存泄漏是比较常见的事，并且比较隐蔽，需要开发者更加关注细节。比如说每次请求都new对象，导致大量重复创建对象；进行文件流操作但未正确关闭；手动不当触发gc；ByteBuffer缓存分配不合理等都会造成代码OOM。
 
@@ -108,34 +105,34 @@ JMV中的内存不足，OOM大致可以分为以下几种：
 
 gc问题除了影响cpu也会影响内存，排查思路也是一致的。一般先使用jstat来查看分代变化情况，比如youngGC或者fullGC次数是不是太多呀；EU、OU等指标增长是不是异常呀等。
 线程的话太多而且不被及时gc也会引发oom，大部分就是之前说的`unable to create new native thread`。除了jstack细细分析dump文件外，我们一般先会看下总体线程，通过`pstreee -p pid |wc -l`。
-![img](java-debug/2019-11-04-083819.png)
+![img](./java-debug/2019-11-04-083819.png)
 或者直接通过查看`/proc/pid/task`的数量即为线程数量。
-![img](java-debug/2019-11-04-083820.png)
+![img](./java-debug/2019-11-04-083820.png)
 
 ### 堆外内存
 
 如果碰到堆外内存溢出，那可真是太不幸了。首先堆外内存溢出表现就是物理常驻内存增长快，报错的话视使用方式都不确定，如果由于使用Netty导致的，那错误日志里可能会出现`OutOfDirectMemoryError`错误，如果直接是DirectByteBuffer，那会报`OutOfMemoryError: Direct buffer memory`。
 
 堆外内存溢出往往是和NIO的使用相关，一般我们先通过pmap来查看下进程占用的内存情况`pmap -x pid | sort -rn -k3 | head -30`，这段意思是查看对应pid倒序前30大的内存段。这边可以再一段时间后再跑一次命令看看内存增长情况，或者和正常机器比较可疑的内存段在哪里。
-![img](java-debug/2019-11-04-83821.png)
+![img](./java-debug/2019-11-04-83821.png)
 我们如果确定有可疑的内存端，需要通过gdb来分析`gdb --batch --pid {pid} -ex "dump memory filename.dump {内存起始地址} {内存起始地址+内存块大小}"`
-![img](java-debug/2019-11-04-083821.png)
+![img](./java-debug/2019-11-04-083821.png)
 获取dump文件后可用heaxdump进行查看`hexdump -C filename | less`，不过大多数看到的都是二进制乱码。
 
 NMT是Java7U40引入的HotSpot新特性，配合jcmd命令我们就可以看到具体内存组成了。需要在启动参数中加入 `-XX:NativeMemoryTracking=summary` 或者 `-XX:NativeMemoryTracking=detail`，会有略微性能损耗。
 
 一般对于堆外内存缓慢增长直到爆炸的情况来说，可以先设一个基线`jcmd pid VM.native_memory baseline`。
-![img](java-debug/2019-11-04-083822.png)
+![img](./java-debug/2019-11-04-083822.png)
 然后等放一段时间后再去看看内存增长的情况，通过`jcmd pid VM.native_memory detail.diff(summary.diff)`做一下summary或者detail级别的diff。
-![img](java-debug/2019-11-04-083823.png)
-![img](java-debug/2019-11-04-83824.png)
+![img](./java-debug/2019-11-04-083823.png)
+![img](./java-debug/2019-11-04-83824.png)
 可以看到jcmd分析出来的内存十分详细，包括堆内、线程以及gc(所以上述其他内存异常其实都可以用nmt来分析)，这边堆外内存我们重点关注Internal的内存增长，如果增长十分明显的话那就是有问题了。
 detail级别的话还会有具体内存段的增长情况，如下图。
-![img](java-debug/2019-11-04-083824.png)
+![img](./java-debug/2019-11-04-083824.png)
 
 此外在系统层面，我们还可以使用strace命令来监控内存分配 `strace -f -e "brk,mmap,munmap" -p pid`
 这边内存分配信息主要包括了pid和内存地址。
-![img](java-debug/2019-11-04-083825.jpg)
+![img](./java-debug/2019-11-04-083825.jpg)
 
 不过其实上面那些操作也很难定位到具体的问题点，关键还是要看错误日志栈，找到可疑的对象，搞清楚它的回收机制，然后去分析对应的对象。比如DirectByteBuffer分配内存的话，是需要full GC或者手动system.gc来进行回收的(所以最好不要使用`-XX:+DisableExplicitGC`)。那么其实我们可以跟踪一下DirectByteBuffer对象的内存情况，通过`jmap -histo:live pid`手动触发fullGC来看看堆外内存有没有被回收。如果被回收了，那么大概率是堆外内存本身分配的太小了，通过`-XX:MaxDirectMemorySize`进行调整。如果没有什么变化，那就要使用jmap去分析那些不能被gc的对象，以及和DirectByteBuffer之间的引用关系了。
 
@@ -153,7 +150,7 @@ youngGC频繁一般是短周期小对象较多，先考虑是不是Eden区/新�
 
 **youngGC耗时过长**
 耗时过长问题就要看GC日志里耗时耗在哪一块了。以G1日志为例，可以关注Root Scanning、Object Copy、Ref Proc等阶段。Ref Proc耗时长，就要注意引用相关的对象。Root Scanning耗时长，就要注意线程数、跨代引用。Object Copy则需要关注对象生存周期。而且耗时分析它需要横向比较，就是和其他项目或者正常时间段的耗时比较。比如说图中的Root Scanning和正常时间段比增长较多，那就是起的线程太多了。
-![img](java-debug/2019-11-04-083826.png)
+![img](./java-debug/2019-11-04-083826.png)
 
 **触发fullGC**
 G1中更多的还是mixedGC，但mixedGC可以和youngGC思路一样去排查。触发fullGC了一般都会有问题，G1会退化使用Serial收集器来完成垃圾的清理工作，暂停时长达到秒级别，可以说是半跪了。
@@ -196,7 +193,7 @@ jinfo -flag +HeapDumpAfterFullGC pid
 ### TCP队列溢出
 
 tcp队列溢出是个相对底层的错误，它可能会造成超时、rst等更表层的错误。因此错误也更隐蔽，所以我们单独说一说。
-![img](java-debug/2019-11-04-083827.jpg)
+![img](./java-debug/2019-11-04-083827.jpg)
 
 如上图所示，这里有两个队列：syns queue(半连接队列）、accept queue（全连接队列）。三次握手，在server收到client的syn后，把消息放到syns queue，回复syn+ack给client，server收到client的ack，如果这时accept queue没满，那就从syns queue拿出暂存的信息放入accept queue中，否则按tcp_abort_on_overflow指示的执行。
 
@@ -205,11 +202,11 @@ tcp_abort_on_overflow 0表示如果三次握手第三步的时候accept queue满
 那么在实际开发中，我们怎么能快速定位到tcp队列溢出呢？
 
 **netstat命令，执行netstat -s | egrep "listen|LISTEN"**
-![img](java-debug/2019-11-04-83828.jpg)
+![img](./java-debug/2019-11-04-83828.jpg)
 如上图所示，overflowed表示全连接队列溢出的次数，sockets dropped表示半连接队列溢出的次数。
 
 **ss命令，执行ss -lnt**
-![img](java-debug/2019-11-04-083828.jpg)
+![img](./java-debug/2019-11-04-083828.jpg)
 上面看到Send-Q 表示第三列的listen端口上的全连接队列最大为5，第一列Recv-Q为全连接队列当前使用了多少。
 
 接着我们看看怎么设置全连接、半连接队列大小吧：
@@ -247,10 +244,10 @@ RST包表示连接重置，用于关闭一些无用的连接，通常表示异�
 之前说过RST报文多会导致程序报错，在一个已关闭的连接上读操作会报`connection reset`，而在一个已关闭的连接上写操作则会报`connection reset by peer`。通常我们可能还会看到`broken pipe`错误，这是管道层面的错误，表示对已关闭的管道进行读写，往往是在收到RST，报出`connection reset`错后继续读写数据报的错，这个在glibc源码注释中也有介绍。
 
 我们在排查故障时候怎么确定有RST包的存在呢？当然是使用tcpdump命令进行抓包，并使用wireshark进行简单分析了。`tcpdump -i en0 tcp -w xxx.cap`，en0表示监听的网卡。
-![img](java-debug/2019-11-04-083829.jpg)
+![img](./java-debug/2019-11-04-083829.jpg)
 
 接下来我们通过wireshark打开抓到的包，可能就能看到如下图所示，红色的就表示RST包了。
-![img](java-debug/2019-11-04-083830.jpg)
+![img](./java-debug/2019-11-04-083830.jpg)
 
 ### TIME_WAIT和CLOSE_WAIT
 
@@ -259,7 +256,7 @@ TIME_WAIT和CLOSE_WAIT是啥意思相信大家都知道。
 
 用ss命令会更快`ss -ant | awk '{++S[$1]} END {for(a in S) print a, S[a]}'`
 
-![img](java-debug/2019-11-04-083830.png)
+![img](./java-debug/2019-11-04-083830.png)
 
 #### TIME_WAIT
 

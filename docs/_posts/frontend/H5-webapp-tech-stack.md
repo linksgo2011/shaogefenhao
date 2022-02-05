@@ -2,7 +2,6 @@
 title: H5 webapp技术选型
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/1c22e5/
 categories:
   - 前端工程
 sidebar: auto

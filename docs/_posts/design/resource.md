@@ -5,10 +5,7 @@ categories:
   - UX设计
 sidebar: auto
 date: 2021-10-05 22:36:26
-permalink: /pages/224bb2/
 ---
-
-
 
 1. mixkit.co 可闭眼盲选的大佬素材，生活向，免费可商用。 
 2. undraw.co 综合类插画，扁平化，svg和png两种。

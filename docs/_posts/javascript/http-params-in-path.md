@@ -2,7 +2,6 @@
 title: Javascript 对URL中path参数绑定
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/02353f/
 categories:
   - Javascript
 sidebar: auto

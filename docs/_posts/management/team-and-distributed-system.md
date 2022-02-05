@@ -1,7 +1,6 @@
 ---
 title: 用分布式系统思考团队管理
 date: 2021-08-11 19:18:36
-permalink: /pages/9109c5/
 categories:
   - 管理知识
 sidebar: auto
@@ -40,7 +39,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 这种系统由两个主要的角色构成：dispatcher 和 worker，这是主从调度模型的基本逻辑。
 
-![image-20210711133013534](team-and-distributed-system/image-20210711133013534.png)
+![image-20210711133013534](./team-and-distributed-system/image-20210711133013534.png)
 
 回顾一下计算机系统中的这两个角色。基于负载均衡的无状态服务集群，负载均衡器充当了 dispatcher 的角色，普通的服务器充当了 worker 的角色；基于主从的 CI 构建系统 Jenkins，它的 master 节点就是 dispatcher 角色，负责处理任务调度，slave 节点用于执行任务构建。
 
@@ -48,7 +47,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 我们回归到团队管理中来，一个团队的 leader 如果每天关注在自己具体的工作上，让 worker 角色的工作挤占了 dispatcher 角色的工作，整个团队会开始混乱。在好的情况下，团队中会有其他成员自发的弥补这部分工作，就有点类似于人体被切除某些器官后发生的代偿行为。然而，团队并不总是有这么好的运气，如果没有人来承担 dispatcher 的工作时，整个系统就陷入混乱。
 
-![image-20210711133224738](team-and-distributed-system/image-20210711133224738.png)
+![image-20210711133224738](./team-and-distributed-system/image-20210711133224738.png)
 
 **对于有状态的补充**
 
@@ -77,7 +76,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 这种系统出现在层级较为扁平的公司，各个团队相对独立和灵活，对于那种巨型公司的上层结构也符合这个模型。对于市场经济为主体的国家来说，整个经济体就是这个模型，所以我借用了市场这个词。
 
-![image-20210711145712700](team-and-distributed-system/image-20210711145712700.png)
+![image-20210711145712700](./team-and-distributed-system/image-20210711145712700.png)
 
 在分布式的计算机系统中，这种模型比较少见，在一些弹性扩容的系统中可以看做这种模型的简单实现。这是因为计算机科学基础决定了的，计算机科学建立在离散数学上，我们使用的计算模型为图灵模型，图灵模型是一种确定的计算模型（可计算性）。反馈调节模型不是一种确定的计算模型，目前的超计算（Hyper computation ）就是在研究如何在计算机中应用这类模型。 
 
@@ -108,7 +107,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 答案否定的，在分布式系统中，避免这样的模型：多个承担有 worker 角色的 dispatcher 构成系统，它会带来状态的一致性问题。在团队管理中，dispatcher 的负载不会太大，但是需要保证一致性。在一个团队中出现 2 个 PM 会是一个灾难，然而这种场景在各个公司反复上演。
 
-![image-20210711172829063](team-and-distributed-system/image-20210711172829063.png)
+![image-20210711172829063](./team-and-distributed-system/image-20210711172829063.png)
 
 
 
@@ -120,7 +119,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 
 
-![image-20210711172956629](team-and-distributed-system/image-20210711172956629.png)
+![image-20210711172956629](./team-and-distributed-system/image-20210711172956629.png)
 
 **多层系统**
 
@@ -130,7 +129,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 
 
-![image-20210711173522072](team-and-distributed-system/image-20210711173522072.png)
+![image-20210711173522072](./team-and-distributed-system/image-20210711173522072.png)
 
 
 
@@ -213,7 +212,7 @@ Description: 一个团队本质上是一个由人构成的分布式系统，所�
 
 在反馈调节的模型中，个体（玩家团队中的 dispatcher 或者 worker）需要成为一个玩家，需要从把关注点放到需求和服务上，识别到市场中微小的需求，想办法满足它。
 
-![image-20210711174009599](team-and-distributed-system/image-20210711174009599.png)
+![image-20210711174009599](./team-and-distributed-system/image-20210711174009599.png)
 
 
 

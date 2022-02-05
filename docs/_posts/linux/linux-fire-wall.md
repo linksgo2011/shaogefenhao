@@ -2,7 +2,6 @@
 title: 防火墙暴露端口
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/b7df0c/
 categories:
   - linux
 sidebar: auto

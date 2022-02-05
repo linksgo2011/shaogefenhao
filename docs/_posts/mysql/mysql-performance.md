@@ -2,7 +2,6 @@
 title: Mysql 性能优化
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/996766/
 categories:
   - mysql
 sidebar: auto

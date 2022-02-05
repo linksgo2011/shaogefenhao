@@ -2,7 +2,6 @@
 title: Swarm
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/f29d27/
 categories:
   - docker
 sidebar: auto

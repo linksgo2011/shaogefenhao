@@ -2,7 +2,6 @@
 title: 位运算
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/720589/
 categories:
   - 计算机科学
 sidebar: auto
@@ -15,5 +14,5 @@ sidebar: auto
 按位取反  ~               0变1   1变0           取反
 ```
 
-![img](bit-operation/22094656-cc1b47aeaf8d4db0b3ea91cc17d7d6a5.jpg)
+![img](./bit-operation/22094656-cc1b47aeaf8d4db0b3ea91cc17d7d6a5.jpg)
 

@@ -2,12 +2,10 @@
 title: 系统思考的方法
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/106998/
 categories:
   - 计算机科学
 sidebar: auto
 ---
-
 
 
 系统科学方法是指用系统的观点来认识和处理问题的各种方法的总称。
@@ -18,10 +16,7 @@ sidebar: auto
 
 
 
-<img src="systematic-thinking/image-20200730072424945.png" alt="image-20200730072424945" style="zoom:50%;" />
-
-
-
+<img src="./systematic-thinking/image-20200730072424945.png" alt="image-20200730072424945" style="zoom:50%;" />
 
 
 但是另外一方面，模型都是失真的，没有一个全能的模型能反映出系统的方方面面，否则这就是这个系统本身。系统本身要素过多，人脑的处理能力是有限的，难以对系统的逻辑全面的分析。

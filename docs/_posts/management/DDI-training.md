@@ -1,7 +1,6 @@
 ---
 title: DDI管理培训总结
 date: 2021-08-11 19:18:36
-permalink: /pages/d4659c/
 categories:
   - 管理知识
 sidebar: auto

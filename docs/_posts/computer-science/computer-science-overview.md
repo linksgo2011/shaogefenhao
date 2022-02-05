@@ -2,7 +2,6 @@
 title: 计算机科学知识大纲
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/b59853/
 categories:
   - 计算机科学
 sidebar: auto

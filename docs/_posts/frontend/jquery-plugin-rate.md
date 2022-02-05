@@ -2,7 +2,6 @@
 title: jQuery 评分插件
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/653d1d/
 categories:
   - 前端工程
 sidebar: auto

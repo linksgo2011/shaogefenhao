@@ -2,7 +2,6 @@
 title: linux 使用 alternatives 切换Java版本
 from: self
 date: 2021-08-11 19:18:36
-permalink: /pages/078a3d/
 categories:
   - linux
 sidebar: auto

@@ -2,7 +2,6 @@
 title: 内存分配
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/b4ae12/
 categories:
   - C++
 sidebar: auto

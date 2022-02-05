@@ -2,7 +2,6 @@
 title: 后端 Admin 模板收集
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/7663c2/
 categories:
   - 前端工程
 sidebar: auto

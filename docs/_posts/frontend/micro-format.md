@@ -2,7 +2,6 @@
 title: 微格式 (Microformat）
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/5534be/
 categories:
   - 前端工程
 sidebar: auto

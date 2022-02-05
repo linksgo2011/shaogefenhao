@@ -2,7 +2,6 @@
 title: Docker 基础
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/ea35a5/
 categories:
   - docker
 sidebar: auto

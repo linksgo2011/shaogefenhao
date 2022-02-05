@@ -2,17 +2,12 @@
 title: 前端开发中常用工具函数总结
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/7000fc/
 categories:
   - 前端工程
 sidebar: auto
 ---
 
-
-
 1. 时间格式化等方法
-
- 
 
 推荐使用 moment.js 的库文件
 

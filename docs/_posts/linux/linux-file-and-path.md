@@ -1,7 +1,6 @@
 ---
 title: linux 文件和目录操作
 date: 2021-08-11 19:18:36
-permalink: /pages/458b20/
 categories:
   - linux
 sidebar: auto

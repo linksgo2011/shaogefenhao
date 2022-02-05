@@ -2,7 +2,6 @@
 title: Nginx 配置参数说明
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/278b36/
 categories:
   - Nginx
 sidebar: auto

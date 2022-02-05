@@ -2,7 +2,6 @@
 title: Hibernate 基础
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/d62b37/
 categories:
   - hibernate
 sidebar: auto

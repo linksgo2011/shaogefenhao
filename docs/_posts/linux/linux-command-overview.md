@@ -1,7 +1,6 @@
 ---
 title: linux 命令总览
 date: 2021-08-11 19:18:36
-permalink: /pages/c3ba1a/
 categories:
   - linux
 sidebar: auto

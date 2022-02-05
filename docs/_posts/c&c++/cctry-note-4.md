@@ -2,7 +2,6 @@
 title: vc驿站视频教程笔记4 Cstring 讲解
 toc: true
 date: 2021-08-11 19:18:35
-permalink: /pages/971bf5/
 categories:
   - C++
 sidebar: auto

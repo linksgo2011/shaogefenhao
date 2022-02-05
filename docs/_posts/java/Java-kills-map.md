@@ -1,7 +1,6 @@
 ---
 title: Java web工程师知识图谱
 date: 2021-08-11 19:18:36
-permalink: /pages/7193ba/
 categories:
   java 基础
 sidebar: auto

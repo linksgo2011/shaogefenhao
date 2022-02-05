@@ -2,7 +2,6 @@
 title: mysql 数据导出
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/8a346f/
 categories:
   - mysql
 sidebar: auto
