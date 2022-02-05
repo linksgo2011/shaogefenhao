@@ -1,11 +1,12 @@
 ---
-title: All models are wrong, but some are useful”. George E. P. Box
+title: All models are wrong, but some are useful
 toc: true
 from: https://www.lacan.upc.edu/admoreWeb/2018/05/all-models-are-wrong-but-some-are-useful-george-e-p-box/
 permalink: /reprint/all-models-are-wrong-but-some-are-useful/
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+date: 2022-02-05 11:05:51
 ---
 
 “All models are wrong, but some are useful” is a famous quote often attributed to the British statistician George E. P. Box. Many people in the field of statistics try to develop theoretical models aiming to predict the behaviour of a certain process, for instance the selling trend of a product or the number of tourists in a city. Thus, the idea of this quote is that every single model will be wrong, meaning that it will never represent the exact real behaviour. Having said that, even if a model cannot describe exactly the reality it could be very helpful if it is close enough.

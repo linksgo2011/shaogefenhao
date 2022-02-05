@@ -1,9 +1,10 @@
 ---
 title: 为什么 Linux 能流行开？
 permalink: /case-study/why-linux-became-popular
-categories:
+categories: 
   - 案例
 sidebar: auto
+date: 2022-02-03 18:11:26
 ---
 
 为什么 Linux 能流行开，而可以推广的其他操作系统无法被推广？
