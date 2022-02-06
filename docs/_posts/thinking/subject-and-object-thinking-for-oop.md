@@ -6,7 +6,6 @@ date: 2021-08-11 19:18:36
 categories:
   - 思维和方法论
 sidebar: auto
-permalink: /pages/c075cc/
 ---
 
 在现代软件开发中，基于面向对象的软件设计方法已经得到高度的发展。面向对象是一种基于对象对的编程范式，不同于过程式的编程范式，它可以让现实世界中的概念以对象的方式在软件中表达，极大的提高了软件工程师组织大规模软件源代码的能力。可以说面向对象是软件工程发展历史中的一个里程碑，加速了现代软件工程的发展。
@@ -69,16 +68,15 @@ class OrderService {
 
 代码命名。
 
-![image-20210925183910087](subject-and-object-thinking-for-oop/image-20210925183910087.png)
+![image-20210925183910087](./subject-and-object-thinking-for-oop/image-20210925183910087.png)
 
 ### 3.2 在模型分析上的应用
 
 通过业务凭证法，对客体建模，分解多对多关系。
 
-![image-20210925232855272](subject-and-object-thinking-for-oop/image-20210925232855272.png)
+![image-20210925232855272](./subject-and-object-thinking-for-oop/image-20210925232855272.png)
 
-![image-20210925232902791](subject-and-object-thinking-for-oop/image-20210925232902791.png)
-
+![image-20210925232902791](./subject-and-object-thinking-for-oop/image-20210925232902791.png)
 
 
 ### 3.3 在分层架构上的应用
@@ -86,7 +84,7 @@ class OrderService {
 
 
 
-![image-20210925230308539](subject-and-object-thinking-for-oop/image-20210925230308539.png)
+![image-20210925230308539](./subject-and-object-thinking-for-oop/image-20210925230308539.png)
 
 
 

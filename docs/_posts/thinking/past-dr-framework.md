@@ -3,13 +3,10 @@ title: 咨询思维：PAST-DR 问题解决框架
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/past-dr/
 categories:
   - 思维和方法论
 sidebar: auto
 ---
-
-
 
 在做咨询过程中，为了解决客户的问题，我们有很多的方法论。这些方法论像一些珍珠散落在地上，我们不得不靠经验到处去找到它们然后为客户整合起来。
 

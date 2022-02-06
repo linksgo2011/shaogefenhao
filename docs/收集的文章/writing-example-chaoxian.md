@@ -2,9 +2,8 @@
 title: 【佳作分析】 如何评价朝鲜战争及其影响？
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/d68bc5/
 categories:
-  - 写作
+  - 收集的文章
 sidebar: auto
 ---
 

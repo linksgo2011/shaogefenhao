@@ -2,7 +2,6 @@
 title: 信息检索指南
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/df32ec/
 categories:
   - 写作
 sidebar: auto

@@ -2,7 +2,6 @@
 title: PHP 包管理工具
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/04d30a/
 categories:
   - PHP 基础
 sidebar: auto

@@ -2,7 +2,6 @@
 title: CakePHP 脚手架和命令行工具
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/737f8c/
 categories:
   - PHP 基础
 sidebar: auto

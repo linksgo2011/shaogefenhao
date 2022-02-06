@@ -1,7 +1,6 @@
 ---
 title: CakePHP 资源收集
 date: 2021-08-11 19:18:36
-permalink: /pages/97ddee/
 categories:
   - PHP 基础
 sidebar: auto

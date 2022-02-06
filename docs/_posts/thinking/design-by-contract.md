@@ -2,7 +2,6 @@
 title: 建模和编程中的契约 —— Design By Contract
 toc: true
 sidebar: auto
-permalink: /pages/thinking/design-by-contract
 categories: 
   - 思维和方法论
 date: 2022-01-23 18:59:08

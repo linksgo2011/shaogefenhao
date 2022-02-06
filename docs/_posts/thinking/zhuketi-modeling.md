@@ -2,7 +2,6 @@
 title: 主客体建模法
 toc: true
 recommend: true
-permalink: /pages/zhuketi-modeling
 categories: 
   - 思维和方法论
 sidebar: auto

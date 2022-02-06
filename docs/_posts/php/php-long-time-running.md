@@ -1,7 +1,6 @@
 ---
 title: PHP 常驻内存运行脚本
 date: 2021-08-11 19:18:36
-permalink: /pages/060fc8/
 categories:
   - PHP 基础
 sidebar: auto

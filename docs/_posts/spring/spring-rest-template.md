@@ -1,8 +1,7 @@
 ---
-title: Resttemplat 使用
+title: Rest template 使用
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/eb8df2/
 categories:
   - Spring 
 sidebar: auto

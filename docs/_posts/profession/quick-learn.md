@@ -1,7 +1,6 @@
 ---
 title: 快速学习的一些要点
 date: 2021-08-11 19:18:36
-permalink: /pages/e7949d/
 categories:
   - 职业效率
 sidebar: auto

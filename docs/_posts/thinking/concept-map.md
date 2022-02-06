@@ -3,7 +3,6 @@ title: 使用概念图梳理编程中的概念
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/thinking/concept-map
 categories:
   - 思维和方法论
 sidebar: auto

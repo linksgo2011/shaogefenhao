@@ -1,6 +1,5 @@
 ---
 title: 架构守护测试：ArchUnit
-permalink: /testing/arch-unit/
 categories: 
   - 测试技术
 sidebar: auto

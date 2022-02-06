@@ -1,7 +1,6 @@
 ---
 title: thrift RPC 调用框架
 date: 2021-08-11 19:18:36
-permalink: /pages/9a9716/
 categories:
   - 开源组件
 sidebar: auto

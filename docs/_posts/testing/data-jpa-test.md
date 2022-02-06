@@ -1,7 +1,6 @@
 ---
 title: 使用 DataJpaTest 对接数据库测试
 date: 2021-08-11 19:18:36
-permalink: /pages/937828/
 categories:
   - 测试技术
 sidebar: auto

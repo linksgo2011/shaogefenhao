@@ -3,13 +3,10 @@ title: 几种性能测试工具总结
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/17adb3/
 categories:
   - 性能优化
 sidebar: auto
 ---
-
-
 
 我们经常会谈论性能、并发等问题，但是衡量性能不是说写段代码循环几百次这么简单。最近从项目上的同事了解到了代码化的测试性能测试工具 k6，以及结合之前用过的Java 微基准测试 (JMH)、AB (Apache Benchmark) 测试、Jmeter 做一下总结。
 

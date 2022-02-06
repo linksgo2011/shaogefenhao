@@ -3,7 +3,7 @@ title: 【转载】从单机到2000万QPS并发的Redis高性能缓存实践之�
 toc: true
 from: http://www.52im.net/thread-1968-1-1.html
 date: 2021-08-11 19:18:35
-permalink: /reprint/zhihu-redis-cluster/
+permalink: /reprint/./zhihu-redis-cluster/
 categories:
   - 收集的文章
 sidebar: auto
@@ -16,8 +16,7 @@ sidebar: auto
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_v2-98aa01df20134d401607137eecb11d98_r-2.jpg](zhihu-redis-cluster/112115tbpgmohsebm2o3mh.jpg)
-
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_v2-98aa01df20134d401607137eecb11d98_r-2.jpg](./zhihu-redis-cluster/112115tbpgmohsebm2o3mh.jpg)
 
 
 ## 2、关于作者
@@ -66,7 +65,7 @@ sidebar: auto
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_2.jpg](zhihu-redis-cluster/112140o5xhaia5t56x40nk.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_2.jpg](./zhihu-redis-cluster/112140o5xhaia5t56x40nk.jpg)
 
 
 
@@ -99,7 +98,7 @@ watcher 监听到消息后，会去主动更新资源发现策略，将客户端
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_3.jpg](zhihu-redis-cluster/112703a3f8gmiizmqi80dt.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_3.jpg](./zhihu-redis-cluster/112703a3f8gmiizmqi80dt.jpg)
 
 
 
@@ -164,7 +163,7 @@ watcher 监听到消息后，会去主动更新资源发现策略，将客户端
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_4.jpg](zhihu-redis-cluster/114018nggotarwm3qa9kbk.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_4.jpg](./zhihu-redis-cluster/114018nggotarwm3qa9kbk.jpg)
 
 
 
@@ -185,7 +184,7 @@ watcher 监听到消息后，会去主动更新资源发现策略，将客户端
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_5.jpg](zhihu-redis-cluster/114121ihhvve56ihjzh6rj.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_5.jpg](./zhihu-redis-cluster/114121ihhvve56ihjzh6rj.jpg)
 
 
 
@@ -197,7 +196,7 @@ Twemproxy 配置 auto_eject_hosts 会在实例连接失败超过 server_failure_
 
 
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_6.jpg](zhihu-redis-cluster/114150jrsz42mlm41i29r5.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_6.jpg](./zhihu-redis-cluster/114150jrsz42mlm41i29r5.jpg)
 
 
 
@@ -234,7 +233,7 @@ Twemproxy 配置 auto_eject_hosts 会在实例连接失败超过 server_failure_
 
 **Twemproxy with SO_REUSEPORT on Kubernetes：**
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_7.jpg](zhihu-redis-cluster/114332gge97h1k01gggkhz.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_7.jpg](./zhihu-redis-cluster/114332gge97h1k01gggkhz.jpg)
 
 
 
@@ -314,7 +313,7 @@ Redis 官方集群方案使用 CRC16 算法计算哈希值并将 Key 分散到 1
 
 **Resharding 过程：**
 
-![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_8.jpg](zhihu-redis-cluster/114953wmhqq70txgtkbtqy.jpg)
+![知乎技术分享：从单机到2000万QPS并发的Redis高性能缓存实践之路_8.jpg](./zhihu-redis-cluster/114953wmhqq70txgtkbtqy.jpg)
 
 
 

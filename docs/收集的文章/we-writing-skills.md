@@ -2,9 +2,8 @@
 title: 一个天资平平的人写作，若笔耕不辍10年，能得到什么好的结果吗？
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/0af3c1/
 categories:
-  - 写作
+  - 收集的文章
 sidebar: auto
 ---
 
@@ -192,7 +191,7 @@ IP文的火热，也吸引了资本的目光。
 
 长此以往，后果就是：
 
-![img](we-writing-skills/v2-382155a1e6c915431bee328b9dc4abc6_hd-20200721165500656.jpg)
+![img](./we-writing-skills/v2-382155a1e6c915431bee328b9dc4abc6_hd-20200721165500656.jpg)
 
 **4，过于重视写作技巧和套路，却抛弃了写作的本真。**
 
@@ -290,7 +289,7 @@ IP文的火热，也吸引了资本的目光。
 
 **这里不是说让大家人格分裂【加粗提醒】**
 
-![img](we-writing-skills/v2-26abeb77ad7c010cf1c3ca3b67c57308_hd.jpg)
+![img](./we-writing-skills/v2-26abeb77ad7c010cf1c3ca3b67c57308_hd.jpg)
 
 
 
@@ -322,7 +321,7 @@ IP文的火热，也吸引了资本的目光。
 
 
 
-![img](we-writing-skills/v2-778c3086d9f997c103300b4d51c6996b_hd.jpg)
+![img](./we-writing-skills/v2-778c3086d9f997c103300b4d51c6996b_hd.jpg)
 
 
 
@@ -346,7 +345,7 @@ IP文的火热，也吸引了资本的目光。
 
 
 
-![img](we-writing-skills/v2-d6ecbdb2e8b6bcafcf65b4228e56a8dc_hd.jpg)
+![img](./we-writing-skills/v2-d6ecbdb2e8b6bcafcf65b4228e56a8dc_hd.jpg)
 
 
 
@@ -360,7 +359,7 @@ IP文的火热，也吸引了资本的目光。
 
 从作者的角度呢，我同样觉得，编辑给的意见是中肯的，不管编辑提出什么意见，那些问题既然编辑能看到，那肯定是个大问题。
 
-![img](we-writing-skills/v2-a6b0cdcfca433b2a23b09e5b6759fed6_hd.jpg)
+![img](./we-writing-skills/v2-a6b0cdcfca433b2a23b09e5b6759fed6_hd.jpg)
 
 如果你递稿被拒稿了，一定要问一问编辑，为什么会被拒稿，问题出现在哪个方面。
 
@@ -384,7 +383,7 @@ IP文的火热，也吸引了资本的目光。
 
 如果你始终觉得自己水平堪比世界名著，我建议你别写小说了，其实在别人看来，你写的就是一坨……
 
-![img](we-writing-skills/v2-b6118225df5c8420ee94fe4a6ec2f419_hd.jpg)
+![img](./we-writing-skills/v2-b6118225df5c8420ee94fe4a6ec2f419_hd.jpg)
 
 任何行业，骄傲自大都是不可取的。
 
@@ -416,7 +415,7 @@ IP文的火热，也吸引了资本的目光。
 
 
 
-![img](we-writing-skills/v2-c4cf36fd39c2eb1da1904df7afbe9a0c_hd.jpg)
+![img](./we-writing-skills/v2-c4cf36fd39c2eb1da1904df7afbe9a0c_hd.jpg)
 
 
 
@@ -484,7 +483,7 @@ IP文的火热，也吸引了资本的目光。
 
 
 
-![img](we-writing-skills/v2-b133116b90e830d09d53d240891e7020_hd.jpg)
+![img](./we-writing-skills/v2-b133116b90e830d09d53d240891e7020_hd.jpg)
 
 
 

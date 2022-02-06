@@ -3,7 +3,6 @@ title: API 文档和前后端协作
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/bdc2c0/
 categories:
   - Rest API
 sidebar: auto
@@ -17,7 +16,7 @@ sidebar: auto
 
 互联网是基于 HTTP 协议构建的，而 HTTP 协议因为简单流行开来，但是 HTTP 协议是无状态（通信层面上虚电路比数据报昂贵太多）的，为此人们为了追踪用户想出了各种办法，包括 cookie/session 机制、token、flash 跨浏览器 cookie 甚至浏览器指纹等。
 
-![cookies.png](http://www.printf.cn/usr/uploads/2019/03/4225410804.png)
+![cookies.png](./api-authentication-authorization-credential/4225410804.png)
 
 把用户身份藏在每一个地方（浏览器指纹技术甚至不需要存储介质）
 讲使用 spring security 等具体技术的资料已经很多了，这篇文章不打算写框架和代码的具体实现。我们会讨论认证和授权的区别，然后会介绍一些被业界广泛采用的技术，最后会聊聊怎么为 API 构建选择合适的认证方式。
@@ -26,7 +25,7 @@ sidebar: auto
 
 首先，认证和授权是两个不同的概念，为了让我们的 API 更加安全和具有清晰的设计，理解认证和授权的不同就非常有必要了，它们在英文中也是不同的单词。
 
-![roles.png](api-authentication-authorization-credential/379091767.png)
+![roles.png](./api-authentication-authorization-credential/379091767.png)
 
 认证是 authentication，指的是当前用户的身份，当用户登陆过后系统便能追踪到他的身份做出符合相应业务逻辑的操作。即使用户没有登录，大多数系统也会追踪他的身份，只是当做来宾或者匿名用户来处理。认证技术解决的是 “我是谁？”的问题。
 
@@ -43,14 +42,14 @@ sidebar: auto
 
 你一定用过这种方式，但不一定知道它是什么，在不久之前，当你访问一台家用路由器的管理界面，往往会看到一个浏览器弹出表单，要求你输入用户密码。
 
-![basic.png](api-authentication-authorization-credential/1004061814.png)
+![basic.png](./api-authentication-authorization-credential/1004061814.png)
 
 在这背后，当用户输入完用户名密码后，浏览器帮你做了一个非常简单的操作:
 
 - 组合用户名和密码然后 Base64 编码
 - 给编码后的字符串添加 Basic 前缀，然后设置名称为 Authorization 的 header 头部
 
-![basic_flow.png](api-authentication-authorization-credential/2147659212.png)
+![basic_flow.png](./api-authentication-authorization-credential/2147659212.png)
 
 API 也可以非常简单的提供 HTTP Basic Authentication 认证方式，那么客户端可以很简单通过 Base64 传输用户名和密码即可:
 
@@ -67,7 +66,7 @@ API 也可以非常简单的提供 HTTP Basic Authentication 认证方式，那�
 
 这种基于 AK/SK 的认证方式主要是利用散列的消息认证码 (Hash-based MessageAuthentication Code) 来实现的，因此有很多地方叫 HMAC 认证，实际上不是非常准确。HMAC 只是利用带有 key 值的哈希算法生成消息摘要，在设计 API 时有具体不同的实现。
 
-![HMAC_hash.png](http://www.printf.cn/usr/uploads/2019/03/768972510.png)
+![HMAC_hash.png](./api-authentication-authorization-credential/768972510.png)
 
 HMAC 在作为网络通信的认证设计中作为凭证生成算法使用，避免了口令等敏感信息在网络中传输。基本过程如下：
 
@@ -83,17 +82,17 @@ HMAC 在作为网络通信的认证设计中作为凭证生成算法使用，避
 
 质疑/应答算法需要客户端先请求一次服务器，获得一个 401 未认证的返回，并得到一个随机字符串（nonce）。将 nonce 附加到按照上面说到的方法进行 HMAC 签名，服务器使用预先分配的 nonce 同样进行签名校验，这个 nonce 在服务器只会被使用一次，因此可以提供唯一的摘要。
 
-![ak_sk.png](api-authentication-authorization-credential/4156853075.png)
+![ak_sk.png](./api-authentication-authorization-credential/4156853075.png)
 
 ### 基于时间的一次性密码认证
 
 为了避免额外的请求来获取 nonce，还有一种算法是使用时间戳，并且通过同步时间的方式协商到一致，在一定的时间窗口内有效（1分钟左右）。
 
-![top.png](api-authentication-authorization-credential/2436879961.png)
+![top.png](./api-authentication-authorization-credential/2436879961.png)
 
 这里的只是利用时间戳作为验证的时间窗口，并不能严格的算作基于时间的一次性密码算法。标准的基于时间的一次性密码算法在两步验证中被大量使用，例如 Google 身份验证器不需要网络通信也能实现验证（但依赖准确的授时服务）。原理是客户端服务器共享密钥然后根据时间窗口能通过 HMAC 算法计算出一个相同的验证码。
 
-![totp.png](api-authentication-authorization-credential/3978829140.png)
+![totp.png](./api-authentication-authorization-credential/3978829140.png)
 
 TOTP 基本原理和常见厂商
 
@@ -102,7 +101,7 @@ TOTP 基本原理和常见厂商
 OAuth（开放授权）是一个开放标准，允许用户授权第三方网站访问他们存储在另外的服务提供者上的信息，而不需要将用户名和密码提供给第三方网站或分享他们数据的所有内容。
 OAuth 是一个授权标准，而不是认证标准。提供资源的服务器不需要知道确切的用户身份（session），只需要验证授权服务器授予的权限（token）即可。
 
-![oauth.png](api-authentication-authorization-credential/3686456467.png)
+![oauth.png](./api-authentication-authorization-credential/3686456467.png)
 
 上图只是 OAuth 的一个简化流程，OAuth 的基本思路就是通过授权服务器获取 access token 和 refresh token（refresh token 用于重新刷新access token），然后通过 access token 从资源服务器获取数据 。在特定的场景下还有下面几种模式：
 
@@ -148,13 +147,13 @@ OpenID Connect 解决的是在 OAuth 这套体系下的用户认证问题，实�
 
 JWT 是一种包含令牌（self-contained token），或者叫值令牌 （value token），我们以前使用关联到 session 上的 hash 值被叫做引用令牌（reference token）。
 
-![two-types-of-token.png](api-authentication-authorization-credential/2349337477.png)
+![two-types-of-token.png](./api-authentication-authorization-credential/2349337477.png)
 
 简而言之，一个基本的JWT令牌为一段点分3段式结构。
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9.TJVA95OrM7E2cBab30RMHrHDcEfxjoYZgeFONFh7HgQ
 生成JWT 令牌的流程为
 
-![jwt.jpg](api-authentication-authorization-credential/1625047913.jpg)
+![jwt.jpg](./api-authentication-authorization-credential/1625047913.jpg)
 
 - header json 的 base64 编码为令牌第一部分
 - payload json 的 base64 编码为令牌第二部分
@@ -200,7 +199,7 @@ H2M 的通信需要更高的安全性，M2M 的通信天然比 H2M 安全，因�
 
 从一个宏观的角度看待他们的关系，对我们技术选型非常有帮助。
 
-![h2m-m2m.png](api-authentication-authorization-credential/1165581663.png)
+![h2m-m2m.png](./api-authentication-authorization-credential/1165581663.png)
 
 ## 术语表
 

@@ -2,7 +2,6 @@
 title: Junit 5
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/e400f9/
 categories:
   - 测试技术
 sidebar: auto

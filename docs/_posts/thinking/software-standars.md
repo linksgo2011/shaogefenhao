@@ -1,9 +1,8 @@
 ---
-title: 标准化技术下的软件开发
+title: 常见的技术标准组织
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/0171b8/
 categories:
   - 思维和方法论
 sidebar: auto

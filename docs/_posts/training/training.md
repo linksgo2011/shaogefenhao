@@ -1,7 +1,6 @@
 ---
 title: 培训破冰游戏
 date: 2021-08-11 19:18:36
-permalink: /pages/35449f/
 categories:
   - 培训技巧
 sidebar: auto
@@ -20,10 +19,8 @@ sidebar: auto
 - 是否养宠物？
 - 使用vim？
 - PHP是不是最好的语言？
-  
 
 ### human bingo 
-
 
 参考地址：https://plentifun.com/sample-questions-to-play-human-bingo-game
 

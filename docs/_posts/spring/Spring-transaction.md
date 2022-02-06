@@ -1,7 +1,6 @@
 ---
 title: Spring 开启事务支持
 date: 2021-08-11 19:18:36
-permalink: /pages/bc9246/
 categories:
   - Spring 
 sidebar: auto

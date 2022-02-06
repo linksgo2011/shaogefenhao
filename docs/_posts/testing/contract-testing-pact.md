@@ -1,7 +1,6 @@
 ---
 title: API的contract测试之Pact
 date: 2021-08-11 19:18:36
-permalink: /pages/e0bc76/
 categories:
   - 测试技术
 sidebar: auto

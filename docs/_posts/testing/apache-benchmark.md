@@ -1,7 +1,6 @@
 ---
 title: 使用 ab(apache benchmark) 进行压力测试
 date: 2021-08-11 19:18:36
-permalink: /pages/c88d45/
 categories:
   - 测试技术
 sidebar: auto

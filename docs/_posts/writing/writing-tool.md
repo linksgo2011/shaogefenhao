@@ -2,7 +2,6 @@
 title: 几种易于管理的写作排版方案
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/48944a/
 categories:
   - 写作
 sidebar: auto
@@ -199,15 +198,10 @@ Vuepress 是一个功能比较强大的文档生成系统，同时可以使用 v
 
 https://mdnice.com/
 
-
-
 ## 简历排版
 
 https://github.com/mdnice/markdown-resume
 
-
-
 ### 写书
 
 简单可以使用 markdown 分章节，Spring 和各种框架文档都是通过 adoc 写的，非常容易编排一本书，以及进行章节跳转。
-

@@ -2,7 +2,6 @@
 title: 使用 k6 进行压力测试
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/13792d/
 categories:
   - 测试技术
 sidebar: auto

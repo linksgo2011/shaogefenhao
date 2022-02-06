@@ -3,7 +3,6 @@ title: Spring boot 部署的几种方式
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-permalink: /pages/533ffb/
 categories:
   - Spring 
 sidebar: auto

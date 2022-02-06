@@ -1,7 +1,6 @@
 ---
 title: Java 中常见的测试方案
 date: 2021-08-11 19:18:36
-permalink: /pages/ce2c65/
 categories:
   - 测试技术
 sidebar: auto

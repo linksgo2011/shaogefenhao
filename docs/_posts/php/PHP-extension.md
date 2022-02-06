@@ -2,7 +2,6 @@
 title: PHP拓展Linux/unix 下的编译安装
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/b3cad5/
 categories:
   - PHP 基础
 sidebar: auto

@@ -3,7 +3,6 @@ title: API 文档和前后端协作
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/2270f5/
 categories:
   - Rest API
 sidebar: auto
@@ -18,7 +17,7 @@ sidebar: auto
 - **基于反射的 API 文档**：使用 swagger 这类通过反射来解析代码，只需要定义好 Model，可以实现自动输出 API 文档。这种方案适合强类型语言例如 Java、.Net，尤其是生成一份稳定、能在团队外使用的 API 文档。
 - **使用契约进行前后端协作**：在团队内部，前后端协作本质上需要的不是一份 API 文档，而是一个可以供前后端共同遵守的契约。前后端可以一起制定一份契约，使用这份契约共同开发，前端使用这份契约 mock API，后端则可以通过它简单的验证API是否正确输出。
 
-![api-document.png](api-design-document-and-contract/1089010597.png)
+![api-document.png](./api-design-document-and-contract/1089010597.png)
 
 ## 基于注释的 API 文档
 
@@ -30,7 +29,7 @@ apidocjs 是生成文档最轻量的一种方式，apidocjs 作为 npm 包发布
 
 在需要输出文档的源代码中添加一个一个注释示例：
 
-![apidoc-demo.png](api-design-document-and-contract/1399785923.png)
+![apidoc-demo.png](./api-design-document-and-contract/1399785923.png)
 
 最小化运行：
 
@@ -38,7 +37,7 @@ apidocjs 是生成文档最轻量的一种方式，apidocjs 作为 npm 包发布
 
 即可在 apidoc 中输出静态的 html 文档目录。如果指定配置文件 apidoc.json 可以定义更多的操作方式，也可以自定义一套 HTML 模板用于个性化显示你的 API 文档，另外在输出的 HTML 文档中附带有API请求的测试工具，可以在我们生成的文档中尝试调用 API。
 
-![apidoc-html-demo.png](api-design-document-and-contract/1155147223.png)
+![apidoc-html-demo.png](./api-design-document-and-contract/1155147223.png)
 
 使用 apidocjs 只需要添加几个例如 @api、@apiname、@apiParam 等几个必要的注释即可，值得一提是 @apiDefine 可以定义变量避免重复书写，@apiGroup 用来对 API 分组，@apiVersion 可以再生成不同版本的文档。
 
@@ -58,19 +57,19 @@ apidoc 的缺点是需要维护一些注释，当修改源代码时需要注意�
 
 首选加入依赖（gradle 同理）：
 
-![swagger-xml.png](api-design-document-and-contract/1041329563.png)
+![swagger-xml.png](./api-design-document-and-contract/1041329563.png)
 
 全局配置：
 
-![swagger-config.png](api-design-document-and-contract/2234607907.png)
+![swagger-config.png](./api-design-document-and-contract/2234607907.png)
 
 我们的 controller，需要定义一些必要的注解来描述这个 API 的标题和解释，我们返回的 user 对象是一个简单 value object，swagger-annotations 包下面提供了很多注解可以满足更多的定制需求。
 
-![swagger-endpoint.png](api-design-document-and-contract/3150467476.png)
+![swagger-endpoint.png](./api-design-document-and-contract/3150467476.png)
 
 然后访问你的 context 下的 /{context}/swagger-ui.html 页面，你会看到一个漂亮的 API 在线文档。swagger 的文档上能看到具体的字段定义和 Model，如果修改了 Model，再次编译后则可以自动反应到文档上，这也是反应了强类型编程语言的优势之一。
 
-![swagger-html-demo.png](api-design-document-and-contract/968599917.png)
+![swagger-html-demo.png](./api-design-document-and-contract/968599917.png)
 
 ## 基于契约的前后端协作
 
@@ -79,14 +78,14 @@ apidoc 的缺点是需要维护一些注释，当修改源代码时需要注意�
 
 后端开发者可以根据文档实现接口，最后按照文档联合调试即可，甚至通过契约生成 API 调用和数据承载的 VO (Value Object)，减少工作量。如果 API 的提供者想做的更为完善一些，可以使用契约文件来验证实际 API 输出输出是否合理。
 
-![contract-model.png](api-design-document-and-contract/3427458920.png)
+![contract-model.png](./api-design-document-and-contract/3427458920.png)
 
 ### 契约测试
 
 当我们使用契约文件来提高前后端协作开发的体验，其中很重要的一部分就是契约测试，关于契约测试，我们一般指的是 Martin Fowler 提出的概念 —— “消费者驱动的契约”
 简单来说，就是前后端开发者协定好后，由消费者驱动，通过编写 API 调用层相关的代码，可以直接生成契约文件。由于一个 API 可以被多处消费，所以消费者驱动可以更好的管理契约的变化（如果 API 验证契约时不能通过，说明契约被破坏了，可以在 CI 上马上反应出来）。
 
-![pact-model.png](api-design-document-and-contract/2560476446.png)
+![pact-model.png](./api-design-document-and-contract/2560476446.png)
 
 (Pact 契约测试模型)
 
@@ -113,7 +112,7 @@ Swagger 在生成文档上非常优秀，然而在契约测试上不及 Pact，�
 
 围绕着 RAML 这一标准，构建出 API 协作的工具链，设计、构建、测试、文档、共享。
 
-![raml-model.png](api-design-document-and-contract/2964802501.png)
+![raml-model.png](./api-design-document-and-contract/2964802501.png)
 
 ## 其他前后端协作实践
 

@@ -2,7 +2,6 @@
 title: 通用培训技巧和方法
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/8cb05a/
 categories:
   - 培训技巧
 sidebar: auto

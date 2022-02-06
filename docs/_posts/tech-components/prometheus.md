@@ -1,7 +1,6 @@
 ---
 title: Prometheus 开源设备监控平台
 date: 2021-08-11 19:18:36
-permalink: /pages/cad889/
 categories:
   - 开源组件
 sidebar: auto

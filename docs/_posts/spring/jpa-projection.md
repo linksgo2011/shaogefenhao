@@ -1,7 +1,6 @@
 ---
 title: JPA 投影
 date: 2021-08-11 19:18:36
-permalink: /pages/26d86d/
 categories:
   - Spring 
 sidebar: auto

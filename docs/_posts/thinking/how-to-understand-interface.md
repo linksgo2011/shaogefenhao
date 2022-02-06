@@ -3,7 +3,6 @@ title: 程序语言中接口的深层次含义
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/9cdd06/
 categories:
   - 思维和方法论
 sidebar: auto
@@ -21,20 +20,20 @@ sidebar: auto
 
 举个例子，现实生活中，我们想要通过一台计算机把文档或者图片投影到幕布上，同时也需要能通过打印机打印出来，那么投影仪和打印机两台输出设备必须具备支持信息输出的接口。
 
-![interface-1.jpg](how-to-understand-interface/3897248284.jpg)
+![interface-1.jpg](./how-to-understand-interface/3897248284.jpg)
 
 如果使用 Java 来实现这个业务场景，可以通过定义一个 output 方法的 interface。打印机类（ Printer ）和 投影仪类（Projector）实现这个 interface，并实现该 interface 中的 output 方法。
 
-![interface-2.jpg](how-to-understand-interface/1455301577.jpg)
+![interface-2.jpg](./how-to-understand-interface/1455301577.jpg)
 通过这个例子，我们可以认识到某个类为了实现某个功能必须提供一些方法，从而和系统中其他部分交互，在 Java 中通过 interface 来定义。在一些资料中，interface 被当做了一种特殊的抽象类，被认为抽象类，实际上不是特别准确。我们来拓展一下上面的例子，说明一下接口和抽象类的细微差别。
 
 假设我们原来的打印机只能打印黑白色，现在想要实现彩色打印，我们可以增加一台彩色打印机（ColorPrinter），并把原来的打印机命名为黑白打印机（WBPrinter）。
 
-![interface-3.jpg](how-to-understand-interface/2672922179.jpg)
+![interface-3.jpg](./how-to-understand-interface/2672922179.jpg)
 
 然后我们发现彩色打印机和黑白打印机都有一些共同的东西，例如纸张、油墨等。于是我们使用了抽象类（或者一个普通父类）来归纳这些属性，就像继承财产一样。这个抽象类同时也可以实现接口，并继承给子类。
 
-![interface4.jpg](how-to-understand-interface/1004911624.jpg)
+![interface4.jpg](./how-to-understand-interface/1004911624.jpg)
 
 通过这个例子，在 Java 中 interface 只是定义了实现这个接口的类是否能按照具体输入（参数）实现某些功能（方法）的能力，实现接口的过程中并没有传递任何状态和属性，这一点和抽象类有本质的区别。
 
@@ -48,7 +47,7 @@ sidebar: auto
 
 实际上，在开发 JavaScript 应用程序时，我们的 “interface” 存在于开发者的大脑和团队的约定中，下图的 interface 我使用虚线标出。
 
-![interface-5.jpg](how-to-understand-interface/778236198.jpg)
+![interface-5.jpg](./how-to-understand-interface/778236198.jpg)
 
 在JavaScript的世界里，缺乏语法层面上的 interface，因此只能通过口头约定来实现接口。因为缺乏语言支持，这个约定是不清晰的，可以由第三方工具或者文档来支持。
 
@@ -56,7 +55,7 @@ sidebar: auto
 
 如果我们尝试对比 TypeScript 代码和编译出来的 JavaScript 代码，我们会发现 TypeScript 中的interface 会彻底消失，就像根本不存在一样。
 
-![interface-6.jpg](how-to-understand-interface/2006504323.jpg)
+![interface-6.jpg](./how-to-understand-interface/2006504323.jpg)
 
 通过编译TypeScript可以进一步证明，接口只是一个约定，编译完成后就不再需要了。实际上，对比 Java 源代码和 class字节码也能得到同样的结论。
 
@@ -68,11 +67,11 @@ sidebar: auto
 
 回想一下我们编程语言都是怎么和数据库交互的呢？
 
-![interface-7.jpg](how-to-understand-interface/2229247324.jpg)
+![interface-7.jpg](./how-to-understand-interface/2229247324.jpg)
 
 计算机中的差异化问题都可以通过增加分层的方式解决。所以对于不同的数据库和编程语言之间，我们有一个SQL语言。SQL 在这个场景下，充当了一个接口的角色。SQL 抽象了 DBMS 应该具备的能力，数据库相关的操作就可以都使用 SQL 来完成了。
 
-![interface-8.jpg](how-to-understand-interface/487503327.jpg)
+![interface-8.jpg](./how-to-understand-interface/487503327.jpg)
 
 同样的例子还有很多，当我们在编写 JavaScript 脚本操作浏览器中的 DOM 时，在一定程度上不必考虑浏览器是 Chrome 还是 Firefox。DOM 充当了浏览器和JavaScript引擎的接口。甚至当 DOM 不是有浏览器来构建时，应用程序也有能力解析 HTML 并操作其中的属性。
 

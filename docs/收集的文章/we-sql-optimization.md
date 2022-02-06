@@ -2,9 +2,8 @@
 title: 或许你不知道的12条SQL技巧
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/58ae2c/
 categories:
-  - 写作
+  - 收集的文章
 sidebar: auto
 ---
 
@@ -90,7 +89,6 @@ select * from user where phone=13800001234
 你以为会命中phone索引么？大错特错了！！！
 
 末了，再加一条，不要使用select *（潜台词，文章的SQL都不合格 =_=），只返回需要的列，能够大大的节省数据传输量，与数据库的内存使用量哟。
-
 
 
 

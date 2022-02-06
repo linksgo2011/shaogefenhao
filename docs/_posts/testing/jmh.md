@@ -4,7 +4,6 @@ toc: true
 from: self
 Recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/c6e626/
 categories:
   - 测试技术
 sidebar: auto

@@ -2,13 +2,10 @@
 title: 服务器推送方案
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/13fffa/
 categories:
   - 技术方案
 sidebar: auto
 ---
-
-
 
 在邮件、消息等场景下需要使用服务器推方案，用于在  web 上和用户实时交互。
 
@@ -174,8 +171,4 @@ server {
 WebSocket 协议没有同源策略，但是建立连接的 http 请求有同源策略，需要配置跨域访问。
 
 
-
-
-
 ## HTTP/2 Server push 技术
-

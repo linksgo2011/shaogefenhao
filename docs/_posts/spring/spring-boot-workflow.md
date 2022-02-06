@@ -3,7 +3,6 @@ title: Spring boot 源码分析
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-permalink: /pages/3226f2/
 categories:
   - Spring 
 sidebar: auto
@@ -680,12 +679,9 @@ public static void addApplicationFormatters(FormatterRegistry registry) {
 
 转换器和格式化器继承的父类和实现的接口不太一样。
 
-![image-20200405145057079](spring-boot-workflow/image-20200405145057079.png)
+![image-20200405145057079](./spring-boot-workflow/image-20200405145057079.png)
 
-<center>（转换器）<center>
-![image-20200405145258465](spring-boot-workflow/image-20200405145258465.png)
-
-<center>(格式化器)</center>
+![image-20200405145258465](./spring-boot-workflow/image-20200405145258465.png)
 
 ##### 3.5.2.2 配置属性资源
 
@@ -852,7 +848,7 @@ protected ConfigurableApplicationContext createApplicationContext() {
 
 
 
-![image-20200405225010409](spring-boot-workflow/image-20200405225010409.png)
+![image-20200405225010409](./spring-boot-workflow/image-20200405225010409.png)
 
 
 
@@ -1302,7 +1298,7 @@ protected ConfigurableListableBeanFactory obtainFreshBeanFactory() {
 
 需要注意，我们现在通过 spring boot 分析，走的是注解这边。
 
-![image-20200406094251066](spring-boot-workflow/image-20200406094251066.png)
+![image-20200406094251066](./spring-boot-workflow/image-20200406094251066.png)
 
 
 
@@ -2193,7 +2189,7 @@ String[] beanNames = getBeanFactory().getBeanNamesForType(ServletWebServerFactor
 
 它的实现类有好几个
 
-![image-20200406214422826](spring-boot-workflow/image-20200406214422826.png)
+![image-20200406214422826](./spring-boot-workflow/image-20200406214422826.png)
 
 为什么这里就能得到 TomcatServletWebServerFactory  而不是其他的呢？
 

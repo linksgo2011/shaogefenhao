@@ -1,7 +1,6 @@
 ---
 title: 储存高性能架构
 date: 2021-08-11 19:18:36
-permalink: /pages/88cbdb/
 categories:
   - 技术方案
 sidebar: auto

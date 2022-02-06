@@ -1,7 +1,6 @@
 ---
 title: OpenResty
 date: 2021-08-11 19:18:36
-permalink: /pages/ae6190/
 categories:
   - 开源组件
 sidebar: auto

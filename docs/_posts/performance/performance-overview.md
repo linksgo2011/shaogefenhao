@@ -2,13 +2,10 @@
 title: 性能优化
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/595f16/
 categories:
   - 性能优化
 sidebar: auto
 ---
-
-
 
 ## 性能优化的维度
 
@@ -380,7 +377,7 @@ Java 中最基本的锁机制，可以锁方法、变量、类、静态方法等
 
 AbstractQueuedSynchronized 抽象队列式的同步器，AQS定义了一套多线程访问共享资源的同步器框架，许多同步类实现都依赖于它，如常用的ReentrantLock/Semaphore/CountDownLatch
 
-![img](performance-overview/721070-20170504110246211-10684485.png)
+![img](./performance-overview/721070-20170504110246211-10684485.png)
 
 想要获取锁的线程通过 CAS 设置资源计数器，当资源计数器为0时，队列开始移动，否则进行排队操作。
 
@@ -513,13 +510,13 @@ JVM 输出调试信息
 
 JVM 虚拟机模型
 
-![img](performance-overview/format,png.png)
+![img](./performance-overview/format,png.png)
 
 堆内存模型
 
 
 
-![img](performance-overview/70.png)
+![img](./performance-overview/70.png)
 
 
 
@@ -621,7 +618,7 @@ JVM 会试图将内存尽可能限制在 -Xms 中。因此，当内存实际使�
 
 #### 堆参数设置总结
 
-![image-20200319125358200](performance-overview/image-20200319125358200.png)
+![image-20200319125358200](./performance-overview/image-20200319125358200.png)
 
 - -Xms：初始堆大小
 - -Xmx：最大堆大小

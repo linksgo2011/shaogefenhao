@@ -1,7 +1,6 @@
 ---
 title: PHP环境 in Mac
 date: 2021-08-11 19:18:36
-permalink: /pages/ad9eca/
 categories:
   - PHP 基础
 sidebar: auto

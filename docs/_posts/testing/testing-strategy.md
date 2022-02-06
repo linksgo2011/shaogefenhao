@@ -1,7 +1,6 @@
 ---
 title: 测试策略
 date: 2021-08-11 19:18:36
-permalink: /pages/7e3e4c/
 categories:
   - 测试技术
 sidebar: auto

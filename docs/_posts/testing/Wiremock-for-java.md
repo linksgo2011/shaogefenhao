@@ -1,7 +1,6 @@
 ---
 title: Mock工具 wiremock
 date: 2021-08-11 19:18:36
-permalink: /pages/15532a/
 categories:
   - 测试技术
 sidebar: auto

@@ -1,7 +1,6 @@
 ---
 title: Jmeter 性能测试
 date: 2021-08-11 19:18:36
-permalink: /pages/2654fa/
 categories:
   - 测试技术
 sidebar: auto

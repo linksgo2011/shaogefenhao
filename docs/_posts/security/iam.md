@@ -3,7 +3,6 @@ title: 认证和授权的基本概念
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-permalink: /pages/8893e8/
 categories:
   - 安全
 sidebar: auto

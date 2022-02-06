@@ -3,7 +3,6 @@ title: 软件设计的反思录
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/e4335a/
 categories:
   - 思维和方法论
 sidebar: auto
@@ -26,10 +25,8 @@ sidebar: auto
   - 保持克制
 - 保持敬畏
   
-  
 
 --------------
-
 
 
 有人说，程序员不是在代码屎山上，就是在前往屎山的路上。作为码农经历过大多数程序员相似的悲哀：

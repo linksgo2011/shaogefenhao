@@ -1,7 +1,6 @@
 ---
 title: 一本小小的单元测试书
 date: 2021-08-11 19:18:36
-permalink: /pages/3f323d/
 categories:
   - 测试技术
 sidebar: auto
@@ -132,7 +131,7 @@ Junit 是 Java 的单元测试套件，我们可以从最简单的单元测试�
 
 
 
-<img src="java-unit-test-summary/image-20200621183542476.png" alt="image-20200621183542476" style="zoom:30%;" />
+<img src="./java-unit-test-summary/image-20200621183542476.png" alt="image-20200621183542476" style="zoom:30%;" />
 
 
 
@@ -204,7 +203,7 @@ public class HelloWorldTest {
 
 
 
-<img src="java-unit-test-summary/image-20200621184500137.png" alt="image-20200621184500137" style="zoom:50%;" />
+<img src="./java-unit-test-summary/image-20200621184500137.png" alt="image-20200621184500137" style="zoom:50%;" />
 
 
 
@@ -1057,7 +1056,7 @@ public class ParameterizedPractiseTest {
 
 我们在控制台就可以看到 6 个独立的测试。
 
-<img src="java-unit-test-summary/image-20200627153205083.png" alt="image-20200627153205083" style="zoom:50%;" />
+<img src="./java-unit-test-summary/image-20200627153205083.png" alt="image-20200627153205083" style="zoom:50%;" />
 
 
 
@@ -1089,13 +1088,13 @@ public class PersonTest {
 
 使用 IDE 内置的测试覆盖率统计统计，即可满足我们大部分需求。只需要使用 Run xx with Coverage 即可。Intellij Idea 不仅可以针对类统计覆盖率，还可以选中一个包统计单元测试覆盖率。
 
-<img src="java-unit-test-summary/image-20200627153540758.png" alt="image-20200627153540758" style="zoom:50%;" />
+<img src="./java-unit-test-summary/image-20200627153540758.png" alt="image-20200627153540758" style="zoom:50%;" />
 
 
 
 运行完测试覆盖率后，IDE 会弹出一个统计窗口，同时代码编辑器会显示出那些代码被覆盖。
 
-<img src="java-unit-test-summary/image-20200627153914675.png" alt="image-20200627153914675" style="zoom:50%;" />
+<img src="./java-unit-test-summary/image-20200627153914675.png" alt="image-20200627153914675" style="zoom:50%;" />
 
 
 

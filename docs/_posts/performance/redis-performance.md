@@ -2,7 +2,6 @@
 title: Redis 性能优化
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/429b6a/
 categories:
   - 性能优化
 sidebar: auto
@@ -20,8 +19,7 @@ redis 扩容三个阶段：
 
 使用 Redis 自带的哨兵（Sentinel）集群对实例进行状态监控与 Failover。Sentinel 是 Redis 自带的高可用组件，将 Redis 注册到由多个 Sentinel 组成的 Sentinel 集群后，Sentinel 会对 Redis 实例进行健康检查，当 Redis 发生故障后，Sentinel 会通过 Gossip 协议进行故障检测，确认宕机后会通过一个简化的 Raft 协议来提升 Slave 成为新的 Master。
 
-![img](redis-performance/1500839-3bb8dac58b9fac75.jpg)
-
+![img](./redis-performance/1500839-3bb8dac58b9fac75.jpg)
 
 
 仅使用 1 个 Slave 节点进行冷备，如果有读写分离请求，可以建立多个 Read only slave 来进行读写分离。
@@ -59,7 +57,7 @@ redis 目前主流有三个集群方案可以选择：
 
 
 
-![img](redis-performance/377adab44aed2e73e06d2f3d2de6fe8e86d6fa0c.png)
+![img](./redis-performance/377adab44aed2e73e06d2f3d2de6fe8e86d6fa0c.png)
 
 客户端是如何访问Redis Cluster里面的数据呢？首先客户端需要保存一份Redis Cluster槽相关的信息，也就是路由表，然后对即将访问的key进行哈希计算，计算出对应的槽位，然后向对应的Redis实例发起查询请求。如果访问的Redis实例中，的确保存着对应槽的数据信息，就会进行返回，否则向客户端返回一个Moved指令，让客户端到正确的地址进行获取。
 
@@ -117,7 +115,7 @@ Codis是一个分布式Redis解决方案,对于上层的应用来说,连接到Co
 
 
 
-![image](redis-performance/5BD68FB50A584D53A186F0FC5C81212D.png)
+![image](./redis-performance/5BD68FB50A584D53A186F0FC5C81212D.png)
 
 codis 组成部分：
 
@@ -173,7 +171,7 @@ codis 组成部分：
 
 采用的是 Twemproxy 集群方案。
 
-![img](redis-performance/1500839-504df1bcc0e9cda3.jpg)
+![img](./redis-performance/1500839-504df1bcc0e9cda3.jpg)
 
 ### redis 常用工具
 

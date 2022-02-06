@@ -2,7 +2,6 @@
 title: 主客体命名法
 toc: true
 sidebar: auto
-permalink: /pages/zhuketi-naming
 categories: 
   - 思维和方法论
 date: 2021-11-21 21:33:22

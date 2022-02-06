@@ -3,7 +3,6 @@ title: 需求的冰山，来聊聊非功能性需求
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/091033/
 categories:
   - 思维和方法论
 sidebar: auto
@@ -15,8 +14,8 @@ sidebar: auto
 
 这其中很大一部分原因都是因为“需求背后的需求”造成的，BA、QA小伙伴以为你考虑到了，或者默认开发需要考虑的。
 比如CMS系统中一个新建文章的需求，不太可能写出需要防止表单二次提交的AC，然而如果没人提出来谁会知道呢？
-
-![ 非功能需求.png](no-feature-requirement/4146258397.png)
+s
+![ 非功能需求.png](./no-feature-requirement/4146258397.png)
 
 最终QA或者线上的用户会通过报bug告诉我们。
 

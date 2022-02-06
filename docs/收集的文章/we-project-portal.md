@@ -2,9 +2,8 @@
 title: 优秀产品介绍首页鉴赏
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/34c796/
 categories:
-  - 写作
+  - 收集的文章
 sidebar: auto
 ---
 
@@ -12,15 +11,9 @@ sidebar: auto
 
 https://imgkr.com/#about
 
-
-
 ## layui
 
-
-
 https://www.layui.com
-
-
 
 ## T-io
 
@@ -39,8 +32,6 @@ http://hightopo.com
 ## 泡泡IM
 
 http://popoim.cn
-
-
 
 ## WoLive客服
 

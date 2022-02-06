@@ -1,7 +1,6 @@
 ---
 title: Spring boot 学习指南
 date: 2021-08-11 19:18:36
-permalink: /pages/b53205/
 categories:
   - Spring 
 sidebar: auto

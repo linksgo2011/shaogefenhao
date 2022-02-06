@@ -2,13 +2,12 @@
 title: 分库分表方案
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/bf204a/
 categories:
   - 技术方案
 sidebar: auto
 ---
 
-![image-20200411185919412](database-sharding/image-20200411185919412.png)
+![image-20200411185919412](./database-sharding/image-20200411185919412.png)
 
 mysql的数据其实是存储在b+tree上的.一般业内的认知是 索引深度不超过4层.3层的索引. 能存储的数据行数其实是能计算出来的.所以为了要保证查询高效. 算一下每张表大概多少量级数据.. 拆分的时候根据总量计算出拆多少个分区.
 

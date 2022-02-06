@@ -3,7 +3,6 @@ title: 重新认识RESTful
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/4ae975/
 categories:
   - Rest API
 sidebar: auto
@@ -14,7 +13,7 @@ sidebar: auto
 在前后端分离和微服务成为现代软件开发的大趋势下，API设计也应该变得越来越规范和高效。本篇希望把API相关的概念最朴素的方式梳理，对API设计有一个更全面和细致的认识，构建出更规范、设计清晰和文档完善的API。
 重新认识API
 
-![veen.png](http://www.printf.cn/usr/uploads/2019/02/1141077042.png)
+![veen.png](./restful-api-introduction/1141077042.png)
 
 广义的API（Application Programming Interface）是指应用程序编程接口，包括在操作系统中的动态链接库文件例如dllso，或者基于TCP层的socket连接，用来提供预定义的方法和函数，调用者无需访问源码和理解内部原理便可实现相应功能。而当前通常指通过HTTP协议传输的web service技术。
 
@@ -26,26 +25,26 @@ API在概念上和JSON和XML等媒体类型无关，JSON和XML只是一种传输
 
 ## RESTful
 
-![expression.png](restful-api-introduction/1935211481.png)
+![expression.png](./restful-api-introduction/1935211481.png)
 
 REST（英文：Representational State Transfer，简称REST），RESTful是一种对基于HTTP的应用设计风格，只是提供了一组设计原则和约束条件，而不是一种标准。网络上有大量对RESTful风格的解读，简单来说Restful定义URI和HTTP状态码，让你的API设计变得更简洁、清晰和富有层次，对缓存等实现更有帮助。RESTful不是灵丹妙药，也不是银弹。
 
 RESTful第一次被提出是在2000Roy Fielding的博士论文中，他也是HTTP协议标准制定者之一。从本质上理解RESTful，它其实是尽可能复用HTTP特性来规范软件设计，甚至提高传输效率。HTTP包处于网络应用层，因此HTTP包为平台无关的字符串表示，如果尽可能的使用HTTP的包特征而不是大量在body定义自己的规则，可以用更简洁、清晰、高效的方式实现同样的需求。
 
-![verbs.png](http://www.printf.cn/usr/uploads/2019/02/2274203718.png)
+![verbs.png](./restful-api-introduction/2274203718.png)
 
 用我几年前一个真实的例子，我们为了提供一个订单信息API，为了更方便传递信息全部使用了POST请求，使用了定义了method表明调用方法：
 
-![RPC.png](http://www.printf.cn/usr/uploads/2019/02/1734109118.png)
+![RPC.png](./restful-api-introduction/1734109118.png)
 
 返回定义了自己的状态：
 
-![bad-eg-data.png](restful-api-introduction/664468672.png)
+![bad-eg-data.png](./restful-api-introduction/664468672.png)
 
 大家现在来看例子会觉得设计上很糟糕，但是在当时大量的API是这样设计的。操作资源的动作全部在数据体里面重新定义了一遍，URL上不能体现出任何有价值的信息，为缓存机制带来麻烦。对前端来说，在组装请求的时候显得麻烦不说，另外返回到数据的时候需要检查HTTP的状态是不是200，还需要检查status字段。
 那么使用RESTful的例子是什么样呢：
 
-![good-eg.png](http://www.printf.cn/usr/uploads/2019/02/4274385110.png)
+![good-eg.png](./restful-api-introduction/4274385110.png)
 
 例子中使用路径参数构建URL和HTTP动词来区分我们需要对服务所做出的操作，而不是使用URL上的接口名称，例如 getProducts等；使用HTTP状态码，而不是在body中自定义一个状态码字段；URL需要有层次的设计，例如/catetory/{category_id}/products 便于获取path参数，在以后例如负载均衡和缓存的路由非常有好处。
 
@@ -53,7 +52,7 @@ RESTful的本质是基于HTTP协议对资源的增删改查操作做出定义。
 
 几个典型的RESTful API场景：
 
-![verbs-description.png](http://www.printf.cn/usr/uploads/2019/02/2239183045.png)
+![verbs-description.png](./restful-api-introduction/2239183045.png)
 
 虽然HTTP协议定义了其他的Method，但是就普通场景来说，用好上面的几项已经足够了
 RESTful的几个注意点：
@@ -81,13 +80,13 @@ JSON API数据格式已经被IANA机构接受了注册，因此必须使用appli
 
 在顶级节点使用data、errors、meta，来描述数据、错误信息、元信息，注意data和errors应该互斥，不能再一个文档中同时存在，meta在项目实际上用的很少，只有特别情况才需要用到，比如返回服务器的一些信息。
 
-![hateos.png](http://www.printf.cn/usr/uploads/2019/02/1214365586.png)
+![hateos.png](./restful-api-introduction/1214365586.png)
 
 ### data属性
 
 一个典型的data的对象格式，我们的有效信息一般都放在attributes中。
 
-![json.png](restful-api-introduction/3166781431.png)
+![json.png](./restful-api-introduction/3166781431.png)
 
 - id显而易见为唯一标识，可以为数字也可以为hash字符串，取决于后端实现
 - type 描述数据的类型，可以对应为数据模型的类名
@@ -98,7 +97,7 @@ JSON API数据格式已经被IANA机构接受了注册，因此必须使用appli
 
 这里的errors和data有一点不同，一般来说返回值中errors作为列表存在，因为针对每个资源可能出现多个错误信息。最典型的例子为，我们请求的对象中某些字段不符合验证要求，这里需要返回验证信息，但是HTTP状态码会使用一个通用的401，然后把具体的验证信息在errors给出来。
 
-![image](restful-api-introduction/2155807231.png)
+![image](./restful-api-introduction/2155807231.png)
 
 在title字段中给出错误信息，如果我们在本地或者开发环境想打出更多的调试堆栈信息，我们可以增加一个detail字段让调试更加方便。需要注意的一点是，我们应该在生产环境屏蔽部分敏感信息，detail字段最好在生产环境不可见。
 
@@ -114,7 +113,7 @@ JSON API数据格式已经被IANA机构接受了注册，因此必须使用appli
 
 如果客户端发起一个POST请求，在RESTful部分我们提到，POST为创建资源，如果服务器处理成功应该返回一个创建成功的标志，在HTTP协议中，201为新建成功的状态。文档规定，服务器必须在data中返回id和type。 下面是一个HTTP的返回例子：
 
-![image](http://www.printf.cn/usr/uploads/2019/02/518121472.png)
+![image](./restful-api-introduction/518121472.png)
 
 在HTTP协议中，2XX的状态码都表示成功，还有202、204等用的较少，就不做过多介绍了，4XX返回客户端错误，会重点介绍。
 
@@ -145,7 +144,7 @@ JSON API数据格式已经被IANA机构接受了注册，因此必须使用appli
 超链接JSON文档是我造的一个词，它的真是名字是Hypermedia As The Engine Of Application State，中文叫做超媒体应用程序状态的引擎，网上很多讲它。但是它并不是一个很高大上的概念，在RESTful和JSONAPI部分我们都贯穿了HATEOAS思想。下面给出一个典型的例子进一步说明：
 如果在某个系统中产品和订单是一对多的关系，那我们给产品的返回值可以定义为：
 
-![hateos.png](http://www.printf.cn/usr/uploads/2019/02/1214365586.png)
+![hateos.png](./restful-api-introduction/1214365586.png)
 
 从返回中我们能得到links中product的的资源地址，同时也能得到orders的地址，这样我们不需要客户端自己拼装地址，就能够得到请求orders的地址。如果我们严格按照HATEOAS开发，客户端只需要在配置文件中定义一个入口地址就能够完成所有操作，在资源地址发生变化的时候也能自动适配。
 当然，在实际项目中要使用HATEOAS也要付出额外的工作量(包括开发和前后端联调)，HATEOAS只是一种思想，怎么在项目中使用也需要灵活应对了。

@@ -2,7 +2,6 @@
 title: 编程效率提升技巧
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/078ebe/
 categories:
   - 职业效率
 sidebar: auto
@@ -10,7 +9,7 @@ sidebar: auto
 
 ## 调整 Mac 键盘响应速度
 
-![](././effective/mac-keyboard-setting.png)
+![](./effective/mac-keyboard-setting.png)
 
 通过调整这几个设置，让删除、移动的速度大大提高，编程手速快速提升。
 

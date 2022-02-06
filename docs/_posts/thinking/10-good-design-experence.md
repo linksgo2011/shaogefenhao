@@ -3,7 +3,6 @@ title: 前端的编程思维
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/52f722/
 categories:
   - 思维和方法论
 sidebar: auto

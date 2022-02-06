@@ -2,7 +2,6 @@
 title: How to end a meeting?
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/80317a/
 categories:
   - 职业效率
 sidebar: auto

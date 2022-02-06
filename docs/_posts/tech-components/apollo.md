@@ -1,7 +1,6 @@
 ---
 title: apollo 配置中心
 date: 2021-08-11 19:18:36
-permalink: /pages/d0ce00/
 categories:
   - 开源组件
 sidebar: auto

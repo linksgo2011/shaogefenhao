@@ -1,7 +1,6 @@
 ---
 title: Zipkin 分布式跟踪系统
 date: 2021-08-11 19:18:36
-permalink: /pages/65bb58/
 categories:
   - 开源组件
 sidebar: auto

@@ -3,7 +3,6 @@ title: 从JavaScript框架的演变思考前端开发
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/905faa/
 categories:
   - 思维和方法论
 sidebar: auto
@@ -13,7 +12,7 @@ JavaScript框架的发展是一个不断带给人们惊喜的过程。JavaScript
 
 在不长的软件工程历史中，框架或者库影响了一门语言的思想，甚至人们因为框架改变了一门语言的的看法的的例子比比皆是，而JavaScript就是其中的代表。
 
-![js-frameworks.jpg](http://www.printf.cn/usr/uploads/2019/02/2067297770.jpg)
+![js-frameworks.jpg](./roamap-of-frontend/2067297770.jpg)
 
 思考JavaScript框架和库发展过程中的一些重要时期，对我们更好的理解前端开发或许有一些帮助。鉴于此，本篇对JavaScript发展过程中那些有深远意义的框架和库进行梳理，即使它们在历史的演变中被人们遗忘，它们的设计思想我相信也会让人受益。
 
@@ -43,7 +42,7 @@ Prototyojs 的操作DOM并注册事件
 
 jQuery操作的方式
 
-![image2.png](http://www.printf.cn/usr/uploads/2019/01/3638579191.png)
+![image2.png](./roamap-of-frontend/3638579191.png)
 (在jQuery作者John Resig博客上建议的一个例子)
 
 jQuery不仅更为容易使用，在内功的修炼上也是出类拔萃。操作DOM的第一步是从DOM树中找到目标DOM对象，如果大量使用id来获取DOM节点，这会让代码变得难以维护。jQuery提供了一个强大的选择器引擎，能通过元素标签名、类名、属性等各种能想到的方式获取DOM元素，并注册jQuery拓展的方法。jQuery内置的选择器引擎被剥离出来，现在名叫sizzlejs，和jQuery同属于JS基金会。对于前端开发者来说，jQuery非常值得一读，开场的自执行函数非常惊艳。
@@ -68,7 +67,7 @@ jQuery不仅更为容易使用，在内功的修炼上也是出类拔萃。操�
 
 同时随着jQuery的不断流行，业界出现了一大批优秀的jQuery插件，例如模态框、下拉菜单、表格、文件上传等。
 
-![image3.png](http://www.printf.cn/usr/uploads/2019/01/3191252684.png)
+![image3.png](./roamap-of-frontend/3191252684.png)
 
 伴随着jQuery和jQuery插件生态的成熟，Twitter推出的一个基于jQuery和jQuery插件的前端开发的开源工具包 Bootstrap，Bootstrap几乎成为了事实上HTML和CSS代码编写的规范。Bootstrap不仅提供了基础的CSS样式库，还通过jQuery插件的形式，提供了后台系统常用的组件。
 
@@ -91,7 +90,7 @@ Extjs 因为过多特性和过强约束，让富客户端变得很容易，但�
 jQuery只是一个DOM操作库，没有数据和状态管理组件。即使提供了$.data 方法，允许开发者将数据绑定到到DOM的属性上，但总归不是一个成熟的想法。
 
 不过好在服务器编程领域已经思考过一遍类似的问题了，服务器编程经历了多入口多页面开发到业务逻辑分层的架构，最终发展成较为成熟的MVC架构。前端也出现了类似MVC架构的框架，Backbone是其中设计上比较优雅和简单的框架，Emberjs则是其中大而全和功能丰富的代表。
-![image5.png](http://www.printf.cn/usr/uploads/2019/01/1747858015.png)
+![image5.png](./roamap-of-frontend/1747858015.png)
 
 如果还没有了解过MVC模式，可以参考阅读[https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller](https://en.wikipedia.org/wiki/Model–view–controller)
 

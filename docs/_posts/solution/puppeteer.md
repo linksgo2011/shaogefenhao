@@ -2,7 +2,6 @@
 title: 网页快照方案 puppeteer
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/e4ae4a/
 categories:
   - 技术方案
 sidebar: auto

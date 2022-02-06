@@ -2,7 +2,6 @@
 title: 谈话收集
 toc: true
 sidebar: auto
-permalink: /pages/talking-collection
 categories: 
   - 思维和方法论
 date: 2021-11-22 16:13:33

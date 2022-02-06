@@ -3,7 +3,6 @@ title: 易学中的模型思维
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-permalink: /pages/thinking/the-book-of-changes/
 categories:
   - 思维和方法论
 sidebar: auto

@@ -2,9 +2,8 @@
 title: 写小说怎么把脑海里的场景转化为文字？
 toc: true
 date: 2021-08-11 19:18:36
-permalink: /pages/0cf0ad/
 categories:
-  - 写作
+  - 收集的文章
 sidebar: auto
 ---
 
@@ -14,7 +13,7 @@ sidebar: auto
 
 **你的场景描写也应该如沙漠中的枯草架。**要和大环境大背景融为一体，成为一个螺丝钉，独立而又在整体中起重要作用。润物细无声，这就是关键。
 
-![img](we-sceen-skills/v2-c9cbeb5617e2fd0699c0ef840baea6db_hd.jpg)
+![img](./we-sceen-skills/v2-c9cbeb5617e2fd0699c0ef840baea6db_hd.jpg)
 
 场景分两种，**一种是动作场景，一种是反应场景。**
 
