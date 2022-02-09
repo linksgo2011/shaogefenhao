@@ -3,9 +3,10 @@ title: 主客体建模：基于认识论的面向对象分析
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/subject-and-object-thinking-for-oop/
 ---
 
 在现代软件开发中，基于面向对象的软件设计方法已经得到高度的发展。面向对象是一种基于对象对的编程范式，不同于过程式的编程范式，它可以让现实世界中的概念以对象的方式在软件中表达，极大的提高了软件工程师组织大规模软件源代码的能力。可以说面向对象是软件工程发展历史中的一个里程碑，加速了现代软件工程的发展。

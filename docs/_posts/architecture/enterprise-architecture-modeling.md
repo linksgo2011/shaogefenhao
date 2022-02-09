@@ -2,9 +2,10 @@
 title: 企业架构建模的挑战和机遇
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/enterprise-architecture-modeling/
 ---
 
 辩证唯物主义告诉我们，社会的发展是由矛盾推动的。软件行业的上一次矛盾是”人们对信息获取便利性的诉求和行业信息化不足的之间的矛盾“。这些矛盾的积累掀起了软件行业的互联网革命的浪潮，迸发巨大的能量。

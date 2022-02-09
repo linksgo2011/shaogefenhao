@@ -3,9 +3,10 @@ title: 从单体到微服务，这些年架构的演变
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/roamap-of-system/
 ---
 
 这两年业界最流行的技术架构话题已经从前后端分离，变成了分布式、微服务、DDD了。微服务架构适合所有的公司吗，业务场景演变到了什么地步才需要考虑上微服务呢？毕竟选择技术架构之前应该考虑业务是否与之匹配，否则分布式、微服务这类繁重的架构设计对一些公司来说就变成了屠龙之技，反而成为一线开发团队的负担。

@@ -1,9 +1,10 @@
 ---
 title: 储存高性能架构
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/storage-architecture/
 ---
 
 常见方案

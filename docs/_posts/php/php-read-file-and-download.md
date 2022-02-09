@@ -1,9 +1,10 @@
 ---
 title: php 读取文件并以文件方式下载
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - PHP 基础
 sidebar: auto
+permalink: /php/php-read-file-and-download/
 ---
 
 ```java

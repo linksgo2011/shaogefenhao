@@ -2,9 +2,10 @@
 title: Java 工程师基本知识
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 面试技巧
 sidebar: auto
+permalink: /interview/java-skills/
 ---
 
 作者：小知

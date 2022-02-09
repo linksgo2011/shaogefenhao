@@ -1,9 +1,10 @@
 ---
 title: React Native 资源收集
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - React
 sidebar: auto
+permalink: /react/react-native-resource/
 ---
 
 官网

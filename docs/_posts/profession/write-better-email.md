@@ -2,9 +2,10 @@
 title: 英文邮件写作
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 职业效率
 sidebar: auto
+permalink: /profession/write-better-email/
 ---
 
 # 邮件标题

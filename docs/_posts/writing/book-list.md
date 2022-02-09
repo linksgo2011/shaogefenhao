@@ -2,9 +2,10 @@
 title: 软件工程师必读书单
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 写作
 sidebar: auto
+permalink: /writing/book-list/
 ---
 
 我个人的方向是专注于分布式系统架构设计和中间件开发。写作的来源是阅读、实践和反思，因此整理了一些书单用于学习计算机科学。

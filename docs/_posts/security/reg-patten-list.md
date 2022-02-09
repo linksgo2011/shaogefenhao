@@ -2,9 +2,10 @@
 title: 常用正则表达式大全
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 安全
 sidebar: auto
+permalink: /security/reg-patten-list/
 ---
 
 ## 一、校验数字的表达式

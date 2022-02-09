@@ -2,9 +2,10 @@
 title: C++ 学习资源
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - C++
 sidebar: auto
+permalink: /c&c++/resources/
 ---
 
 ## 学习计划

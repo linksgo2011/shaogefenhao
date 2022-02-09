@@ -1,11 +1,14 @@
 ---
-title: 需求的冰山，来聊聊非功能性需求
+title: 需求的冰山：非功能性需求
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/no-feature-requirement/
+keyword: 需求分析,非功能性需求
+description: 非功能性需求，是指和用户体验到的功能无关的需求，又叫跨功能需求。
 ---
 
 工作这么几年来，见得最多的场景是QA小伙伴追着开发满办公室报bug，不过有时候开发却不乐意了，当时可没说要XXX，要做XXX。

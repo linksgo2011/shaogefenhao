@@ -2,9 +2,10 @@
 title: H5 Cordova打包方案
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/build-package-with-apache-cordova/
 ---
 
 ## 为什么需要H5打包？

@@ -3,9 +3,10 @@ title: Spring boot 项目中常见的日志配置
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/springboot-logging/
 ---
 
 ## 建议开启 webclient 相关的日志

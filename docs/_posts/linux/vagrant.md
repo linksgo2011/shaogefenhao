@@ -3,9 +3,10 @@ title: Linux 虚拟机管理 Vagrant
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/vagrant/
 ---
 
 ## 虚拟机管理工具

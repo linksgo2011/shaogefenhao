@@ -2,9 +2,10 @@
 title: TW 洞见写作培训
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 职业效率
 sidebar: auto
+permalink: /profession/tw-writing-training/
 ---
 
 ## 怎样算是一篇好的文章

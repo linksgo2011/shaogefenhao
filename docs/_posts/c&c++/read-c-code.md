@@ -2,9 +2,10 @@
 title: 如何阅读别人的C代码
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - C++
 sidebar: auto
+permalink: /c&c++/read-c-code/
 ---
 
 这段时间阅读别人的大量的数据结构的相关程序，每个人的写法和风格不尽相同，看得相当难受，特别是些条件变化的for循环，相当的不好处理，但是还是有些收获和心得，整理了下，写出来

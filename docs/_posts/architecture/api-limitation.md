@@ -2,9 +2,10 @@
 title: 接口访问限制方案
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/api-limitation/
 ---
 
 ## 使用 nginx 缓存限制

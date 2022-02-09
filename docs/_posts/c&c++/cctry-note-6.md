@@ -2,9 +2,10 @@
 title: 对话框之间的数据传递
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - C++
 sidebar: auto
+permalink: /c&c++/cctry-note-6/
 ---
 
 \---------------------------------------------------------------------------

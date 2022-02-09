@@ -2,9 +2,10 @@
 title: Gradle 构建 Spring boot 项目
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/gradle-build-spring-boot/
 ---
 
 ## 背景介绍

@@ -3,9 +3,10 @@ title: 使用 DDD 指导微服务拆分的逻辑
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/the-logic-of-microservice-decouping-with-ddd/
 ---
 
 开发者在刚开始尝试实现自己的微服务架构时往往会产生一系列问题 ：

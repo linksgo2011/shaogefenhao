@@ -1,9 +1,9 @@
 ---
 title: java 线上 debug
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-debug/
 ---
 
 来源：https://fredal.xin/java-error-check

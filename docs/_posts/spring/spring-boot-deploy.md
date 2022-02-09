@@ -3,9 +3,10 @@ title: Spring boot 部署的几种方式
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/spring-boot-deploy/
 ---
 
 ## 打包 Spring Boot 应用

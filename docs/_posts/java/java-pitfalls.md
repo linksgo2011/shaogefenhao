@@ -2,9 +2,9 @@
 title: Java 趟坑集合
 from: self
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-pitfalls/
 ---
 
 

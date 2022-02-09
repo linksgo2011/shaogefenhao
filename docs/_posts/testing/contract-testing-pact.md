@@ -1,9 +1,10 @@
 ---
 title: API的contract测试之Pact
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 测试技术
 sidebar: auto
+permalink: /testing/contract-testing-pact/
 ---
 
 ## why?

@@ -1,9 +1,10 @@
 ---
 title: Systemd 常见用法
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-systemd/
 ---
 
 Systemd 是一套用来管理系统服务的命令，Cent OS默认使用它管理系统服务。

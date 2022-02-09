@@ -2,9 +2,10 @@
 title: UUID 生成
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/UUID-generation/
 ---
 
 ## 使用雪花算法

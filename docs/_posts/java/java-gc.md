@@ -1,9 +1,9 @@
 ---
 title: Java 内存回收机制
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-gc/
 ---
 
 ## java 8 基本机制

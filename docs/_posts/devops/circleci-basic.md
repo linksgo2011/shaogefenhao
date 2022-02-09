@@ -1,9 +1,10 @@
 ---
 title: Circle CI 基本使用
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/circleci-basic/
 ---
 
 ## CircleCI是什么

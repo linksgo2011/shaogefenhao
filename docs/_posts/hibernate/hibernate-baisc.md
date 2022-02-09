@@ -2,9 +2,10 @@
 title: Hibernate 基础
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - hibernate
 sidebar: auto
+permalink: /hibernate/hibernate-baisc/
 ---
 
 ## Hibernate 和 JPA 以及 Spring data 

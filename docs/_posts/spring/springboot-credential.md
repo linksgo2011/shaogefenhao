@@ -2,9 +2,10 @@
 title: Spring boot 项目密匙安全
 toc: true
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/springboot-credential/
 ---
 
 ## 使用 Jenkis 的密匙管理

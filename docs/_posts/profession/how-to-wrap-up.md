@@ -2,9 +2,10 @@
 title: How to end a meeting?
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 职业效率
 sidebar: auto
+permalink: /profession/how-to-wrap-up/
 ---
 
 ## some of usages 

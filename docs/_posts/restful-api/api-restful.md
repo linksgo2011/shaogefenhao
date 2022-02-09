@@ -2,9 +2,10 @@
 title: API RESTful 风格
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Rest API
 sidebar: auto
+permalink: /restful-api/api-restful/
 ---
 
 ## 简介

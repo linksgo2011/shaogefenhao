@@ -2,9 +2,10 @@
 title: 【佳作分析】 当我们谈要有逻辑的时候，其实指的是什么？
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+permalink: /gathering/we-logic/
 ---
 
 你有没有经历如下的场景：

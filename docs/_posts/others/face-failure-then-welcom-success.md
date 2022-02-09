@@ -1,11 +1,12 @@
 ---
 title: 如何克服害怕失败的心理
 categories: 
-   - 自我管理
+  - 自我管理
 toc: true
 recommend: true
 date: 2021-11-16 16:38:56
 sidebar: auto
+permalink: /others/face-failure-then-welcom-success/
 ---
 
 - 确立文章主题：失败的故事

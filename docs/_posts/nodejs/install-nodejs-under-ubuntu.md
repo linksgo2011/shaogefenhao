@@ -2,9 +2,10 @@
 title: Ubuntu 下安装 nodejs
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - nodejs
 sidebar: auto
+permalink: /nodejs/install-nodejs-under-ubuntu/
 ---
 
 

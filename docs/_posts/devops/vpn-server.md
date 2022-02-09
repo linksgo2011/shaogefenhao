@@ -2,9 +2,10 @@
 title: vps 下 搭建vpn
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/vpn-server/
 ---
 
 **1、用root账户登陆服务器**

@@ -2,9 +2,10 @@
 title: 位运算
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 计算机科学
 sidebar: auto
+permalink: /computer-science/bit-operation/
 ---
 
 ```

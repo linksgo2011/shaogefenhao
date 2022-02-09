@@ -2,10 +2,11 @@
 title: 随笔：互联网产品化是怎么回事？
 toc: true
 recommend: true
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
 date: 2021-11-16 16:38:55
+permalink: /thinking/product-process/
 ---
 
 

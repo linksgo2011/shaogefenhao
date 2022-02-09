@@ -2,9 +2,9 @@
 title: Java 内存分析工具 VisualVM
 toc: true
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-visualVM/
 ---
 
 VisualVM 是一款非常简单的分析 java 内存的开源软件，由Apache 开源发布。

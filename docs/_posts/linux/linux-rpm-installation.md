@@ -2,9 +2,10 @@
 title: rpm 和 yum 包管理器的使用
 from: self
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-rpm-installation/
 ---
 
 ## 背景

@@ -2,9 +2,10 @@
 title: 软件规范化指南
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/normalize-project/
 ---
 
 对于一个软件开发团队，可以通过哪些代码质量指标和扫描方法让团队产出规范、安全、高质量的代码？让开发团队运行的安全、透明、可靠？

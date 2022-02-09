@@ -2,9 +2,10 @@
 title: Mac 环境下使用MAMP安装PHP环境
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - PHP 基础
 sidebar: auto
+permalink: /php/php-mamp/
 ---
 
 下载安装MAMP

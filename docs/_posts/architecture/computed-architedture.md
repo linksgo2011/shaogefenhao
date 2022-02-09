@@ -1,9 +1,10 @@
 ---
 title: 计算高可用方案
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/computed-architedture/
 ---
 
 ## 负载均衡

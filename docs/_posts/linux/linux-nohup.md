@@ -1,9 +1,10 @@
 ---
 title: nohup 后台运行Linux程序方法
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-nohup/
 ---
 
 在Linux服务器中，每个终端的应用程序会随着用户的退出被杀死。如果在用户退出也需要继续运行的话，需要使用nohup 来运行程序。

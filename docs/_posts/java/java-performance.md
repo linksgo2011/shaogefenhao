@@ -2,9 +2,9 @@
 title: Java 性能调优
 toc: true
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-performance/
 ---
 
 # 参考资料

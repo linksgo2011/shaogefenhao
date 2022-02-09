@@ -1,10 +1,11 @@
 ---
 title: 插画素材资源
 toc: true
-categories:
+categories: 
   - UX设计
 sidebar: auto
 date: 2021-10-05 22:36:26
+permalink: /design/resource/
 ---
 
 1. mixkit.co 可闭眼盲选的大佬素材，生活向，免费可商用。 

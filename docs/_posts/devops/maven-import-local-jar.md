@@ -2,9 +2,10 @@
 title: Maven 将本地 jar 打包到项目
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/maven-import-local-jar/
 ---
 
 ## 使用 install 到本地仓库的方案

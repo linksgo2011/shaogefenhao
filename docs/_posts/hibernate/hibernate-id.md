@@ -2,9 +2,10 @@
 title: Hibernate 主键生成策略
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - hibernate
 sidebar: auto
+permalink: /hibernate/hibernate-id/
 ---
 
 ## 使用 JPA 生成策略

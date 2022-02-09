@@ -2,9 +2,10 @@
 title: API 文档和契约
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Rest API
 sidebar: auto
+permalink: /restful-api/api-document-and-contract/
 ---
 
 实现API文档生成和前后端合作的几种方案。

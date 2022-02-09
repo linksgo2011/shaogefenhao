@@ -2,9 +2,10 @@
 title: Docker 基础
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - docker
 sidebar: auto
+permalink: /docker/docker-basic/
 ---
 
 ## 常用命令

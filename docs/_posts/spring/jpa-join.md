@@ -1,9 +1,10 @@
 ---
 title: JPA JOIN 的用法
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/jpa-join/
 ---
 
 ## JPA JOIN 支持的条件

@@ -2,9 +2,10 @@
 title: mysql 数据导出
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysqldump/
 ---
 
 ## 数据库导出

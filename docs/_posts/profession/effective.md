@@ -2,9 +2,10 @@
 title: 编程效率提升技巧
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 职业效率
 sidebar: auto
+permalink: /profession/effective/
 ---
 
 ## 调整 Mac 键盘响应速度

@@ -2,9 +2,10 @@
 title: 分库分表方案
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/database-sharding/
 ---
 
 ![image-20200411185919412](./database-sharding/image-20200411185919412.png)

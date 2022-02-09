@@ -2,9 +2,10 @@
 title: Java CMS 选型
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/cms-in-java/
 ---
 
 ## 技术要求

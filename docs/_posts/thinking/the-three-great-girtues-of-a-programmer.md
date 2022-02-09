@@ -3,9 +3,10 @@ title: 程序员的美德：克制、简单和笨拙
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/the-three-great-girtues-of-a-programmer/
 ---
 
 

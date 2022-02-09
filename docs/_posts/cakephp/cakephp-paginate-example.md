@@ -2,9 +2,10 @@
 title: cake 分页一个典型的条件
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - cakephp
 sidebar: auto
+permalink: /cakephp/cakephp-paginate-example/
 ---
 
 ```php

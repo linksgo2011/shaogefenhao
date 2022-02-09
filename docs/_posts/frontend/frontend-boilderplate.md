@@ -2,9 +2,10 @@
 title: CSS样式框架选型
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/frontend-boilderplate/
 ---
 
 浏览器样式重置基本样式

@@ -2,9 +2,10 @@
 title: H5 webapp技术选型
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/H5-webapp-tech-stack/
 ---
 
 ### VUE 技术方案 (如果需要嵌入微信等APP中，推荐该方案)

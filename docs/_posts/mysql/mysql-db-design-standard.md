@@ -1,9 +1,10 @@
 ---
 title: mysql 建表规范
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysql-db-design-standard/
 ---
 
 

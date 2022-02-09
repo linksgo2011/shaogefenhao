@@ -2,9 +2,10 @@
 title: ldap
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 安全
 sidebar: auto
+permalink: /security/ldap/
 ---
 
 LDAP是轻量目录访问协议，英文全称是Lightweight Directory Access Protocol，一般都简称为LDAP。它是基于X.500标准的，但是简单多了并且可以根据需要定制。与X.500不同，LDAP支持TCP/IP，这对访问Internet是必须的。LDAP的核心规范在RFC中都有定义，所有与LDAP相关的RFC都可以在LDAPman RFC网页中找到。

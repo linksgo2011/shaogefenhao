@@ -3,9 +3,10 @@ title: 重新认识RESTful
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Rest API
 sidebar: auto
+permalink: /restful-api/restful-api-introduction/
 ---
 
 如果你是一个客户端、前端开发者，你可能会在某个时间吐槽过后端工程师的API设计，原因可能是文档不完善、返回数据丢字段、错误码不清晰等。如果你是一个后端API开发者，你一定在某些时候感到困惑，怎么让接口URL设计的合理，数据格式怎么定，错误码怎么处理，然后怎么才能合适的描述我的API，API怎么认证用户的请求。

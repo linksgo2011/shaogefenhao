@@ -2,9 +2,10 @@
 title: Java 中的缓存策略
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/cache-solution/
 ---
 
 缓存方案已经很成熟，可以参考相关的文章做技术选型。但是缓存策略比较麻烦，需要专门做一些处理。

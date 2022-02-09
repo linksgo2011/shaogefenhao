@@ -2,9 +2,10 @@
 title: 性能优化
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 性能优化
 sidebar: auto
+permalink: /performance/performance-overview/
 ---
 
 ## 性能优化的维度

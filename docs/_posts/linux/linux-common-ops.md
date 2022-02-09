@@ -1,9 +1,10 @@
 ---
 title: linux 常用线上排错命令
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-common-ops/
 ---
 
 ## 安装一些调试工具

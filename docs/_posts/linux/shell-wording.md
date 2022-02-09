@@ -3,9 +3,10 @@ title: Shell 文字处理函数
 toc: true
 from: self
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/shell-wording/
 ---
 
 ## cat

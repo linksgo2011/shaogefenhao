@@ -3,9 +3,10 @@ title: 理解 DDD：编程中的模型思维
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/model-thinking/
 ---
 
 模型，是人类重要的思维工具，在历史长河中不亚于火的使用。历法是一种认识气象变化的模型，通过 24 节气可以描述四季并指导农业生产；太极是阴阳家和道家认识世界的思维模型，通过阴阳描述了事物的两个方面，建立了朴素唯物主义的辩证体系；”君君臣臣父父子子“ 的儒教社会模型，建立了相对稳定的封建社会。

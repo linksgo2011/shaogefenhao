@@ -1,9 +1,10 @@
 ---
 title: Jeeweb - SpringMVC+Spring+Hibernate 项目模板
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/Jeeweb-Java-boilerplate/
 ---
 
 JeeWeb是一款基于SpringMVC+Spring+Hibernate的敏捷开发系统, 实际上是一个种子项目,但是用来开发CRUD项目绰绰有余了。

@@ -1,9 +1,10 @@
 ---
 title: linux 查看端口状态
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-port/
 ---
 
 主要使用 netstat 命令，各个参数说明如下：

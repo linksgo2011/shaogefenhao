@@ -2,9 +2,10 @@
 title: Spring data JPA
 toc: true
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/spring-data/
 ---
 
 ## Spring、Spring data 和 Spring data JPA 的关系

@@ -2,9 +2,10 @@
 title: 使用 dpkg 安装 deb包
 from: self
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-dpkg/
 ---
 
 ## 安装命令 

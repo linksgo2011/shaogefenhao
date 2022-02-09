@@ -2,9 +2,10 @@
 title: jquery 常用代码
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/jquery-useful-code/
 ---
 
 1、下拉菜单的制作方法

@@ -2,9 +2,10 @@
 title: Cake PHP 学习笔记
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - cakephp
 sidebar: auto
+permalink: /cakephp/cakephp-save-field/
 ---
 
 ```php

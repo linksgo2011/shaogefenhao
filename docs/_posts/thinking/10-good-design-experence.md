@@ -3,9 +3,10 @@ title: 前端的编程思维
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/10-good-design-experence/
 ---
 
 良好的代码设计可以大大减少维护的成本和潜在的bug，甚至由于积累效应会决定一个项目能否成功。在常年的codereview和查看面试作业你中发现，良好的设计和糟糕的代码设计的区别十分明显。

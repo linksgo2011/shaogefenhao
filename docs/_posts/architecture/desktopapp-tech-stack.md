@@ -2,9 +2,10 @@
 title: 桌面应用开发架构
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/desktopapp-tech-stack/
 ---
 
 ### Python 开发方案 (快速高效、跨平台，推荐)

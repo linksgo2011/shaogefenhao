@@ -3,9 +3,10 @@ title: 建模方法元模型：如何设计一个建模方法
 toc: true
 recommend: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/modeling-method-meta/
 ---
 
 在微服务时代，由于分布式系统的要求，对软件模型的要求越来越苛刻。虽然架构师们对领域驱动设计的理念重新重视起来，但是靠拍脑袋得到的模型往往不能恰当的服务于业务需要。

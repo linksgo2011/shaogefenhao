@@ -1,9 +1,9 @@
 ---
 title: Java 并发和多线程
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-cocurrent/
 ---
 
 ## Java 多线程的几种实现方式

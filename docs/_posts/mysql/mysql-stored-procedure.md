@@ -2,9 +2,10 @@
 title: mysql 存储过程编写示例
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysql-stored-procedure/
 ---
 
 ## 一个创建模拟数据的存储过程

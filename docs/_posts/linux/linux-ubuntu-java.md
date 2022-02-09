@@ -1,9 +1,10 @@
 ---
 title: 安装 openJdk 到 ubuntu 14
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-ubuntu-java/
 ---
 
 ```

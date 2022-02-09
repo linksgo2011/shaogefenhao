@@ -1,9 +1,10 @@
 ---
 title: 一本小小的单元测试书
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 测试技术
 sidebar: auto
+permalink: /testing/java-unit-test-summary/
 ---
 
 

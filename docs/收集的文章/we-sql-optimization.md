@@ -2,9 +2,10 @@
 title: 或许你不知道的12条SQL技巧
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+permalink: /gathering/we-sql-optimization/
 ---
 
 SQL，一些有意思的TIPS，希望大家有收获。

@@ -3,9 +3,10 @@ title: Nginx拦截指定国家的IP
 toc: true
 from: https://www.cnblogs.com/javafucker/p/10027850.html
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Nginx
 sidebar: auto
+permalink: /nginx/nginx-block-via-ip/
 ---
 
 ## 一、下载GeoIP数据库

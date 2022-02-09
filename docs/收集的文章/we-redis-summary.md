@@ -2,9 +2,10 @@
 title: 【佳作分析】 详解 Redis
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+permalink: /gathering/we-redis-summary/
 ---
 
 **Redis 是什么**

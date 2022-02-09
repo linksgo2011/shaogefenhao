@@ -2,9 +2,10 @@
 title: Rest template 使用
 toc: true
 date: 2021-08-11 19:18:36
-categories:
-  - Spring 
+categories: 
+  - Spring
 sidebar: auto
+permalink: /spring/spring-rest-template/
 ---
 
 ## Spring boot 2.0 后定义方式

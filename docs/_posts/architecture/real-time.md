@@ -2,9 +2,10 @@
 title: 基于服务端 store 模式的多用户实时协作方案
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/real-time/
 ---
 
 ## 解决的问题	

@@ -2,9 +2,10 @@
 title: 建站系统 CMS 列表
 toc: trus
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/cms-collections/
 ---
 
 ## x6cms 【推荐】

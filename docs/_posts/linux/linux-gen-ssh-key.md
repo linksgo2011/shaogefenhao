@@ -2,9 +2,10 @@
 title: 使用和生成 SSH key 登录 Linux 服务器
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-gen-ssh-key/
 ---
 
 ## 基本原理

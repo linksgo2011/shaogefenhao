@@ -2,9 +2,10 @@
 title: PHP 不同场景下技术选型的讨论
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - PHP 基础
 sidebar: auto
+permalink: /php/lightweight-php-api/
 ---
 
 

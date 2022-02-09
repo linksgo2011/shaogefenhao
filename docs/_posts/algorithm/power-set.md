@@ -2,9 +2,10 @@
 title: 幂集算法
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 算法
 sidebar: auto
+permalink: /algorithm/power-set/
 ---
 
 

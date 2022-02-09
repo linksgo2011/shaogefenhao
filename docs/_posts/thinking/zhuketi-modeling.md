@@ -6,6 +6,7 @@ categories:
   - 思维和方法论
 sidebar: auto
 date: 2021-11-19 22:26:10
+permalink: /thinking/zhuketi-modeling/
 ---
 
 

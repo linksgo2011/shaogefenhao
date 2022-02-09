@@ -2,9 +2,10 @@
 title: Jenkins 停止所有的构建
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/jenkins-stop-builds/
 ---
 
 使用管理员进入 Manage Jenkins > Script Console

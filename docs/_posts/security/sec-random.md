@@ -2,9 +2,10 @@
 title: 常用安全随机数发生器或者接口
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 安全
 sidebar: auto
+permalink: /security/sec-random/
 ---
 
 

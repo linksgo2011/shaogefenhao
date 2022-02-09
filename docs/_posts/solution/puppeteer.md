@@ -2,9 +2,10 @@
 title: 网页快照方案 puppeteer
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/puppeteer/
 ---
 
 ```

@@ -5,6 +5,7 @@ sidebar: auto
 categories: 
   - 思维和方法论
 date: 2021-11-22 16:13:33
+permalink: /thinking/talking-collection/
 ---
 
 ## 和施威的谈话

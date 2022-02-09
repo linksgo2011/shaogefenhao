@@ -3,9 +3,10 @@ title: 读毛选：实践论和矛盾论的现实意义
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/mao-selected/
 ---
 
 春节前因为手臂酸痛，假期就没有再碰电脑，趁此机会把之前的购买的毛泽东选集第一卷再读了一遍。

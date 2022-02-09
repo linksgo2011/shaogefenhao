@@ -4,6 +4,7 @@ categories:
   - 测试技术
 sidebar: auto
 date: 2022-02-04 14:40:24
+permalink: /testing/arch-unit/
 ---
 
 有过大量经验的开发者都知道的一个事实，软件项目和架构极其容易腐化。在没有很好地管控下，无论采用 MVC 三层架构还是 DDD 的四层架构，代码的结构会在几个月内变得混乱不堪。

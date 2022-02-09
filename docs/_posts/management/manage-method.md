@@ -1,9 +1,10 @@
 ---
 title: 好领导，本来应是挖渠人
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 管理知识
 sidebar: auto
+permalink: /management/manage-method/
 ---
 
 

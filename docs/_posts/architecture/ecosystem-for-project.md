@@ -2,9 +2,10 @@
 title: 一个敏捷项目需要的相关技术实践
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/ecosystem-for-project/
 ---
 
 一个项目可以做的很完善,也可以做的很简单,这篇文章就是总结了一个清单,来讨论我们在一个敏捷项目中可以做的比较完善的东西,比如CI/CD

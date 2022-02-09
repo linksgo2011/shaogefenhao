@@ -3,9 +3,10 @@ title: 软件工程师的吵架文化
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 管理知识
 sidebar: auto
+permalink: /management/culture-of-quarrels/
 ---
 
 

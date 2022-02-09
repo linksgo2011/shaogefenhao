@@ -2,9 +2,10 @@
 title: Mysql 各种 join 的区别
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysql-join/
 ---
 
 ## 测试数据

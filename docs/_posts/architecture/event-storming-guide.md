@@ -2,9 +2,10 @@
 title: DDD 建模工作坊指南(事件风暴)
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/event-storming-guide/
 ---
 
 ## 0 写在前面

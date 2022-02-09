@@ -2,9 +2,10 @@
 title: jQuery 图片翻转插件
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/jquery-plugin-image-rotate/
 ---
 
 

@@ -3,9 +3,10 @@ title: 使用git钩子对提交代码进行检查
 toc: true
 Recommend: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - git
 sidebar: auto
+permalink: /git/git-hooks/
 ---
 
 ## 简介

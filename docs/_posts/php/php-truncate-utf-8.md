@@ -2,9 +2,10 @@
 title: 截取utf-8字符串原理
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - PHP 基础
 sidebar: auto
+permalink: /php/php-truncate-utf-8/
 ---
 
 ```java

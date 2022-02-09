@@ -1,9 +1,10 @@
 ---
 title: PHP 配置文件读取
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - PHP 基础
 sidebar: auto
+permalink: /php/php-config-file/
 ---
 
 配置文件如

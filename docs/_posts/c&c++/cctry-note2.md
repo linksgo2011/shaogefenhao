@@ -2,9 +2,10 @@
 title: vc驿站视频教程笔记2 ansi 和 unicode
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - C++
 sidebar: auto
+permalink: /c&c++/cctry-note2/
 ---
 
 \---------------------------------------------------------------------------

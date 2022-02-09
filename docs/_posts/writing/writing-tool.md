@@ -2,9 +2,10 @@
 title: 几种易于管理的写作排版方案
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 写作
 sidebar: auto
+permalink: /writing/writing-tool/
 ---
 
 ## 背景

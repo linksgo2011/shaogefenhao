@@ -2,9 +2,10 @@
 title: EulerOS 安装 Nodejs（ARM版本）
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/arm-install-nodejs-on-arm/
 ---
 
 ## 安装步骤

@@ -2,9 +2,10 @@
 title: 大型系统 IAM 机制
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 安全
 sidebar: auto
+permalink: /security/sso-oauth/
 ---
 
 对于大型系统来说，IAM 不仅需要考虑多端的接入，还需要考虑性能。主流的使用如下方案：

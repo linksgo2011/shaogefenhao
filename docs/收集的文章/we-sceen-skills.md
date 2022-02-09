@@ -2,9 +2,10 @@
 title: 写小说怎么把脑海里的场景转化为文字？
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+permalink: /gathering/we-sceen-skills/
 ---
 
 场景描写四字秘诀：**细、顺、悬、张。**

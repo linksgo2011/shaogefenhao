@@ -1,7 +1,6 @@
-folder=_posts/testing
-fileName=arch-unit
+folder=03.团队/01.敏捷团队
+fileName=15.requirement-review
 imageHost=https://raw.githubusercontent.com/linksgo2011/shaogefenhao/main/docs/$folder/
-
 rm -rf build
 mkdir build
 

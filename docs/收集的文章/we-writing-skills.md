@@ -2,9 +2,10 @@
 title: 一个天资平平的人写作，若笔耕不辍10年，能得到什么好的结果吗？
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 收集的文章
 sidebar: auto
+permalink: /gathering/we-writing-skills/
 ---
 
 **就是我，从一个天资平平，依靠网站全勤救济度日的傻小白，逆袭成别人口中百万稿费的网文大神，用了整整十年！**

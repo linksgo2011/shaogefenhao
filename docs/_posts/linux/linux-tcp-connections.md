@@ -1,9 +1,10 @@
 ---
 title: 查看 linux 中的 TCP 连接数
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/linux-tcp-connections/
 ---
 
 查看连接到本机的连接

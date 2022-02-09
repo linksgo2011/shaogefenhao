@@ -2,9 +2,10 @@
 title: Chrome 自带截图
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 开发工具
 sidebar: auto
+permalink: /tool/chrome-screenshot/
 ---
 
 有时候网页截图比较麻烦，实际上 Chrome 有一个自带截图工具非常好用。

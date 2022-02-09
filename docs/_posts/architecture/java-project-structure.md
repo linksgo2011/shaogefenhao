@@ -1,9 +1,10 @@
 ---
 title: Java web project 概览
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/java-project-structure/
 ---
 
   1. Java 基础重点回顾

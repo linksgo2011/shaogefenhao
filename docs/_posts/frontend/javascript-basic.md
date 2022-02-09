@@ -2,9 +2,10 @@
 title: js创建对象的最佳实践
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 前端工程
 sidebar: auto
+permalink: /frontend/javascript-basic/
 ---
 
 ## 工厂方式

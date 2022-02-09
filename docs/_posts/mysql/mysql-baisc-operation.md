@@ -2,9 +2,10 @@
 title: Mysql 基本管理命令
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysql-baisc-operation/
 ---
 
 一、从命令行登录MySQL数据库服务器 1、登录使用默认3306端口的MySQL

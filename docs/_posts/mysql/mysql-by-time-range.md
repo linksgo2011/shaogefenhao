@@ -1,9 +1,10 @@
 ---
 title: MySQL 根据时间段获取数据
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - mysql
 sidebar: auto
+permalink: /mysql/mysql-by-time-range/
 ---
 
 时间格式为2008-06-16 

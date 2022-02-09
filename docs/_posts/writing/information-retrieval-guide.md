@@ -2,9 +2,10 @@
 title: 信息检索指南
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 写作
 sidebar: auto
+permalink: /writing/information-retrieval-guide/
 ---
 
 互联网和搜索引擎的出现，让现代人对信息的获取变得极其容易。但是，每个人的信息检索能力差异明显，甚至有人提出了 “搜商” 这个词来评价一个人搜索信息的能力。

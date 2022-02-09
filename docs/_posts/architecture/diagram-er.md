@@ -2,9 +2,10 @@
 title: E-R 图
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/diagram-er/
 ---
 
 实体-联系图(Entity-Relation Diagram)用来建立数据模型,在数据库系统概论中属于概念设计阶段，形成一个独立于机器，独立于DBMS的ER图模型。 通常将它简称为ER图，相应地可把用ER图描绘的数据模型称为ER模型。ER图提供了表示实体（即数据对象）、属性和联系的方法，用来描述现实世界的概念模型。

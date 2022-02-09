@@ -5,9 +5,10 @@ recommend: true
 keyword: DDD,软件架构
 description: 良好的组织代码的关键不是将方法划得足够小，而是对象各司其职。
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/separation-of-applications-and-services/
 ---
 
 **良好组织代码的关键不是将方法划得足够小，而是对象各司其职。**

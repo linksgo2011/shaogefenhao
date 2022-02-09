@@ -2,9 +2,10 @@
 title: React学习体系
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - React
 sidebar: auto
+permalink: /react/react-crouse-map/
 ---
 
 ## 参考的几家课程体系：

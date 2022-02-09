@@ -2,9 +2,10 @@
 title: 【转载】内网穿透组件 lanproxy
 from: http://www.kailing.pub/article/index/arcid/209.html
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 开源组件
 sidebar: auto
+permalink: /tech-components/lanproxy/
 ---
 
 **前言碎语**

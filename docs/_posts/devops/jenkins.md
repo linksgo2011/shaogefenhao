@@ -2,9 +2,10 @@
 title: Jenkins
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 运维开发
 sidebar: auto
+permalink: /devops/jenkins/
 ---
 
 Jenkins 安装可以 Docker 非常容易的安装，需要注意安装后升级 Jenkins，才能使用很多插件，以及安装一些必要的插件。

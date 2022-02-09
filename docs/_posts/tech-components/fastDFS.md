@@ -1,9 +1,10 @@
 ---
 title: FastDFS 分布式文件系统方案
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 开源组件
 sidebar: auto
+permalink: /tech-components/fastDFS/
 ---
 
 ## 简介

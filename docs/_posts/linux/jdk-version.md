@@ -2,9 +2,10 @@
 title: linux 使用 alternatives 切换Java版本
 from: self
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - linux
 sidebar: auto
+permalink: /linux/jdk-version/
 ---
 
 lternatives与update-alternatives好像是同一样工具（各个linux发行版使用的不一样）

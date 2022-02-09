@@ -2,9 +2,10 @@
 title: 如何交付一场满意的工作坊
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 培训技巧
 sidebar: auto
+permalink: /training/how-to-delivery-a-workshop/
 ---
 
 ## 有价值的地方

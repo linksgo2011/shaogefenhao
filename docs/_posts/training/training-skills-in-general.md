@@ -2,9 +2,10 @@
 title: 通用培训技巧和方法
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 培训技巧
 sidebar: auto
+permalink: /training/training-skills-in-general/
 ---
 
 ## 课程设计

@@ -5,6 +5,7 @@ sidebar: auto
 categories: 
   - 思维和方法论
 date: 2022-01-23 18:59:08
+permalink: /thinking/design-by-contract/
 ---
 
 > 摘要：

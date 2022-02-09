@@ -2,9 +2,10 @@
 title: Swarm
 toc: true
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - docker
 sidebar: auto
+permalink: /docker/swarm/
 ---
 
 Docker 官方容器编排工具。

@@ -3,9 +3,10 @@ title: 道家的世界观
 toc: true
 recommend: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 思维和方法论
 sidebar: auto
+permalink: /thinking/dao-thinking/
 ---
 
 

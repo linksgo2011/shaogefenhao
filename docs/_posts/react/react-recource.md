@@ -1,9 +1,10 @@
 ---
 title: React 资源收集
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - React
 sidebar: auto
+permalink: /react/react-recource/
 ---
 
 React js 后端界面

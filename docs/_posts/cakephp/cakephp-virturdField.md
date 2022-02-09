@@ -1,9 +1,10 @@
 ---
 title: PHP 虚拟字段
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - cakephp
 sidebar: auto
+permalink: /cakephp/cakephp-virturdField/
 ---
 
 原理就是使用数据库的方法处理出来一个查询结果，然后使用一个别名、

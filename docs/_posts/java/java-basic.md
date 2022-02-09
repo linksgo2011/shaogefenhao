@@ -3,9 +3,9 @@ title: Java 基础
 toc: true
 from: https://www.tutorialspoint.com/java/index.htm
 date: 2021-08-11 19:18:36
-categories:
-  java 基础
+categories: java 基础
 sidebar: auto
+permalink: /java/java-basic/
 ---
 
 ## Java 背景

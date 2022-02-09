@@ -3,9 +3,10 @@ title: 转发到一个页面，用于维护或者单页应用
 toc: true
 from: https://www.cnblogs.com/javafucker/p/9232433.html
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Nginx
 sidebar: auto
+permalink: /nginx/nginx-rewrite-one-page/
 ---
 
 ## 配置文件

@@ -2,9 +2,10 @@
 title: 导出到 Excel
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - 技术方案
 sidebar: auto
+permalink: /solution/java-excel-export/
 ---
 
 ## 使用 hutool 工具类导出

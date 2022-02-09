@@ -2,9 +2,10 @@
 title: 【翻译】单体优先的架构策略
 author: Martin Fowler
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - 架构
 sidebar: auto
+permalink: /architecture/micro-service-monolith-first/
 ---
 
 

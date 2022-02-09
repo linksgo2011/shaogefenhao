@@ -1,9 +1,10 @@
 ---
 title: C++ linux服务器编程
 date: 2021-08-11 19:18:35
-categories:
+categories: 
   - C++
 sidebar: auto
+permalink: /c&c++/c++-linux/
 ---
 
 

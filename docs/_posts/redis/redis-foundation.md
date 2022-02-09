@@ -2,9 +2,10 @@
 title: Redis 基础
 toc: true
 date: 2021-08-11 19:18:36
-categories:
+categories: 
   - Redis
 sidebar: auto
+permalink: /redis/redis-foundation/
 ---
 
 官网: https://redis.io/ 
