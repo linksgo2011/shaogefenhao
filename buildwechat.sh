@@ -1,5 +1,5 @@
-folder=03.团队/01.敏捷团队
-fileName=15.requirement-review
+folder=收集的文章
+fileName=method-parameter-problem
 imageHost=https://raw.githubusercontent.com/linksgo2011/shaogefenhao/main/docs/$folder/
 rm -rf build
 mkdir build
