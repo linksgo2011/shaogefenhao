@@ -1,10 +1,11 @@
 ---
 title: 作业总结 | 达克效应的局限性练习
 toc: true
-categories:
+categories: 
   - 高认知软件工程星球
 sidebar: auto
 date: 2022-02-12 07:22:00
+permalink: /renzhi/20220212-the-limitations-of-the-darke-effect/
 ---
 
 # 作业总结 | 达克效应的局限性练习

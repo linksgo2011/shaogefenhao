@@ -1,10 +1,11 @@
 ---
 title: 问答 | 如何训练自己的认知能力？
 toc: true
-categories:
+categories: 
   - 高认知软件工程星球
 sidebar: auto
 date: 2022-02-13 07:50:20
+permalink: /renzhi/20220213-how-to-practise-renzhi/
 ---
 
 ## 如何训练自己的认知能力？

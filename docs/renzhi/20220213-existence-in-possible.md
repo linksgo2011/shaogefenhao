@@ -1,10 +1,11 @@
 ---
 title: 作业 | 存在即合理练习
 toc: true
-categories:
+categories: 
   - 高认知软件工程星球
 sidebar: auto
 date: 2022-02-13 07:50:20
+permalink: /renzhi/20220213-existence-in-possible/
 ---
 
 # 存在即合理练习

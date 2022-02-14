@@ -1,10 +1,11 @@
 ---
-title: 分享 | 写作提升认知能力的生理学基础 
+title: 分享 | 写作提升认知能力的生理学基础
 toc: true
-categories:
+categories: 
   - 高认知软件工程星球
 sidebar: auto
 date: 2022-02-11 07:30:51
+permalink: /renzhi/20220211-why-writing--is-important/
 ---
 
 # 写作提升认知能力的生理学基础 | 已附相关学术材料
