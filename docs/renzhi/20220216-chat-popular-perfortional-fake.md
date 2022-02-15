@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-14 17:13:16
+permalink: /renzhi/20220216-chat-popular-perfortional-fake/
 ---
 
 这段对话主要的价值是如何分辨各种书籍、理论。一般来说知识有这么几种，按照质量排序如下：

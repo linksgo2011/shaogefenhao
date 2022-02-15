@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-15 07:10:31
+permalink: /renzhi/20220215-how-to-improve-renzhi/
 ---
 
 在 IT 行业谋生并不轻松，无数混乱的事让人应接不暇。

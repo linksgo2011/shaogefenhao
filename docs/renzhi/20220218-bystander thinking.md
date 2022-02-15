@@ -4,7 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
-
+date: 2022-02-15 08:14:07
+permalink: /renzhi/20220218-bystander thinking/
 ---
 
 Amy：跳出自己看自己。。 我为什么会这么想？ 我得出这个结论的逻辑是什么。
