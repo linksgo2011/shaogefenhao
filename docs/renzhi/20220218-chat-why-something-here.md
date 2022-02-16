@@ -1,5 +1,5 @@
 ---
-title: 对话 | 为什么有些事物会出现
+title: 对话 | 事物出现的历史背景
 toc: true
 categories: 
   - 高认知软件工程星球
