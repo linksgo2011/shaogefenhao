@@ -1,5 +1,5 @@
-folder=收集的文章
-fileName=method-parameter-problem
+folder=renzhi
+fileName=20220215-how-to-improve-renzhi
 imageHost=https://raw.githubusercontent.com/linksgo2011/shaogefenhao/main/docs/$folder/
 rm -rf build
 mkdir build
