@@ -1,10 +1,9 @@
 ---
-title: 对话 | 事物出现的历史背景
+title: 对话 | 怎么理解一些事物的出现
 toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
-permalink: /renzhi/20220218-chat-why-something-here/
 date: 2022-02-15 08:37:22
 ---
 
