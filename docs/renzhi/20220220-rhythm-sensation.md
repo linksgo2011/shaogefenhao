@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-16 21:44:07
+permalink: /renzhi/20220220-rhythm-sensation/
 ---
 
 其实不必专门关注这个“认知”这个话题，专门腾出来时间学习它，只是轻松当做一个日常的一种习惯思考就行，把主要的时间专注在主业上。

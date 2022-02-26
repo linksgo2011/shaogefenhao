@@ -4,8 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
-
-
+date: 2022-02-22 00:10:05
+permalink: /renzhi/20220225-ho-to-understand-oo/
 ---
 
 对象的英文单词叫做 （Object），面向对象的中，谁面向对象呢？

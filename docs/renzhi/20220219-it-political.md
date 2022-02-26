@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-16 21:09:49
+permalink: /renzhi/20220219-it-political/
 ---
 
 所有的团队都有矛盾，几乎没有见过没有矛盾的团队。

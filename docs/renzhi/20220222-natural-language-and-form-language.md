@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-17 07:29:47
+permalink: /renzhi/20220222-natural-language-and-form-language/
 ---
 
 自然语言（Natural Language）就是人类讲的语言，它是自然人类发展中自然形成的，比如汉语、英语。

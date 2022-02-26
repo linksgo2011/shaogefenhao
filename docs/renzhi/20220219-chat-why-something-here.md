@@ -5,6 +5,7 @@ categories:
   - 高认知软件工程星球
 sidebar: auto
 date: 2022-02-15 08:37:22
+permalink: /renzhi/20220219-chat-why-something-here/
 ---
 
 下面对话根据认知群整理，描述了为什么前端出现了各种实践，比如微前端背后的逻辑。

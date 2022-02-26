@@ -4,7 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
-
+date: 2022-02-21 23:23:44
+permalink: /renzhi/20220224-why-add-salary/
 ---
 
 工作是一种契约，是员工为企业服务换取报酬的方式。

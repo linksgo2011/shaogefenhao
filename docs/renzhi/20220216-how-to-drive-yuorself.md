@@ -4,8 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
-
-
+date: 2022-02-16 21:05:23
+permalink: /renzhi/20220216-how-to-drive-yuorself/
 ---
 
 如果不能随心驱动自己，就无法随心驱动团队。

@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-19 23:36:43
+permalink: /renzhi/20220223-analyze-the-business-through-money/
 ---
 
 来自群里一段对话整理。

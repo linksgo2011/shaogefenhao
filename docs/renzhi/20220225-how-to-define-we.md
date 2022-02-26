@@ -1,9 +1,11 @@
 ---
-title: 分享 | 回答什么是 "我们" 就能明白政治
+title: 分享 | 回答什么是 \我们\ 就能明白政治
 toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-24 22:43:33
+permalink: /renzhi/20220225-how-to-define-we/
 ---
 
 根据这几天的新闻，分享一个热点 political 话题。

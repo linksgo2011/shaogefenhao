@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-22 00:32:40
+permalink: /renzhi/20220228-decompose-tasking/
 ---
 
 复杂的东西是简单的东西组成的，理解复杂就想要理解简单，然后组合。

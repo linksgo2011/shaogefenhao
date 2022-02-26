@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-22 00:19:48
+permalink: /renzhi/20220227-social-cause/
 ---
 
 社会是人类动机推动的，人类的动机只有一个：繁衍下去。

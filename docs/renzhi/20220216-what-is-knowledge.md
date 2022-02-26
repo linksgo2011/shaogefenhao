@@ -4,6 +4,8 @@ toc: true
 categories: 
   - 高认知软件工程星球
 sidebar: auto
+date: 2022-02-16 07:46:14
+permalink: /renzhi/20220216-what-is-knowledge/
 ---
 
 Vue 出 3 了，Spring 又更新了版本。网上一大票程序员叫学不动了，求不要再发布新版本了。
