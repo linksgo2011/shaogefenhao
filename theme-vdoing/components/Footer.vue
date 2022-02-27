@@ -26,6 +26,12 @@
       <span
         v-html="footer.copyrightInfo"
       ></span>
+
+      <a
+              href="https://beian.miit.gov.cn/"
+              target="_blank"
+              title="蜀ICP备15002811号-3"
+      >蜀ICP备15002811号-3</a>
     </template>
   </div>
 </template>
