@@ -2,12 +2,12 @@ const nav = require('./config/nav.js');
 const base = require('../../base.js');
 
 module.exports = {
-    title: "shaogefenhao.com",
+    title: "少个分号",
     description: '少个分号的知识库',
     base,
     head: [
         ['link', {rel: 'icon', href: '/img/favicon.ico'}],
-        ['meta', {name: 'keywords', content: 'ddd,建模,单元测试,敏捷团队'}],
+        ['meta', {name: 'keywords', content: '少个分号,高认知软件工程,DDD,领域驱动设计,敏捷,研发自测,敏捷团队'}],
         ['meta', {name: 'theme-color', content: '#11a8cd'}],
     ],
     markdown: {
