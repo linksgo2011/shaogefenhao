@@ -1,5 +1,5 @@
 ---
-title: 分享 | 如何看待面子
+title: 分享 | 对待面子的模型
 toc: true
 categories: 
   - 高认知软件工程星球

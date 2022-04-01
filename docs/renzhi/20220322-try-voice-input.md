@@ -1,5 +1,5 @@
 ---
-title: 分享 | 练习使用语音写作
+title: 分享 | 语音写作的好处
 toc: true
 categories: 
   - 高认知软件工程星球
